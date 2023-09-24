@@ -1,0 +1,131 @@
+1 - CC echo
+2 - SI echo
+3 - LF echo
+4 - SH echo
+5 - UW echo
+6 - SB echo
+7 - CC pearl
+8 - Unused
+9 - Unused
+10 - LF pearl 1
+11 - LF pearl 2
+12 - HI pearl
+13 - SH pearl
+14 - DS pearl
+15 - Filtration pearl
+16 - GW pearl
+17 - SL pearl 1
+18 - SL(LTTM) pearl
+19 - Gifted moon neuron for the first time while under 5 neurons(?)
+20 - SI pearl 1
+21 - SI pearl 2
+22 - SI pearl 3
+23 - SI pearl 4
+24 - SI pearl 5
+25 - Karma flower desc
+26 - Blue fruit desc
+27 - Flashfruit desc
+28 - Vulture mask desc
+29 - Spore puff desc
+30 - Jellyfish desc
+31 - Lantern desc
+32 - Mushroom desc
+33 - Firecracker desc
+34 - Slime mold desc
+35 - First convo 4 neurons left
+36 - Unused
+37 - Moon first convo piece
+38 - All white pearl dialogue
+39 - "Test A Test B Test C"
+40 - Moon reading pebbles pearls
+41 - SU pearl
+42 - UW pearl
+43 - SB pearl
+44 - Scavenger bomb
+45 - Gifted moon neuron for first time while at 5 neurons
+46 - Pebbles hunter dialogue with green neuron 1
+47 - Pebbles hunter dialogue without green neuron
+48 - Pebbles monk dialogue
+49 - Moon first meeting with monk
+50 - Moon first meeting with hunter
+51 - Hunter pearl
+52 - Overseer eye desc
+53 - Bubble grass desc
+54 - SL pearl 2
+55 - Moon second meeting with hunter
+56 - Pebbles dialogue when giving hunter extra cycles (This is skipped if extra cycles are turned on in remix)
+57 - Pebbles hunter dialogue with green neuron 2
+
+msc text
+98 - Inv pebbles dialogue
+99 - Unused
+100 - Spearmaster pearl
+101 - Outskirts OE pearl
+102 - MS pearl
+103 - LC pearl 1
+104 - OE pearl
+105 - GW pearl 2
+106 - Pebbles music pearl
+107 - LC echo
+108 - UG echo
+109 - SL echo
+110 - Rarefaction Cell desc
+111 - CL echo
+112 - Electric Spear desc
+113 - Inspector Eye desc
+114 - Geoduck desc
+115 - MS echo
+116 - inv egg? desc
+117 - Lilypuck desc
+118 - Glow Weed desc
+119 - rivulet pearl
+120 - Pebbles song pearl (picking up in RM)
+121 - LC pearl 2
+122 - Sky peach desc
+123 - Moon cloak desc
+124 - Moon chat with rivulet post cell being taken
+125 - Moon chat with rivulet post cell being taken if first visit
+126 - Moon first chat with rivulet 
+127 - Singularity Bomb desc
+128 - VS pearl
+129 - Blank pearl
+130 - Neuron text
+131 - Gourd pebbles dialogue
+132 - Broadcast misc pearls
+133 - Saint ending dialogue 1
+134 - Saint ending dialogue 2
+135 - Saint ending dialogue 3
+136 - Elite Scavenger mask desc
+137 - King Scavenger mask desc
+138 - Spearmaster moon visit (pearl in stomach)
+139 - Spearmaster moon visit (pearl removed)
+140 - Spearmaster pearl reading by pebbles
+141 - Pebbles reaction to SM pearl
+142 - Moon reaction to SM pearl
+143 - Pebbles meeting artificer
+144 - Rivulet first visit with pebbles
+145 - Rivulet meeting with pebbles having taken rarefaction cell before meeting
+146 - Rivulet meeting pebbles 2
+147 - Rivulet meeting pebbles without having taken rarefaction cell before meeting
+148 - wet mouse
+149 - land fish
+150 - Pebbles instructions to rivulet
+151 - wet mouse 2
+152 - land fish 2
+153 - rivulet post ending talk with pebbles
+154 - rivulet ending talk with moon
+155 - message from pebbles to moon
+156 - rivulet ending talk 2
+157 - rivulet post ending talk with moon
+158 - giving neuron to moon
+159 - giving neuron to moon as rivulet
+160 - moon talk with saint (echo)
+161 - moon talk with saint
+162 - beta dialogue for moon talk with saint
+163 - beta dialogue for moon talk with saint alt
+164 - Void egg desc
+165 - LC echo post arti ending
+166 - Spearmaster needle desc
+167 - Seed desc
+168 - Pebbles pearl dialogue
+169 - Overseer eye desc

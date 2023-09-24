@@ -1,0 +1,6 @@
+//-- File name followed by the line which it replaces, comments and empty lines are safe to use
+
+//-- Those 3 files are placeholders for testing and should be replaced
+Moon NeuronThanks 1|You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.
+Moon NeuronThanks 2|Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!
+Moon ReactSpear|It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.

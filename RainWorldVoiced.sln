@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{48F17CFB-D4AF-4EAA-9C4E-6EB3A4081D8A}"
+	ProjectSection(SolutionItems) = preProject
+		mod\modinfo.json = mod\modinfo.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RainWorldVoiced", "src\RainWorldVoiced.csproj", "{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|x64.Build.0 = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Debug|x86.Build.0 = Debug|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|x64.ActiveCfg = Release|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|x64.Build.0 = Release|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BFFAE55-B0EF-4C23-BEE7-4CB6789FFDFE} = {48F17CFB-D4AF-4EAA-9C4E-6EB3A4081D8A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93ACA3E-93ED-4A5D-A7F3-C78F03281495}
+	EndGlobalSection
+EndGlobal
