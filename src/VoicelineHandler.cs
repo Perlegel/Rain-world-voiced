@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using UnityEngine;
@@ -16,6 +17,8 @@ public static class VoicelineHandler
     private static readonly Dictionary<string, SoundID> Sounds = new();
         
     public static bool TryGet(string text, out SoundID sound) => Sounds.TryGetValue(text, out sound);
+
+    public static bool IsOurs(SoundID sound) => Sounds.Values.Contains(sound);
 
     public static void Init()
     {

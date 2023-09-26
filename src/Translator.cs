@@ -15,6 +15,7 @@ public static class Translator
         On.InGameTranslator.TryTranslate += InGameTranslator_TryTranslate;
     }
 
+    //-- TODO: Handle <PLAYERNAME>, <CAPPLAYERNAME>, <PlayerName>, <CapPlayerName>
     public static string Untranslate(string text, bool defaultToSame = false) => ReverseTranslations.TryGetValue(text.Replace("\r\n", "<LINE>"), out var result) ? result : defaultToSame ? text : default;
 
     private static void StoreTranslation(string from, string to) => ReverseTranslations[to] = from;

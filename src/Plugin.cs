@@ -32,7 +32,7 @@ public class Plugin : BaseUnityPlugin
             if (IsInit) return;
             IsInit = true;
 
-            DialogHandler.Init();
+            DialogueHandler.Init();
             Translator.Init();
             VoicelineHandler.Init();
         }
