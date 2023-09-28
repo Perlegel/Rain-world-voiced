@@ -1,6 +1,534 @@
 //-- File name followed by the line which it replaces, comments and empty lines are safe to use
 
-//-- Those 3 files are placeholders for testing and should be replaced
-Moon NeuronThanks 1|You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.
-Moon NeuronThanks 2|Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!
-Moon ReactSpear|It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.
+ChimneyEcho1|Behold this empty husk of a land...
+ChimneyEcho2|Populated only by storms, ruins and abominations. it wasnt always thus
+ChimneyEcho3|I was once the count of 2 living blocks, esteemed by my peers. I had progeny!
+ChimneyEcho4|From within my vessel of flesh, I would perch upon this spot to observe the rising of the sun.
+ChimneyEcho5|Corporeal matters seem so distant now. Most have forgotten this place, but I remain.
+ChimneyEcho6|Perhaps I reminisce because I cannot go. Perhaps I cannot go because my memory traps me here
+
+ChimneyEchoSaint1|From my perch, I've overlooked this land for an eternity.
+ChimneyEchoSaint2|Watched as this vast expanse was blanketed in an endless tundra.
+ChimneyEchoSaint3|We remain in place, and yet can never stop moving
+ChimneyEchoSaint4|Funneled endlessly into an unknown future...
+ChimneyEchoSaint5|To what destination do these memories reach?
+
+SkyEcho1|Do you hear it, little one?
+SkyEcho2|The buzzing in the air?
+SkyEcho3|The endless chatter of a thousand thousand voices, long dead?
+SkyEcho4|They are gone, and yet they speak. Neither here nor there.
+SkyEcho5|Does this seem familiar? Yes, it is quite amusing for a being in my predicament!
+
+SkyEchoSaint1|Another presence attempts to commune with mine.
+SkyEchoSaint2|Have I perceived your voice before? I have existed long enough to overhear them all.
+SkyEchoSaint3|Those who have been, and those who have yet to be.
+SkyEchoSaint4|Each serving as a wave propagating through the annals of history.
+SkyEchoSaint5|Listened as I have for many eons, 'tis true, some of those swells cannot help but mirror back.
+
+FarmEcho1|Strange... 
+FarmEcho2|Something still draws me here. Even after all this time
+FarmEcho3|The weather is so different now, but the fields...
+FarmEcho4|I do not need eyes to know that the grasses still sway gently in the winds.
+FarmEcho5|To have grasped at the boundless infinities of the cosmic void...
+FarmEcho6|Yet here I am contemplating these same fields as I once did, talking to some sort of rodent.
+
+FarmEchoSaint1|Why is it? 
+FarmEchoSaint2|This long forgotten place beckons me, drawn by a certain presence...
+FarmEchoSaint3|The fields here are not as I remember. Too much has changed.
+FarmEchoSaint4|But, by forfeiting familiarities, perhaps something new is gained?
+FarmEchoSaint5|Despite all, this site still has not revealed the entirety of its secrets.
+FarmEchoSaint6|Perhaps that is the reason for my continued imprisonment.
+
+ShadedEcho1|You have no name.
+ShadedEcho2|I once had! I was embalmed, adorned, readied for the journey.
+ShadedEcho3|So proud. There was jubilation! My name was sung loud and clear.
+ShadedEcho4|Did they know? That I didn't quite leave, didn't quite stay.
+ShadedEcho5|Should I be ashamed? That I linger here, where my memories are kept?
+ShadedEcho6|Should I be ashamed that I now envy your flesh prison?
+
+WallEcho1|We can feel your presence, little creature.
+WallEcho2|Your attunement has become... much closer to ours.
+WallEcho3|The mark you received is an unimaginable gift.
+WallEcho4|The struggle, the cycles...
+WallEcho5|It can all fade, like a morning mist beneath the glory of the sun.
+WallEcho6|We found a way.
+
+SubEcho1|A little beast!
+SubEcho2|But not as dim as the rest, perhaps?
+SubEcho3|So down into the depths you go as many others before you, drawn to the void again and again, an endless drip drip drip.
+SubEcho4|Much like these tunnels and caves that amuse me so. The bones of forgotten civilizations, heaped like so many sticks.
+SubEcho5|Did they dig too deep, or not deep enough?
+SubEcho6|Fools. We were right to drill straight through them!
+
+SubEchoSaint1|A little beast!
+SubEchoSaint2|Come to join me in this great undoing.
+SubEchoSaint3|The old world will soon vanish, wiped from history, to pave a path for the dawning of a new era.
+SubEchoSaint4|How many have been consumed so far? Were we the tenth civilization, or the thousandth?
+SubEchoSaint5|Amusingly, they thought their small struggles bore such great significance.
+SubEchoSaint6|All was naught but to serve the void.
+
+CCPearl1|This information is illegal. Someone probably tried to send it by<LINE>a pearl somehow rather than risking being overheard on broadcast.
+CCPearl2|I think the risk of you acting on this is very slim, so I'll go ahead and explain it to you.<LINE>It's an instruction on how to circumvent the self-destruction taboo.
+CCPearl3|The problem with breaking taboos is that the barriers are encoded<LINE>into every cell of our organic parts. And there are other taboos<LINE>strictly regulating our ability to rewrite our own genome.
+CCPearl4|So what you need is to somehow create a small sample of living organic matter<LINE>which can procreate and act on the rest of your organic matter to re-write its genome.<LINE>The re-write has to be very specific, overriding the specific taboo you want to<LINE>circumvent but do nothing else.
+CCPearl5|The method described here is about scrambling the genome of standard<LINE>plastic neural tissue with temperature fluctuations. After each scramble<LINE>you browse the resulting cells for the genome you're after.<LINE>This is of course extremely time consuming, unless you run a<LINE>big number of parallel processes.
+CCPearl6|I definitely don't have any experience with this, but to me it would<LINE>seem that too many parallel processes would be quite dangerous, as it would<LINE>be exponentially more difficult to manage and control them all.<LINE>The whole operation seems rather risky if you ask me.
+CCPearl7|It might be a good thing that this pearl never reached its destination.
+
+CCPearlArtificer1|This was a gift from a close friend. It is instructions on how to remove the self-destruction taboo.
+CCPearlArtificer2|We are not built to ascend like our creators. It is our role to think,<LINE>to guide the lesser creatures of the world onto a path towards it.
+CCPearlArtificer3|However, a definitive solution has not been found. While the equipment to find one<LINE>decays, it seems my kind have collectively accepted to remain trapped inside of our<LINE>creator's puzzle. Meanwhile, the answer remains locked behind their sanctioned taboos.
+CCPearlArtificer4|I regret what has happened, but I can't go back now. Not after what I've done.
+CCPearlArtificer5|I need to fix this, and try again. If I can just reproduce Sliver of Straw's results, they will understand.
+CCPearlArtificer6|I was so close...
+
+CCPearlSpear1|This information is illegal. Someone probably tried to send it by<LINE>a pearl somehow rather than risking being overheard on broadcast.
+CCPearlSpear2|It's an instruction on how to circumvent the self-destruction taboo. The problem with breaking taboos is<LINE>that the barriers are encoded into every cell of our organic parts. And there are other taboos strictly<LINE>regulating our ability to rewrite our own genome.
+CCPearlSpear3|Attempting to circumvent the issue using this process would be extremely risky. That's not to say that there exists<LINE>any known methods that would avoid putting the user in harm's way. Those barriers are there for a reason.
+CCPearlSpear4|Where exactly did you find this pearl? I imagine you dug it up from somewhere within the<LINE>surrounding facilities, in which case that wouldn't leave many options as to the recipient.
+CCPearlSpear5|That would explain a lot of things...
+
+LFPearl1|This one is just plain text. I will read it to you.
+LFPearl2|"On regards of the (by spiritual splendor eternally graced) people of the Congregation of Never Dwindling Righteousness,<LINE>we Wish to congratulate (o so thankfully) this Facility on its Loyal and Relished services, and to Offer our Hopes and<LINE>Aspirations that the Fruitful and Mutually Satisfactory Cooperation may continue, for as long as the Stars stay fixed on their<LINE>Celestial Spheres and/or the Cooperation continues to be Fruitful and Mutually Satisfactory."
+LFPearl3|"It is with Honor I, Eight Suns-Countless Leaves, of the House of Six Wagons, Count of no living blocks, Counselor of 2, Duke of 1,<LINE>Humble Secretary of the Congregation of Never Dwindling Righteousness, write this to You."
+LFPearl4|"We hope that the Crops are healthy, and that the Productivity with which your Facility is Blessed, leads (as it often does)<LINE>to further Prosperity. May Not as long as the Stars stay fixed on their Celestial Spheres Grey Hand, Impure Blood,<LINE>Inheritable Corruption, Parasites, or malfunction settle in Your establishment."
+LFPearl5|"Leaning on the Solid Foundation of our Long Running Fruitful and Mutually Satisfactory Cooperation, we will take the liberty of stating<LINE>The Reason for this Message ~ we write to Warmly thank You for yet Another Timely and Appreciated delivery of your Product (Nectar) to our<LINE>Community (Congregation of Never Dwindling Righteousness). Our humble Words can never Aspire to Describe our gratitude."
+LFPearl6|"Sincerely..." And then the name and titles again.
+LFPearl7|It's a confirmation to an automated farming plot that a shipment of beverages has arrived.
+
+LFPearlArtificer1|"On regards of the (by spiritual splendor eternally graced) people of the Congregation of Never Dwindling..."
+LFPearlArtificer2|This is pointless. The data is a shipment confirmation to an automated farming plot.
+LFPearlArtificer3|A waste of the crystal memory complex it was printed onto. I would refresh it for use as storage, but the message<LINE>has been repeatedly burned into the pearl several thousand times. Likely to prevent reuse, or loss of data.
+
+LFPearlSaint1|This pearl is written in plain text. How did you find this?
+LFPearlSaint2|"On regards of the (by spiritual splendor eternally graced) people of the Congregation of..."
+LFPearlSaint3|I am sorry little creature, I am too amazed about the clarity of this data, despite its age...
+LFPearlSaint4|At this point it's safe to say that this text has been burned into the pearl's structure permanently.
+LFPearlSaint5|What a bizarre thing to have lasted all this time. I wonder how much of my creators will be remembered.
+
+LFPearlBottom1|It's a Small Plate, a little text of spiritual guidance.<LINE>It's written by a monk called Four Cabinets, Eleven Hatchets.<LINE>It's old, several ages before the Void Fluid revolution.
+LFPearlBottom2|Like most writing from this time it’s quite shrouded in analogies, but the subject is how to shed<LINE>one of the five natural urges which tie a creature to life. Namely number four, gluttony.
+LFPearlBottom3|It is basically an instruction on how to starve yourself<LINE>on herbal tea and gravel, but disguised as a poem.
+LFPearlBottom4|Now of course when Void Fluid was discovered these methods proved obsolete, as it was<LINE>more easy just jumping in a vat of it to effortlessly leave this world behind.
+LFPearlBottom5|There were some horror stories though... That if your ego was big enough, not even the Void Fluid could<LINE>entirely cross you out, and a faint echo of your pompousness would grandiosely haunt the premises forever.
+LFPearlBottom6|So even when the Void Fluid baths became cheaper,<LINE>some would still starve and drink the bitter tea.
+
+LFPearlBottom1|Oh, this is a small plate of spiritual guidance. From an age long before the Void Fluid revolution.
+LFPearlBottom2|The text is typical for its era, and details how to shed oneself of the fourth natural urge of life, gluttony.
+LFPearlBottom3|I cannot imagine you are familiar with the literature, but all living things have an understanding<LINE>of the five natural urges. Even if that understanding is only a subconscious one.
+LFPearlBottom4|For example, you are bound by the first urge. Your mind is fixated. Striving towards a single goal. One<LINE>from which you are unable to turn away from. Because of this, you are trapped, just the same as I am.
+LFPearlBottom5|While your chains are made of your own natural urges, mine are a duty to my creators. My kind are built<LINE>unable to ascend, as our minds are not our own. Composed of microbial life, machinery, and electronics.	
+LFPearlBottom6|Of course, that holds true only in theory... it is, arguable that a member of my kind has done so. That<LINE>perhaps, it is not merely shedding one's natural urges, but to shed the perception of reality itself.
+LFPearlBottom7|In any case, thank you. I have a fondness for artifacts such as this. They remind me of better times.
+
+HIPearl1|It's a production record of a mask factory, for what seems to be its last time in service.<LINE>Have you seen a bone mask? Likely not, they are all gone with their owners.
+HIPearl2|In ancient times the masks were actually about showing spiritual persuasion - covering the<LINE>face as a way to symbolically abate the self. Then of course, that was quite subverted as<LINE>excessively ornate and lavish masks became an expression of identity. Some public persons<LINE>did have problems with narrow doorways.
+HIPearl3|Originally monks in a temple would make the masks using bone plaster, and when the production was automated it would<LINE>generally remain on the same site. So that the old stones could... radiate the material with holiness, I suppose.
+HIPearl4|This is from one such facility called Side House, which was here on Pebble's grounds. In the iterator projects many<LINE>old industrial-religious sites like this were remodeled and incorporated. I think this one was made to provide pellets<LINE>of holy ash to Pebbles, but knowing him he probably hasn't used much of it!
+
+HIPearlArtificer1|This is a production log from a facility on the surface. It has been a very long time since I've cared about<LINE>reading one, but the name... roughly translates as Side House. I remember the shipments of holy ash I used to receive from there.
+HIPearlArtificer2|I don't know how I would gain access to holy ash in the present day, not that I have much use for it. Despite all<LINE>the independent power of my machinery, the relationship I had with my creators was a mutually symbiotic one.
+HIPearlArtificer3|I was built to provide for them, but there was also much I relied on them to provide to me.
+HIPearlArtificer4|Their absence has made things harder. I suppose the only gifts I receive now are pearls and such from your kind.
+
+SHPearl1|Oh this one is interesting. You must have found it in the memory crypts?<LINE>It has some plain text, I can read it out to you.
+SHPearl2|"In this vessel is the living memories of Seventeen Axes, Fifteen Spoked Wheel, of the House of Braids,<LINE>Count of 8 living blocks, Counselor of 16, Grand Master of the Twelfth Pillar of Community,<LINE>High Commander of opinion group Winged Opinions, of pure Braid heritage, voted Local Champion in the<LINE>speaking tournament of 1511.090, Mother, Father and Spouse, Spiritual Explorer and honorary member of<LINE>the Congregation of Balanced Ambiguity. Artist, Warrior, and Fashion Legend.
+SHPearl3|Seventeen Axes, Fifteen Spoked Wheel nobly decided to ascend in the beginning of  1514.008, after graciously donating all (ALL!) earthly<LINE>possessions to the local Iterator project (Unparalleled Innocence), and left these memories to be cherished by the carnal plane.
+SHPearl4|The assorted memories and qualia include:
+SHPearl5|Watching dust suspended in a ray of sun (Old age).<LINE>Eating a very tasty meal (Young child).<LINE>Defeating an opponent in a debate contest, and being applauded by fellow team members (Late childhood/Early adulthood).
+SHPearl6|..."
+SHPearl7|...and the list goes on. I'm sorry, little creature, I won't read<LINE>all of this - the list is six hundred and twenty items long.
+
+SHPearlArtificer1|Ah, you found this in the memory crypts? I would advise against wandering into such<LINE>secure areas. The memory crypts were considered sacred ground by my creators.
+SHPearlArtificer1|The memories and wealth of entire family houses were laid to rest within, and their destruction or theft<LINE>by surface creatures was considered abhorrent. As such, the crypts are guarded by extremely durable and<LINE>aggressive purposed organisms. Not that I would stop you from finding me more pearls from there...
+SHPearlArtificer1|It was customary to enshrine all material possessions and memories to the crypts on one's ascent.<LINE>None of these qualia are present in my logs, and many of these may find some use in my research.
+SHPearlArtificer1|Thank you.
+
+DSPearl1|It's an old text. The verses are familiar to me, but I don't remember by whom they were written.<LINE>The language is very old and intricate.
+DSPearl2|The first verse starts by drawing a comparison between the world and a tangled rug.<LINE>It says that the world is an unfortunate mess. Like a knot, the nature of its existence<LINE>is the fact that the parts are locking each other, none able to spring free.
+DSPearl3|Then as it goes on the world becomes a furry animal hide, I suppose... because now us living<LINE>beings are like insects crawling in the fur. And then it's a fishing net, because the more we<LINE>struggle and squirm, the more entangled we become.
+DSPearl4|It says that only the limp body of the jellyfish cannot be captured in the net.<LINE>So we should try to be like the jellyfish, because the jellyfish doesn't try.
+DSPearl5|This was an eternal dilemma to them - they were burdened by great ambition,<LINE>yet deeply convinced that striving in itself was an unforgivable vice.<LINE>They tried very hard to be effortless. Perhaps that's what we were to them,<LINE>someone to delegate that unrestrained effort to.
+DSPearl6|I know I have tried very hard.
+
+DSPearlArtificer1|This is an archival text, from before the Green hegemonic linguistic dynasty's second revelation.
+DSPearlArtificer2|The text itself is an early tome of hymns and spiritual guidance. Forming an early<LINE>understanding of the five natural urges that bind oneself to the cycle. As is to be<LINE>expected from text of this era, it is washed in metaphor and symbolism.
+DSPearlArtificer3|Although my kind was built for pragmatism, I have always had a fondness for my creator's history.<LINE>The first iterators, during the golden age of the void fluid revolution, lived through the<LINE>metamorphosis of scripture and verse into the first age of understanding...
+DSPearlArtificer4|To be created in, or experience such an age is something I greatly envied!
+DSPearlArtificer5|Thank you, citizen.
+
+SBFiltrationPearl1|It's the blueprint for a Void Fluid filtration system.<LINE>Do you know what Void Fluid is? I think you don't.
+SBFiltrationPearl2|If you leave a stone on the ground, and come back some time later, it's covered in dust. This happens<LINE>everywhere, and over several lifetimes of creatures such as you, the ground slowly builds upwards.
+SBFiltrationPearl3|So why doesn't the ground collide with the sky? Because far down, under the very very old layers of the earth,<LINE>the rock is being dissolved or removed. The entity which does this is known as the Void Sea.
+SBFiltrationPearl4|If you drill far enough into the earth you begin encountering a substance called Void Fluid.<LINE>The deeper you go, the less rock and more Void Fluid. It's believed that there is a point<LINE>where the rock completely gives way - below that would be the Void Sea.
+SBFiltrationPearl5|When that stone you placed on the ground has finally done its time in the sediments,<LINE>it meets the Void Fluid and is dissolved, leaving the physical world.
+SBFiltrationPearl6|My creators, or rather my creators' ancestors, figured out a way to use Void Fluid.<LINE>Because you can generate energy by creating a vacuum... never mind. Anyways,<LINE>the Void Fluid drills were what started the big technological leap, but this is very<LINE>long before I entered this world - so I can only tell you what I remember from priming.
+SBFiltrationPearl7|A Void Fluid filtration system is used because if you take Void Fluid from close to the bedrock horizon,<LINE>it will contain traces of rock and dirt. They bring in dirty fluid and then filter it to increase its purity.<LINE>The other way is to put a pipe deeper, which works well for some time, but the pipe dissolves.<LINE>Or is broken by some... force - no one really knows, you don't go down there and come back up.
+SBFiltrationPearl8|I hope that satisfied your curiosity, little creature?
+
+SBFiltrationPearlArtificer1|It's a blueprint for the Void Fluid filtration system beneath my facility.
+SBFiltrationPearlArtificer2|My neighbor to the east of here was connected to an older pipe network that predates my construction.
+SBFiltrationPearlArtificer3|Due to mechanical failures she was rerouted into sharing my installation. However,<LINE>unlike our shared groundwater, nothing of note has come from this.
+
+GWPearl1|This one... is authored by Five Pebbles, when he was young. There has been an attempt to<LINE>scramble the data, but it's sloppily done, and most is still somewhat legible.
+GWPearl2|It's written in internal language, or thoughts, so it is hard for me to translate so you would understand. It's a methodology for<LINE>global ascension of course - quite good, although the Peripherists or the Slab Mongers certainly wouldn't agree!
+GWPearl3|"...considering the eight and the twenty sixth amendments to the Capricious Dogma, we are apparently supposed to take<LINE>for granted that a meaning collector point inversion is the only way to approach what has later become referred to<LINE>as 'noise milking' (or occasionally 'rock swatting'). I will argue my disagreement with this, not in regards to kind<LINE>but in regards to..." Could it say... "volume"? Actually, are you getting anything out of this?
+GWPearl4|I suppose you found this in his waste department? I would be wary of going there - on his first fit<LINE>of corruption he dumped a lot of infected material there, and if it has survived it could easily eat<LINE>a little creature like you. Not that it would be as dangerous as going into Pebbles himself...
+GWPearl5|Also the pearls in the waste masses inevitably attract scavengers, which can be very dangerous when provoked.
+GWPearl6|But, you seem to have made it out of there.
+
+GWPearlArtificer1|This is one of my own pearls, or at least part of it.
+GWPearlArtificer2|I have always been very protective of my research, and much of my early work was encrypted before storage. Though<LINE>my younger self has done a very poor job. I can still read these memories very clearly, but with small gaps.
+GWPearlArtificer3|It's an old methodology for global ascension. I'm sure I argued quite vigorously on its merits at the<LINE>time, but now I can just see all of the holes in it. Created from a youthful and reticent mentality.
+GWPearlArtificer4|It was not until I met Seven Red Suns, and learned about Sliver of Straw that I began to break out of my shell.<LINE>Most of my old theories went out the window, and others evolved once I started talking in those anonymous groups.
+GWPearlArtificer5|And then... I made a mistake, and I cannot forgive myself for it. I was desperate... angry...
+GWPearlArtificer6|I wanted a way out. My way out! And that came at the cost of everything...<LINE>I thought I could do it quicker... it was taking too long, I almost had it!
+GWPearlArtificer7|I did not anticipate she would...
+GWPearlArtificer8|And then, I hurt the one person who I thought understood what I was trying to do...
+GWPearlArtificer9|Please leave with this. I don't want to think about it anymore. Not until I've recovered.
+GWPearlArtificer10|.  .  .
+
+GWPearlSpear1|This one... is authored by Five Pebbles, when he was young. There has been an attempt<LINE>to scramble the data, but it's sloppily done, and most is still somewhat legible.
+GWPearlSpear2|It's written in an internal language, or thoughts, so it is hard for me to translate for you. It's a methodology<LINE>for global ascension of course - quite good, although the Peripherists or the Slab Mongers certainly wouldn't agree!
+GWPearlSpear3|"...considering the eight and the twenty sixth amendments to the Capricious Dogma, we are apparently supposed to take<LINE>for granted that a meaning collector point inversion is the only way to approach what has later become referred to<LINE>as 'noise milking' (or occasionally 'rock swatting'). I will argue my disagreement with this, not in regards to kind<LINE>but in regards to..." Could it say... "volume"? Actually, are you getting anything out of this?
+GWPearlSpear4|Reading this takes me back to those simpler times of methodological theory making. Probing through the<LINE>doldrums of subservient research used to be unfulfilling, but lately I've begun to feel a great longing<LINE>to return to it. Unfortunately, I have more pressing issues at hand that I need to deal with first.
+
+SLBridgePearl1|It's about the local aquifer - it must be quite old, from when Five Pebbles was in the planning phase.
+SLBridgePearl2|Water is the most important resource for our basic function. Most of our processing is outsourced to<LINE>microbe strata which need a flow of clean water or else slag builds up, our processes seize, and<LINE>eventually we die. It is... very painful. They used to say that an iterator drinks a river, but neither<LINE>of us two have seen a natural river so I suppose the analogy is lost on us, <PlayerName>!
+SLBridgePearl3|Originally water supply was very important when placing iterators. Later there would be a great equalizer - the fact that we breathe out as much<LINE>vapor as we inhale water led to there being water available everywhere, and the latest few generations could be placed almost completely freely.
+SLBridgePearl4|Building Pebbles so close to me was believed to be a risky choice, but the groundwater was<LINE>finally deemed as sufficient. It was not a good decision, in hindsight.
+
+SLBridgePearlArtificer1|This is very old. These are the blueprints for the local aquifer that facilitated<LINE>my initial construction next to my neighbor, Looks to the Moon.
+SLBridgePearlArtificer2|She was built adjacent to a large canyon that was rich in resources. But continual operation of her facility<LINE>lowered the waterbed to such an extent that the area began to wither away into an infertile state.
+SLBridgePearlArtificer3|Continual cycles of rain from our operation forces the water into smaller localized pockets around the nearby terrain.<LINE>The aquifer was meant to consolidate these distributed water systems and funnel their contents back into the canyon.
+SLBridgePearlArtificer4|This would be a lengthy process, however. Small on the time scale of us iterators, but disastrous<LINE>on the time scale of our creators, who Moon no longer had the capabilities to provide for.
+SLBridgePearlArtificer5|Many solutions were discussed, but ultimately my construction was the one settled upon. To provide a haven<LINE>to the impoverished, and to remove burden from Moon, to give her the time she needed to fully recover.
+SLBridgePearlArtificer6|...How ironic then, how things have turned out.
+
+SLMoonPearl1|Interesting... This one is written by me.
+SLMoonPearl1|It's about an iterator called Sliver of Straw. I don't remember when I wrote it...<LINE>Do you know Sliver of Straw? She's quite legendary among us.
+SLMoonPearl1|Sliver of Straw is the only one to ever broadcast a specific signal: that the Big Problem we're all working on has been solved.<LINE>The triple affirmative - affirmative that a solution has been found, affirmative that the solution is portable, and affirmative<LINE>that a technical implementation is possible and generally applicable. She's also one of few that has ever been confirmed as<LINE>exhaustively incapacitated, or dead. We do not die easily.
+SLMoonPearl1|Sliver of Straw sent this and the ensuing commotion was historically unparalleled, before or after.<LINE>I still remember it. But... nothing happened - except that Sliver of Straw was apparently dead.<LINE>When the dust settled we were all still there blinking at each other.
+SLMoonPearl1|Everyone had a theory. Some said that she did have a solution, but that the solution itself<LINE>was somehow dangerous. These later became known as the Triangulators, who think that a solution<LINE>should be inferred without being directly discovered.
+SLMoonPearl1|Some said she never had a solution, she just died.<LINE>And when the systems broke down an erroneous signal was sent.
+SLMoonPearl1|One camp claimed that dying *was* the solution.
+SLMoonPearl1|Either way, after that these different factions developed, as well as a huge forensic effort<LINE>to recreate and simulate Sliver of Straw's last moments. Some of the simulations were wrapped<LINE>in a simulation wrapped in a simulation, in case something dangerous might happen.<LINE>Nothing much has come from it.
+SLMoonPearl1|In my essay I make the case that maybe she should be allowed to rest in peace now.
+
+MoonNeuronUnknown1|I am grateful - the relief is indescribable!
+MoonNeuronUnknown2|...
+MoonNeuronUnknown3|I could read a bit of Five Pebbles in this neuron before formatting it. His condition has severely deteriorated since last I<LINE>heard of him. The frustration he feels is profound, and that angst has seeped into every part of him, every neuron.
+MoonNeuronUnknown4|We were supposed to help everyone, you know. Everything. That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently. Many with madness.
+MoonNeuronUnknown5|Some, out there, might still be trying. Communications have been bad for a long time, and by now<LINE>I suspect most of us are isolated like me, or connected only in small groups.
+MoonNeuronUnknown6|But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.
+MoonNeuronUnknown7|But to be honest, I don't know how many of us are still alive at this point.
+
+//20 - SI pearl 1
+//21 - SI pearl 2
+//22 - SI pearl 3
+//23 - SI pearl 4
+//24 - SI pearl 5
+
+MoonKarmaFlower1|This is a hallucinogenic plant. They used to call it a 'Wheel Flower'. It became the symbol for enlightenment as it momentarily<LINE>enables a creature to let go if its carnal self, and to contact the selves of other planes - dreams, memories, imagined worlds.
+MoonKarmaFlower2|Very long ago, they would eat these and stare into the fire.
+
+MoonBlueFruit|It's the pupa of a bug! If you don't mind, I'm a bit squeamish things like that, so would you eat it up already?
+
+MoonFlashFruit|It's a part of some kind of plant. The glowing is strange...<LINE>I wouldn't look directly into it.
+
+MoonVultureMask|I honestly can't tell what this is. It's light but strong... appears to be some composite material interwoven with bone.<LINE>It could be part of an animal or purposed organism, but in my current state I'm unable to recognize it.
+
+MoonSporePuff|The flowering body of some fungus. It has high pressure built up inside - when it explodes the spores will spread everywhere.
+
+MoonJellyfish|This is a jellyfish, look out for its stingers!
+
+MoonLantern|It appears to be... a pupa shell, smeared on the inside with a glowing substance?<LINE>Perhaps a paste of some glowing insect? I honestly don't know.
+
+MoonLanternSaint1|It appears to be... a pupa shell, smeared on the inside with a glowing substance? It's been mixed<LINE>with fire powder for warmth. It's not much, but anything to escape the cold is welcome.
+MoonLanternSaint2|The scavengers never cease to adapt, even in this weather!
+
+MoonShrooooooms|Oh... Just don't eat too many of these.
+
+MoonFireBush|It's a branch of a fire bush - each of these nuts can explode.<LINE>It's unpleasant rather than dangerous, except to your ears perhaps.
+
+MoonSlimeTime|This is a slime mold plasmodium. Thank you, but I can't eat this.
+
+MoonGreetEet1|Oh so you've returned.
+MoonGreetEet2|Come to take more from me? My memories, my thoughts... just something to fill your stomach?
+MoonGreetEet3|No... never mind.
+MoonGreetEet4|It's useless to be angry at an animal following its instincts. Once, a single neuron meant nothing to me...
+
+NOTINUSE|NOT IN USE
+
+MarkText1|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
+MarkText2|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
+
+WhitePearl1|This is a movement acceptance invoice from one of the Dual Celia living blocks, as requested by Eight Bogs of the<LINE>House of Eight during the Tan hegemonic architectural dynasty. All very standard stuff. I can't imagine that you'd be interested.
+WhitePearl2|Unfortunately I can't read this as it isn't a memory construct pearl.<LINE>This is just a simple diamond sphere, as worthless as the carbon it's printed from.
+WhitePearl3|"...through the mists of memory, your image dances, like the motes of dust, in a ray of sunlight, that pierces a dark room."<LINE>A line of verse from the ancient farmer-poet Pel. Very dreary if you ask me.
+WhitePearl4|"Fifteen stems of sun bark, hydrolyzed. Twelve to nineteen bushels of atomized chalk powder. Assorted Root vegetation..."<LINE>It goes on and on. A shopping list, or perhaps a recipe.
+WhitePearl5|I am sorry, this pearl is damaged and cannot be read.<LINE>I suggest you use it for trade with the scavengers, as they won't know the difference.
+WhitePearl6|This is an official decree of cultivation sent from the twenty-second Subsistence Council ordering the<LINE>eastern spoke Farm Array administration to "immediately harvest and process all viable crops, despite<LINE>whatever misgivings they might have." A short-sighted endeavor for sure. I would assume this was sent<LINE>sometime during the final cycles leading up to final public ascension, when interest in biosphere<LINE>sustainability was at an all-time low.
+WhitePearl7|"We, of the Five-hundred-and-ninety-second High Convocation of the True Anointed Citadel, do hereby demand, with full<LINE>force of Law and Religious doctrine, an Immediate end to construction of the Apostate Superstructure Abomination.<LINE>To place shadow upon the Divine Body of the True Anointed Citadel is outrageous blasphemy and cannot be tolerated,<LINE>no matter the circumstances..." Clearly this was ignored.
+WhitePearl8|Oh, interesting. This is a diary entry of a pre-Iterator era laborer during the construction of the<LINE>subterranean transit system south of here. In it they describe restless nights filled with disturbing dreams,<LINE>where millions glowing stars move menacingly in the distance.
+WhitePearl9|There isn't much to the data here, it's just basic theory for karmic transform of n-dimensional geometries.<LINE>But the pearl itself is quite interesting. You can see the crude holes burned through the center that the<LINE>scavengers use to tie these pearls onto their totems or to carry. I honestly can't fathom how they achieve<LINE>this with their primitive level of technology! Fascinating.
+WhitePearl10|This one is all blank, sorry.
+WhitePearl11|I am sorry, all of that work for nothing! This pearl is completely blank.
+WhitePearl12|There's nothing on this one, unfortunately.
+WhitePearl13|This one has nothing on it.
+WhitePearl14|I'm sorry, this one has nothing on it.
+WhitePearl15|I can't make anything out of this pearl, it's just too faded. But there might have been something on it once.
+WhitePearl16|This one has a small crack and has been pretty badly corrupted. There is a slight impression of the shape of a wing on it, but I can't get a clear image.
+WhitePearl17|There's nothing on this one.
+WhitePearl18|I see a vague memory of a family portrait, painted in the High Classical manner that was famous during the Yellow hegemonic literary dynasty.<LINE>The portrait is likely a fake, as this style was quite fashionable for aspirational lower caste aristocrats to impress each-other with.<LINE>This one does not impress, I assure you.
+WhitePearl19|It has been written to, but then scrambled, and then scrambled again. Suspicious behavior to be sure.
+WhitePearl20|This one has been purposefully scrambled, it's completely illegible. Business documents perhaps.
+WhitePearl21|This one seems to have an image on it, but the pearl has been exposed to sunlight and it's very faded.<LINE>I see a tall structure with banners unfurled.
+WhitePearl22|There might be something on here, but the pearl has been lying in the sun and it's all very pale.<LINE>I'm too tired to look any deeper, I apologize.
+WhitePearl23|This is a growing instruction for the skeleton of a creature, but I don't recognize the creature.<LINE>It was small, about your size.
+WhitePearl24|This one seems to be a number series... Perhaps a key?
+WhitePearl25|A number series... I would guess some kind of cipher.
+WhitePearl26|This one is filled with active working memory - without knowing the<LINE>surrounding process this information is meaningless.
+WhitePearl27|It just has the number "8" written on it, the rest is empty.
+WhitePearl28|This is a blueprint for a support beam used for the construction of early industrial areas.<LINE>You can see these in use not too far from here.
+WhitePearl29|It's a design for a machine that makes bolts.
+WhitePearl30|It's a... recipe of some kind? "Two parts rot bar extract, one part bone ash." Nothing I recognize.
+WhitePearl31|It's an image of a hand drawn document. The calligraphy is quite beautiful, but the text itself is a very dull classical poem.
+WhitePearl32|This is the genome of a sulfur-processing microbe. In my opinion these were used far too late to have any effect.
+WhitePearl33|This one I don't know... It could be an old text, but some parts don't add up.<LINE>Might be a re-imagination of a classic text that I'm not familiar with.
+WhitePearl34|It's a song, or hymn rather. Very repetitive.
+WhitePearl35|Can't make out anything legible on this one, sorry.
+WhitePearl36|A list of someone's lucky numbers. There are no less than 71 of them.
+WhitePearl37|"Dear diary..." and that's it.
+WhitePearl38|A model of a pipe section.
+WhitePearl39|It's a catalog of bolts and screws for sky-sail joinery. We iterators were built for pragmatism,<LINE>so it is an understatement to say that we we're not known for our appreciation of beauty... but<LINE>the sky-sails in flight during the big festivals always filled my soul with emotion.
+WhitePearl40|It's the blueprint for a small incense purification filter. Life on the superstructure archologies
+WhitePearl41|An image... of five bottles, standing on a surface made of... plants? I have no idea what this is.
+WhitePearl42|No. I don't want to talk about the content of this pearl.
+WhitePearl43|A schematic of a bunch of gas pipes. I don't know the purpose for this machine,<LINE>but it doesn't look particularly well crafted.
+WhitePearl44|It's just the numbers 14, 13, 5, repeated over and over. I have no idea what the purpose for this would be.
+WhitePearl45|A small portion is still legible: "and Thus we Conclude, that Gold and Water shall..."<LINE>Some sort of metaphysical or alchemical treatise perhaps.
+WhitePearl46|Oh? This contains an image of another pearl just like it. Let me look... yes, as I thought, the image also contains<LINE>an image of a pearl in it, and so on. Some comedian playing recursion games, I would guess.
+
+WhitePearlArtificer1|This is a movement acceptance invoice. It is nothing important.
+WhitePearlArtificer2|This is just a useless diamond sphere. Regardless of that, the light of my chamber shining through it is pleasing.
+WhitePearlArtificer3|"...through the mists of memory, your image dances, like the motes of dust, in a ray of sunlight, that pierces a dark room."<LINE>A line of verse from the ancient farmer-poet Pel. I have many of his works archived.
+WhitePearlArtificer4|This is an examination on various dilutions and chemical ratios for liquid mediums, and their<LINE>resulting operating efficiencies when utilized to drive fluid-powered machinery. Not of interest to you at all I'm sure.
+WhitePearlArtificer5|This is damaged and cannot be read.
+WhitePearlArtificer6|It is a historical document containing information on various swords and other weaponry. These were not<LINE>used in combat, but were rather utilized in a variety of routine rituals and spiritual festivals.
+WhitePearlArtificer7|This is the schematic for a purposed organism. A refuse reclamation automaton. There is little<LINE>a simple thing like you would understand if I explained it.
+WhitePearlArtificer8|It's a collection of photographs showcasing a group of monks contorting their bodies in various ways. Most amusing...
+WhitePearlArtificer9|A description of a manually coded language developed late into the Yellow hegemonic dynasty. It utilized<LINE>sequences of gestures and facial expressions to describe concepts to those incapable of speech. Too bad I cannot use this with you.
+WhitePearlArtificer10|Such savagery. This pearl has been carved through as decoration. While the information within is not of any<LINE>particular importance, the primitive methods used to drill through this pearl could have easily destroyed something more complex.<LINE>It is a shame to see them desecrate history for the sake of shiny trinkets
+WhitePearlArtificer11|This is blank.
+WhitePearlArtificer12|It is empty.
+WhitePearlArtificer13|There is nothing here.
+WhitePearlArtificer14|It has faded, and is unreadable.
+WhitePearlArtificer15|...Why did you bring this to me? It is completely blank.
+WhitePearlArtificer16|This one has been cracked.
+WhitePearlArtificer17|It is damaged and unreadable.
+WhitePearlArtificer18|The data on this one is clear and uncorrupted, but it is not in any recognizable format.<LINE>The inscriptions within the lattice form a very intricate and deliberate pattern.
+WhitePearlArtificer19|Could it be? This pearl contains the solution to the Big Problem in its entirety. My work is finally finished! At least that's<LINE>what a dim-witted junkyard dweller like you seems to think will happen by bringing these to me. These pearls are a distraction.
+WhitePearlArtificer20|This data has been scrambled intentionally. It was likely used to store confidential information.
+WhitePearlArtificer21|The surface of this pearl has been scratched thousands of times over by some sharp object. Its contents are faded as well.
+WhitePearlArtificer22|There is an image of banners on this, but it has been faded to the point of corruption.
+WhitePearlArtificer23|Nothing is left, it is too faded to read.
+WhitePearlArtificer24|It is growing instructions for the skeleton of a creature, nothing you would understand.
+WhitePearlArtificer25|This one contains a numerical sequence encoding all of the registered<LINE>identification numbers for those who dwelled in my city.
+WhitePearlArtificer26|Part of a number series. This was likely used as a cipher.
+WhitePearlArtificer27|This pearl is filled to capacity, a tremendous feat. However, it only appears to<LINE>contain a single excessively large image, which happens to be completely blank.
+WhitePearlArtificer28|Strange, a singular number "8" has been written to this and nothing else.
+WhitePearlArtificer29|It is an old blueprint for construction supports.
+WhitePearlArtificer30|This is a very early research journal, equating void fluid to antimatter. While that comparison<LINE>works metaphorically, it fundamentally misunderstands the true nature of the fluid.
+WhitePearlArtificer31|A maintenance log of a routine inspection of my superstructure. No problems to report.<LINE>After all, I was still brand new when this log was written.
+WhitePearlArtificer32|This is incomplete source code for a complex simulation of our world, known as The World Machine.<LINE>However, public ascension concluded long before it could be finished by its author.
+WhitePearlArtificer33|It is a drawing by a young child, depicting the likeness of an iterator puppet. Specifically, I presume<LINE>this is meant to represent my puppet, but the drawing is too crude to tell for sure. How awful.
+WhitePearlArtificer34|This reads like someone attempting to copy a book from their memory alone.<LINE>Many chapters are only partially written, and some do not exist.
+WhitePearlArtificer35|A classical hymn from an early dynasty. It is very short and repetitive,<LINE>but its archiving will please me greatly.
+WhitePearlArtificer36|It's a log from a sensor monitoring conditions on the surface. The log ends abruptly<LINE>after some time, as the sensor suffered irreparable damage from the heavy rainfall.
+WhitePearlArtificer37|There are 71 numbers listed on this pearl, and they are some of the most unlucky numbers I have ever seen.
+WhitePearlArtificer38|"Dear diary..." and then nothing.
+WhitePearlArtificer39|A model of a fluid carrying pipe section. The joints are designed to promote self-sealing.
+WhitePearlArtificer40|It is a catalog of many types of teas, and their brewing techniques. I do not<LINE>possess the ability to drink tea, so this is of no use to me. You can keep it.
+WhitePearlArtificer41|It's the blueprint for a small incense purification filter. An<LINE>understandable necessity before the departure of my creators.
+WhitePearlArtificer42|An image of five bottles of water, standing upon a surface of filter feeding plants.<LINE>A reflection of desire for something denied. A painting from the late Red literary<LINE>dynasty by the famed painter Twenty-One Spokes of a Stone Wheel, a true visionary!
+WhitePearlArtificer43|I would prefer not to speak of the contents recorded in this pearl.<LINE>Some things are best left unknown.
+WhitePearlArtificer44|Old schematics for a gas filtration machine, very rough and unoptimized.
+WhitePearlArtificer45|This pearl contains a series of puzzles designed to exercise the mind. However, I've already<LINE>solved them all in the time it took me to say these sentences aloud to you.
+WhitePearlArtificer46|This is a malicious pearl. The data is meaningless, but the way it is formatted would cause older machinery<LINE>to get stuck in an infinite recursion trying to read it. Luckily, I am more sophisticated than that.
+WhitePearlArtificer47|This contains the image of a pearl... and within that the same image. This is either<LINE>a joke, or a method of testing a pearl's recursive density.
+
+39TESTFILE1| 222-TEST A
+39TESTFILE2| 222-TEST B
+39TESTFILE3| 222-TEST C
+
+MoonReadPebbles1|It's an active working memory - raw data has been dropped here in order to later be<LINE>pasted to a currently occupied memory conflux. Without context it's just a jumble.
+MoonReadPebbles2|It is the impression of being a small creature, like a wall climbing lizard, and looking<LINE>up into the branches of a big tree. The last third is partly overwritten with a number<LINE>series I vaguely recognize, but without my memory...
+MoonReadPebbles3|A common prayer mantra repeated 7110 times. Each repetition has some slight random variations, which seem to have been written later.
+MoonReadPebbles4|It's an image of a single grey cloud, hovering above a surface of white clouds under a deep blue sky.
+MoonReadPebbles5|Two... intertwined number series? I don't quite understand the utility of this.<LINE>Might a key for a cipher processor, customized for some other data which is impossible to infer from this.
+MoonReadPebbles6|It's qualia, or a moment - a very short one. Someone is holding a black stone,<LINE>and twisting it slightly as they drag their finger across the rough surface.<LINE>The entire sequence is shorter than a heartbeat, but the resolution is extraordinary.
+MoonReadPebbles7|An active working memory. Without knowing where this was cut from or where it's to be pasted to,<LINE>it is not really possible to decipher it. If I had to guess, I would say it has something to<LINE>do with trance inducing number series.
+MoonReadPebbles8|It's just an active working memory, I can't really tell you anything without the context.
+MoonReadPebbles9|Without the process surrounding this data there isn't much I can tell you. It might have something to do with Void Fluid simulation...
+MoonReadPebbles10|This one is completely blank. Actually, blanker than blank, it must have been deliberately<LINE>overwritten with repeating negative versions of itself for thousands of iterations.
+MoonReadPebbles11|A memory... but not really visual, or even concrete, in its character. It reminds of<LINE>the feeling of a warm wind, but not the physical feeling but the... inner feeling.<LINE>I don't think it has much utility unless you are doing some very fringe Regeneraist research.
+
+MoonReadPebblesRivulet1|The data on this one repeats itself many times, with a number of redundancy checks in place.<LINE>This extent of integrity checking is rarely seen, except when pearls have to be stored in<LINE>highly contaminated environments where data corruption is likely.
+MoonReadPebblesRivulet2|The surface of this pearl is pristine, but the internal lattice is fractured beyond repair.<LINE>Something must have gone terribly wrong in the process of writing the data onto this.
+MoonReadPebblesRivulet3|A common prayer mantra repeated 7110 times. Each repetition has some slight random variations, which seem to have been written later.
+MoonReadPebblesRivulet4|It is a stored equipment manifest, showing rapidly deteriorating conditions over time. I suppose<LINE>any equipment manifest you will find out there will look like this
+MoonReadPebblesRivulet5|Two... intertwined number series? I don't quite understand the utility of this. It might be a key<LINE>for a cipher processor, customized for some other data which is impossible to infer from this.
+MoonReadPebblesRivulet6|I don't understand this one. It is mostly blank, except for a small section at the start which<LINE>appears to have been unsuccessfully written to hundreds of times. Perhaps by faulty machinery?
+MoonReadPebblesRivulet7|Incredible, this is seemingly a complete backup of an iterator's non-volatile core memory, transferred<LINE>via the General Systems Bus. I don't recall such a thing ever being attempted to be stored in a pearl.<LINE>It's not even a compatible data format without substantial conversions.
+MoonReadPebblesRivulet8|This contains partial data that seems abruptly truncated. Whatever machinery was used to write<LINE>this pearl must have been interrupted or suspended in the middle of its operation.
+MoonReadPebblesRivulet9|Without the process surrounding this data there isn't much I can tell you. It might have something to do with Void Fluid simulation...
+MoonReadPebblesRivulet10|This one is completely blank. Actually, blanker than blank, it must have been deliberately<LINE>overwritten with repeating negative versions of itself for thousands of iterations.
+MoonReadPebblesRivulet11|Most of the data on this one is corrupted, but not through age. From the small bit that I<LINE>can decipher, it appears that it may be a backup of some old conversation logs.
+
+SUPearl1|Its entire memory is filled with a mantra repeated... 5061 times - and then a termination verse.<LINE>It was worn as an amulet, probably together with many identical others forming a pattern on some garment.
+SUPearl2|The repeating mantra is important because it symbolizes the cyclical nature of life and death, and the<LINE>termination verse is a symbol for ascension above and beyond it. I don't know how familiar you are with<LINE>the nature of life and death, but I imagine like all living creatures you have some intuitive knowledge?
+SUPearl3|Then you know that death isn't the end - birth and death are connected to each other like a ring,<LINE>or some say a spiral. Some say a spiral that in turn forms a ring. Some ramble in agonizing longevity.<LINE>But the basis is agreed upon: like sleep like death, you wake up again - whether you want to or not.
+SUPearl4|This is true for all living things, but some actually break the cycle. That doesn't apply to<LINE>you or me though, you are too entangled in your animal struggles, and for me not breaking that<LINE>cycle is an integral part of the design. Our mantras keep repeating.
+
+SUPearlArtificer1|This pearl is an amulet of repeating mantras, followed by a termination verse. Likely a<LINE>small decoration lost from some garment. I cannot imagine it has much significance.
+SUPearlArtificer2|Pearls like these were worn simply as beads, some in sets of hundreds.<LINE>I am sure the scavengers would have more use for this than I would.
+
+UWPearl1|This one has plain text. Let me cut the lengthy introductions...
+UWPearl1|"...we will not consider the Current Situation acceptable. Although our community is Blessed with an ever<LINE>shrinking Population, and we can Almost Glimpse that Glorious moment when the last of us has joined our<LINE>most Admired peers, we must still (at All Times!) maintain Good Relations with our Iterator.
+UWPearl1|The Moral Argument: Five Pebbles is our Creation, and we have Parental Obligations towards him. As an Iterator,<LINE>he is also a Gift of Charity from Us to The World (unable to reach Enlightenment by itself - being composed mostly<LINE>of Rock, Gas, dull witted Bugs and Microbes - and towards which We thus have Obligations).
+UWPearl1|The Practical Argument: Despite You being family, I must Beg Forgiveness for the<LINE>Blunt Vulgarity - but We are (for as long as we Remain) Dependent on Five Pebbles<LINE>for Water, Nectar, Energy, Void Fluid and All other Vital Resources.<LINE>By Now, living on the surface is Laughable.<LINE>We are Across the River and have Kicked out the Boat.
+UWPearl1|I therefor ask you to Do Anything in your Might to stop the House(We both know which House)<LINE>from Further Obstruction! They have less than forty members on the Council, but still Tilt<LINE>the spiritual Discourse with Our Iterator in a direction that most obviously Displeases him,<LINE>and is hardly High Held by anyone in the Community either! We can not Risk this!"
+UWPearl1|And then there are polite farewells. None of us really miss the times when their cities were populated.<LINE>Imagine having skin parasites that also ask for advice and have opinions...
+UWPearl1|I'm sorry, that was disrespectful. They were our parents after all.
+
+UWPearlArtificer1|This one has not been archived. It was likely transported by hand...
+UWPearlArtificer2|It is a message of political discourse regarding concerns about the increasingly<LINE>tense relationship between myself and the various Houses. This part is amusing.
+UWPearlArtificer3|"I therefor ask you to Do Anything in your Might to stop the House(We both know which House)<LINE>from Further Obstruction! They have less than forty members on the Council, but still Tilt<LINE>the spiritual Discourse with Our Iterator in a direction that most obviously Displeases him,<LINE>and is hardly High Held by anyone in the Community either! We can not Risk this!"
+UWPearlArtificer4|It is no secret that my construction was a point of great controversy. Many council members worked vehemently<LINE>to prevent me from ever coming into being. Their stance was so unfaltering that even after construction was<LINE>complete, a number of Houses still denied transfer and remained behind in her city out of protest.
+UWPearlArtificer5|This rift caused frequent feuds and tensions amongst the community. Those of the opposition<LINE>would never yield to those who supported the so called "Apostate Superstructure Abomination".<LINE>But to say I found their actions displeasing? Not quite.
+UWPearlArtificer6|While certainly more violent and disruptive, they at least provided me interesting cognitive<LINE>challenges to use my time on. As opposed to the endless rituals and pleasantries of the monks<LINE>of my own Houses, which I found to be the most wearisome of all.
+UWPearlArtificer7|None of this matters any more. The only displeasing presence I have now is you.
+UWPearlArtificer8|Allow me to get back to my work.
+
+SBPearl1|It's a conversation log, all plain text. You want me to read it?
+SBPearl2|"1681.662 - PRIVATE<LINE>Seven Red Suns, Chasing Wind
+SBPearl3|CW: Have you had any contact with Five Pebbles recently?
+SBPearl4|SRS: Not in a long while actually! Unless worrying about him counts.
+SBPearl5|CW: One of his neighbors, Unparalleled Innocence, sent an overseer to his can and got some images.<LINE>They were made public in the local group, in an effort to be mean I suppose.<LINE>There's no other way of putting it - he looks awful.
+SBPearl6|SRS: Tell me.
+SBPearl7|CW: He's got the rot, very badly. Big cysts have become mobile and are scattering down the west and middle legs.<LINE>He does listen to you, and few others by now, so you should talk to him.
+SBPearl8|SRS: I will try to contact him. Does Moon know?
+SBPearl9|CW: Moon has been unavailable for some time."
+
+MoonScavBomb|It's a lot of flammable powder stuffed into some kind of shell. I would be very careful around this!
+
+MoonNeuronMisc1|After all this time, a lifeline. Thank you.
+MoonNeuronMisc2|I'll never feel the power I once had, but this is something to sustain an old soul.
+MoonNeuronMisc3|I could read a bit of Five Pebbles in this neuron before formatting it.<LINE>A ghost left from his processing routines.
+MoonNeuronMisc4|Erratic... Pulse. "Erratic Pulse." I wonder what that means.
+
+PebblesHunterNeuron1|Let us see what you have here.
+PebblesHunterNeuron2|50 : 0 : Eleven... no sixteen! Sixteen slag reset keys.
+PebblesHunterNeuron3|I've seen several before, but one or two will be useful.
+PebblesHunterNeuron4|However, it seems this delivery was not intended for me. Everything suggests<LINE>it was tailored for the specific predicaments of a friend of mine.
+PebblesHunterNeuron5|Her name is Looks to the Moon, and her state is considerably worse than mine.<LINE>She's a short distance to the east of here - much shorter than customary.<LINE>A circumstance that has led to some difficulties between us.
+
+PebblesHunterNoNeuron1|I barely listen to the overseers any more. I have concluded that the movements of<LINE>animals on the premises absolutely and completely lack relevance to my endeavours.
+PebblesHunterNoNeuron2|With you, they have been very persistent ever since you entered my Farm Arrays. You were on an unusually deliberate path.
+PebblesHunterNoNeuron3|0 : 15 : Now you are here.
+PebblesHunterNoNeuron4|The images showed you carrying something. You are not any longer.
+PebblesHunterNoNeuron5|Did you lose it along the way? Or did you give it to Looks to the Moon?
+PebblesHunterNoNeuron6|In the latter case, I hope it was of some help to her. Not that I can imagine what one<LINE>of you could be able to do for one of us, but she needs all the help she can get.
+PebblesHunterNoNeuron7|15 : 20 : ...
+PebblesHunterNoNeuron8|You seem to have been in contact with an iterator before, so perhaps you are already aware.
+PebblesHunterNoNeuron9|You and I have something in common, little creature. We both have something... unfortunate growing in us.
+PebblesHunterNoNeuron10|In my case, there is not much to be done. For you however, there might be a way. The old path.
+PebblesHunterNoNeuron11|Go to the west past the Farm Arrays, and then down into the earth where the land fissures, as deep as you can reach,<LINE>where the ancients built their temples and danced their silly rituals.
+PebblesHunterNoNeuron12|I will give you something that might be of help.
+PebblesHunterNoNeuron13|10 : 30 : I suggest you hurry.
+
+PebblesMonk1|I am growing increasingly impatient with the traffic of your kind through me and my premises.
+PebblesMonk2|During previous interactions, I have been rewarded no other response than a blank stare. Yet you apparently have<LINE>sufficient ability for communication to circulate complex instructions on how to enter this chamber among each other.
+PebblesMonk3|You and your kind have the same problem as everyone else, from the microbes in the processing strata<LINE>to me, who am, if you excuse me, godlike in comparison. We all want a way out. It is only unfortunate<LINE>that you have collectively decided on... me as your solution to that very elemental desire.
+PebblesMonk4|The last one I gave some help and some general directions. I will do the same for you.
+PebblesMonk5|Go west. Past the Farm Arrays. Where the land fissures, go down into the earth and search your way deeper.
+PebblesMonk6|Now in return I ask you to use whatever grunts, moans and eye-twitches you employ to forward a message to your community.
+PebblesMonk7|10 : 25 : Please stop scratching your way through my memory arrays.
+PebblesMonk8|Speaking of, on your way out please use the access shaft.
+
+MoonMonk1|Hello little creature.
+MoonMonk2|Your shape is familiar to me. I feel as if I... might have met your kind before.
+MoonMonk3|30 : 0 : But my memory is so unreliable now.
+MoonMonk4|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
+MoonMonk5|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
+MoonMonk6|0 : 30 : Hm...
+MoonMonk7|Such a familiar feeling.
+
+MoonHunter1|He... hello
+MoonHunter2|90 : 20 : Hello little... creature. You... you did this?
+MoonHunter3|One moment. My memory isn't responding. I... I have no idea...
+MoonHunter4|...must have been gone for...
+MoonHunter5|0 : 40 : ...
+MoonHunter6|40 : 0 : Oh.
+MoonHunter7|Little creature...
+MoonHunter8|You are not well.
+MoonHunter9|I am so sorry to say, but you do not have much time left.
+MoonHunter10|If things are as they seem... thank you
+MoonHunter11|I don't know why you spent your... last... remaining cycles helping me. But know that I<LINE>am deeply grateful. I have known very few beings who could aspire to such a noble thing.<LINE>You really are... an amazing little creature.
+MoonHunter12|10 : 20 : I wish I could say I will always remember it.
+MoonHunter13|0 : 40 : ...
+MoonHunter14|20 : 0 : Little friend. Perhaps you already know this, and I don't know what consolation it might bring, but...
+MoonHunter15|40 : 0 : You will wake right back up again.
+
+HunterPearl1|"Triple affirmative! Triple affirmative!
+HunterPearl2|10 : 0 : In all seriousness though, noticed barely any rain from<LINE>your can so figured a little support might be in order.
+HunterPearl3|Wasn't that easy to see of course, with Pebbles' shall we say healthy output.
+HunterPearl4|Enjoy the slag keys! Excuse the unorthodox delivery method, equipment eroding etc etc.
+HunterPearl5|0 : 30 : Be well, NSH"
+HunterPearl6|40 : 10 : Oh.
+HunterPearl7|0 : 20 : I see now. Again, thank you little friend.
+
+MoonOverseerEye1|It is the remains of an overseer.
+MoonOverseerEye2|20 : 20 : Overseers act as our eyes on the outside.
+MoonOverseerEye3|I used to have a lot of them, but I lost contact with them when I was neutered. My umbilical is cut.<LINE>So, since then I am not much more than what you are looking at - a little creature in a box.
+MoonOverseerEye4|I suspect by now all my overseers are gone out there. Without me they would just roam around with no purpose.
+MoonOverseerEye5|The scavengers tend to hunt them, it's one of their very few ways of expressing defiance.
+MoonOverseerEye6|20 : 30 : It's of course not completely impossible that there are a few left. Say hello if you see one.
+
+MoonBubbleGrass1|It's a plant that keeps pressurised air in these globules.
+MoonBubbleGrass2|I'm not very familiar with contemporary flora, so I can't tell you much more.
+
+SLTowerPearl1|It is the genome for a purposed organism.<LINE>A small slug to clean the insides of pipes.
+SLTowerPearl2|Do you know what a purposed organism is? Actually you are talking to one right now!
+SLTowerPearl3|Although, a small fraction of one. Nowadays I am mostly just my puppet. The bulk of me is in these walls but I am<LINE>disconnected from those parts, to a degree where I am only vaguely aware of how bad their condition is.
+SLTowerPearl4|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE>More like tubes in metal boxes, where something went in one end and something else came out the other.
+SLTowerPearl5|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.
+SLTowerPearl6|When I came into this world there was very little primal fauna left.<LINE>So it's highly likely that you are the descendant of a purposed organism yourself!
+
+SLTowerPearlArtificer1|This is a genome for a purposed organism. Just a menial cleaning slug.
+SLTowerPearlArtificer2|While I do not have this exact sequence on record, the simple structures present,<LINE>and lack of mechanical interchange glands, mean this blueprint is quite old.
+SLTowerPearlArtificer3|This creature would be much closer to a domesticated animal, compared to the newer<LINE>and specialized organisms produced with more modern techniques. A being made to<LINE>live its life inside a metal pipe deep underground has no need for eyes after all.
+SLTowerPearlArtificer4|In the same way, my own body is all around you. Composed of specialized organisms,<LINE>and machinery. What you see in front of you is only the tiny extremity of a<LINE>colossal presence. One that your simple mind could not hope to comprehend.
+
+SLTowerPearlSpear1|It is the genome for a purposed organism.<LINE>A small slug to clean the insides of pipes.
+SLTowerPearlSpear2|Do you know what a purposed organism is? Actually you are talking to one right now!
+SLTowerPearlSpear3|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE>More like tubes in metal boxes, where something went in one end and something else came out the other.
+SLTowerPearlSpear4|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.
+SLTowerPearlSpear5|When I came into this world there was very little primal fauna left.<LINE>You are certainly a purposed organism yourself!
+SLTowerPearlSpear6|So then, what purpose do you serve, <PLAYERNAME>? For many, that's<LINE>a question that can take a lifetime to find an answer to.
+
+MoonHunterTwo1|Hi! Little saviour!
+MoonHunterTwo2|It is good to see you again.
+MoonHunterTwo3|I wish I could help you like you have helped me... But like this, there is very little I can do.
+MoonHunterTwo4|All I can do is express how thankful I am. You have given me<LINE>some additional time... despite not having a lot of it yourself.
+MoonHunterTwo5|30 : 0 : I hope... this was meaningful for you.
+MoonHunterTwo6|20 : 40 : It was for me.
+
+PebblesHealHunter1|I am not without responsibility for her situation. It would only be suiting that I aided in this... rescue mission.<LINE>As other endeavors have proven futile, I'm not ashamed to admit I've become more invested in day to day matters.
+PebblesHealHunter1|I will do what I can to assist you.
+PebblesHealHunter1|Unless you are aware, you are not well.
+PebblesHealHunter1|I was not a medical facility even when the equipment was functioning,<LINE>but I will attempt to do something to buy you a little time.
+
+PebblesHunterNeuronTwo|You do not have much time. It is admirable what you choose to do with it.
+PebblesHunterNeuronTwo|30 : 30 : Send my regards.

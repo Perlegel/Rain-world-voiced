@@ -103,7 +103,7 @@ public static class DialogueHandler
 
         foreach (var message in messages)
         {
-            var sound = GetSoundID(message, true);
+            var sound = GetSoundID(message);
 
             //-- TODO: Logging
             if (sound == null) continue;
@@ -170,7 +170,7 @@ public static class DialogueHandler
         //-- TODO: Logging
         if (CurrentMessages == null || CurrentMessages.Length <= self.showLine) return;
         
-        var sound = GetSoundID(CurrentMessages[self.showLine], true);
+        var sound = GetSoundID(CurrentMessages[self.showLine]);
         if (sound == null) return;
         
         self.hud.PlaySound(sound);
@@ -221,9 +221,9 @@ public static class DialogueHandler
         }
     }
     
-    private static SoundID GetSoundID(string text, bool defaultToSame = false)
+    private static SoundID GetSoundID(string text)
     {
-        var originalText = Translator.Untranslate(text, defaultToSame);
+        var originalText = Translator.Untranslate(text);
 
         //-- TODO: Log to a file so we can catch mistakes and missing voicelines
         if (string.IsNullOrEmpty(originalText) || !VoicelineHandler.TryGet(originalText, out var sound)) return null;
