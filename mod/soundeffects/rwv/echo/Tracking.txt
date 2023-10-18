@@ -1,0 +1,32 @@
+States:
+XX - Not Recorded
+RW - Raw, unseparated
+SP - Split into lines
+DZ - In Das' hands for editing
+SX - received from Das, but not split
+ID - split and properly IDd
+
+--NORMAL--
+ID - Chimney [ChimneyEcho]
+RW - Wall [WallEcho]
+ID - Shaded [ShadedEcho]
+XX - Sky Islands [SkyEcho]
+RW - FarmArrays [FarmEcho]
+RW - Subterranean [SubEcho]
+
+--ARTI--
+XX - AtopTower [<NOID>]
+XX - AtopTower after Chief [<NOID>]
+XX - AtopTower Other Slug [<NOID>]
+
+
+--SAINT--
+SX - Undergrowth [<NOID>]
+ID - ChimneySaint [ChimneyEchoSaint]
+RW - SilentConstruct [<NOID>]
+RW - Shoreline [<NOID>]
+XX - SkyIslands [SkyEchoSaint]
+RW - FarmArrays [FarmEchoSaint]
+RW - Subterranean [SubEchoSaint]
+RW - AuxArray [<NOID>]
+
