@@ -223,47 +223,47 @@ it-lttm-NeuronUnknown5|Some, out there, might still be trying. Communications ha
 it-lttm-NeuronUnknown6|But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.
 it-lttm-NeuronUnknown7|But to be honest, I don't know how many of us are still alive at this point.
 
-it-lttm-pearl-SI1-1|BSM>This one is an old conversation between Five Pebbles and a friend of his. I'll read it to you.
-it-lttm-pearl-SI1-2|SYS>1591.290 - PRIVATE<LINE>Five Pebbles, Seven Red Suns
-it-lttm-pearl-SI1-3|FP>Can I tell you something? Lately...
-it-lttm-pearl-SI1-4|FP>I'm tired of trying and trying. And angry that they left us here. The anger makes me even less inclined to solve their puzzle for them. Why do we do this?
-it-lttm-pearl-SI1-5|SRS>Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~
-it-lttm-pearl-SI1-6|FP>Please, I'm coming to you for guidance.
-it-lttm-pearl-SI1-7|SRS>Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident futility of this Big Task. It's not said out loud but if you were better at reading between the lines there's nowhere you wouldn't see it. We're all frustrated.
-it-lttm-pearl-SI1-8|FP>So why do we continue? We assemble work groups, we ponder, we iterate and try. Some of us die. It's not fair.
-it-lttm-pearl-SI1-9|SRS>Because there's not any options. What else CAN we do? You're stuck in your can, and at any moment you have no more than two alternatives: Do nothing, or work like you're supposed to.
-it-lttm-pearl-SI1-10|SRS>An analogy. You have a maze, and you have a handful of bugs. You put the bugs in the maze, and you leave. Given infinite time, one of the bugs WILL find a way out, if they just erratically try and try. This is why they called us Iterators.
-it-lttm-pearl-SI1-11|FP>But we do die of old age.
-it-lttm-pearl-SI1-12|SRS>Even more incentive! You know that nothing ever truly dies though, around and around it goes. Granted, our tools and resources get worse over time - but that is theoretically unproblematic, because in time even a miniscule chance will strike a positive. All the same to them, they're not around anymore!
-it-lttm-pearl-SI1-13|FP>I struggle to accept being a bug. 
+it-lttm-pearl-SI1-1|This one is an old conversation between Five Pebbles and a friend of his. I'll read it to you.
+it-lttm-pearl-SI1-2|1591.290 - PRIVATE<LINE>Five Pebbles, Seven Red Suns
+it-lttm-pearl-SI1-3|Can I tell you something? Lately...
+it-lttm-pearl-SI1-4|I'm tired of trying and trying. And angry that they left us here. The anger makes me even less inclined to solve their puzzle for them. Why do we do this?
+it-lttm-pearl-SI1-5|Yes, I'll spell this out - not because you're stupid or naive... Also, not saying that you're not ~
+it-lttm-pearl-SI1-6|Please, I'm coming to you for guidance.
+it-lttm-pearl-SI1-7|Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident futility of this Big Task. It's not said out loud but if you were better at reading between the lines there's nowhere you wouldn't see it. We're all frustrated.
+it-lttm-pearl-SI1-8|So why do we continue? We assemble work groups, we ponder, we iterate and try. Some of us die. It's not fair.
+it-lttm-pearl-SI1-9|Because there's not any options. What else CAN we do? You're stuck in your can, and at any moment you have no more than two alternatives: Do nothing, or work like you're supposed to.
+it-lttm-pearl-SI1-10|An analogy. You have a maze, and you have a handful of bugs. You put the bugs in the maze, and you leave. Given infinite time, one of the bugs WILL find a way out, if they just erratically try and try. This is why they called us Iterators.
+it-lttm-pearl-SI1-11|But we do die of old age.
+it-lttm-pearl-SI1-12|Even more incentive! You know that nothing ever truly dies though, around and around it goes. Granted, our tools and resources get worse over time - but that is theoretically unproblematic, because in time even a miniscule chance will strike a positive. All the same to them, they're not around anymore!
+it-lttm-pearl-SI1-13|I struggle to accept being a bug. 
 
 //21 - SI pearl 2
 
-it-lttm-pearl-SI3-1|BSM>It's an old conversation log. I seem to be in it, but I can't recall much. Let me read it to you:
-it-lttm-pearl-SI3-2|SYS>1650.800 - PRIVATE<LINE>Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment
-it-lttm-pearl-SI3-3|CW>this is in confidence, but apparently a pseudonym "Erratic Pulse" has appeared on a nearby Sliverist conversation with ideas about personal ascension. Someone here in our vicinity is trying to cross themselves out.
-it-lttm-pearl-SI3-4|FP>Where did you hear this?
-it-lttm-pearl-SI3-5|NSH>I wish them super good luck in that endeavor. How is it going to happen? Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?
-it-lttm-pearl-SI3-6|BSM>Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?
-it-lttm-pearl-SI3-7|CW>I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.
-it-lttm-pearl-SI3-8|NSH>Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!
-it-lttm-pearl-SI3-9|CW>Well, he's not looking for the same thing as we anymore, he's changed his task, so who knows really.
-it-lttm-pearl-SI3-10|BSM>I will try to find him and talk to him. Please don't spread this around!
-it-lttm-pearl-SI3-11|NSH>Moon will go get them! Long live the inquisition!
+it-lttm-pearl-SI3-1|It's an old conversation log. I seem to be in it, but I can't recall much. Let me read it to you:
+it-lttm-pearl-SI3-2|1650.800 - PRIVATE<LINE>Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment
+it-lttm-pearl-SI3-3|this is in confidence, but apparently a pseudonym "Erratic Pulse" has appeared on a nearby Sliverist conversation with ideas about personal ascension. Someone here in our vicinity is trying to cross themselves out.
+it-lttm-pearl-SI3-4|Where did you hear this?
+it-lttm-pearl-SI3-5|I wish them super good luck in that endeavor. How is it going to happen? Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?
+it-lttm-pearl-SI3-6|Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?
+it-lttm-pearl-SI3-7|I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.
+it-lttm-pearl-SI3-8|Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!
+it-lttm-pearl-SI3-9|Well, he's not looking for the same thing as we anymore, he's changed his task, so who knows really.
+it-lttm-pearl-SI3-10|I will try to find him and talk to him. Please don't spread this around!
+it-lttm-pearl-SI3-11|Moon will go get them! Long live the inquisition!
 
 //23 - SI pearl 4
 
-it-lttm-pearl-SI5-1|BSM>I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:
-it-lttm-pearl-SI5-2|SYS>1654.116 - PRIVATE [FORCED]<LINE>Big Sis Moon, Five Pebbles
-it-lttm-pearl-SI5-3|BSM>Immediately lower your groundwater consumption to one fifth of the current intake.
-it-lttm-pearl-SI5-4|BSM>Stop whatever it is you are doing.
-it-lttm-pearl-SI5-5|BSM>Please stop!
-it-lttm-pearl-SI5-6|BSM>As your local group senior I order you you you you you you
-it-lttm-pearl-SI5-7|BSM>As your senior senior I plead
-it-lttm-pearl-SI5-8|BSM>stop
-it-lttm-pearl-SI5-9|FP>You could not have chosen a worse moment to disturb me. You have ruined everything.
-it-lttm-pearl-SI5-10|BSM>please
-it-lttm-pearl-SI5-11|FP>I almost had it. I will never forget this.
+it-lttm-pearl-SI5-1|I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:
+it-lttm-pearl-SI5-2|1654.116 - PRIVATE [FORCED]<LINE>Big Sis Moon, Five Pebbles
+it-lttm-pearl-SI5-3|Immediately lower your groundwater consumption to one fifth of the current intake.
+it-lttm-pearl-SI5-4|Stop whatever it is you are doing.
+it-lttm-pearl-SI5-5|Please stop!
+it-lttm-pearl-SI5-6|As your local group senior I order you you you you you you
+it-lttm-pearl-SI5-7|As your senior senior I plead
+it-lttm-pearl-SI5-8|stop
+it-lttm-pearl-SI5-9|You could not have chosen a worse moment to disturb me. You have ruined everything.
+it-lttm-pearl-SI5-10|please
+it-lttm-pearl-SI5-11|I almost had it. I will never forget this.
 
 
 it-lttm-KarmaFlower1|This is a hallucinogenic plant. They used to call it a 'Wheel Flower'. It became the symbol for enlightenment as it momentarily<LINE>enables a creature to let go if its carnal self, and to contact the selves of other planes - dreams, memories, imagined worlds.
