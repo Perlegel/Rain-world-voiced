@@ -1,726 +1,802 @@
 //Vanilla
 
-Tag_1|Behold this empty husk of a land...
-Tag_1|
-Tag_1|Populated only by storms, ruins and abominations. It wasn't always thus.
-Tag_1|
-Tag_1|I was once the Count of 2 living blocks, esteemed by my peers. I had progeny!
-Tag_1|
-Tag_1|From within my vessel of flesh, I would perch upon this spot to observe the rising of the sun.
-Tag_1|
-Tag_1|Corporeal matters seem so distant now. Most have forgotten this place, but I remain.
-Tag_1|
-Tag_1|Perhaps I reminisce because I cannot go. Perhaps I cannot go because memory traps me here.
+//Vanilla Echoes
 
-Tag_2|Do you hear it, little one?
-Tag_2|
-Tag_2|The buzzing in the air?
-Tag_2|
-Tag_2|The endless chatter of a thousand thousand voices, long dead?
-Tag_2|
-Tag_2|They are gone, and yet they speak. Neither here nor there.
-Tag_2|
-Tag_2|Does that seem familiar? Yes, it is quite amusing for a being in my predicament!
+ec-Chimney1|Behold this empty husk of a land...
+ec-Chimney2|Populated only by storms, ruins and abominations. It wasn't always thus.
+ec-Chimney3|I was once the Count of 2 living blocks, esteemed by my peers. I had progeny!
+ec-Chimney4|From within my vessel of flesh, I would perch upon this spot to observe the rising of the sun.
+ec-Chimney5|Corporeal matters seem so distant now. Most have forgotten this place, but I remain.
+ec-Chimney6|Perhaps I reminisce because I cannot go. Perhaps I cannot go because memory traps me here.
 
-Tag_3|Strange...
-Tag_3|
-Tag_3|Something still draws me here. Even after all this time.
-Tag_3|
-Tag_3|The weather is so different now, but the fields...
-Tag_3|
-Tag_3|I do not need eyes to know that the grasses still sway gently in the winds.
-Tag_3|
-Tag_3|To have grasped at the boundless infinites of the cosmic void...
-Tag_3|
-Tag_3|Yet here I am contemplating these same fields as I once did, talking to some sort of rodent.
+ec-Sky1|Do you hear it, little one?
+ec-Sky2|The buzzing in the air?
+ec-Sky3|The endless chatter of a thousand thousand voices, long dead?
+ec-Sky4|They are gone, and yet they speak. Neither here nor there.
+ec-Sky5|Does that seem familiar? Yes, it is quite amusing for a being in my predicament!
 
-Tag_4|You have no name.
-Tag_4|
-Tag_4|I once had! I was embalmed, adorned, readied for the journey.
-Tag_4|
-Tag_4|So proud. There was jubilation! My name was sung, loud and clear.
-Tag_4|
-Tag_4|Did they know? That I didn't quite leave, didn't quite stay?
-Tag_4|
-Tag_4|Should I be ashamed? That I linger here, where my memories are kept?
-Tag_4|
-Tag_4|Should I be ashamed that I now envy your flesh prison?
+ec-Farm1|Strange...
+ec-Farm2|Something still draws me here. Even after all this time.
+ec-Farm3|The weather is so different now, but the fields...
+ec-Farm4|I do not need eyes to know that the grasses still sway gently in the winds.
+ec-Farm5|To have grasped at the boundless infinites of the cosmic void...
+ec-Farm6|Yet here I am contemplating these same fields as I once did, talking to some sort of rodent.
 
-Tag_5|We can feel your presence, little creature.
-Tag_5|
-Tag_5|Your attunement has become... much closer to ours.
-Tag_5|
-Tag_5|The mark you received is an unimaginable gift.
-Tag_5|
-Tag_5|The struggle, the cycles...
-Tag_5|
-Tag_5|It can all fade, like a morning mist beneath the glory of the sun.
-Tag_5|
-Tag_5|We found a way.
+ec-Shaded1|You have no name.
+ec-Shaded2|I once had! I was embalmed, adorned, readied for the journey.
+ec-Shaded3|So proud. There was jubilation! My name was sung, loud and clear.
+ec-Shaded4|Did they know? That I didn't quite leave, didn't quite stay?
+ec-Shaded5|Should I be ashamed? That I linger here, where my memories are kept?
+ec-Shaded6|Should I be ashamed that I now envy your flesh prison?
 
-Tag_6|A little beast!
-Tag_6|
-Tag_6|But not as dim as the rest, perhaps?
-Tag_6|
-Tag_6|So down into the depths you go as many others before you, drawn to the void again and again, an endless drip drip drip.
-Tag_6|
-Tag_6|Much like these tunnels and caves that amuse me so. The bones of forgotten civilizations, heaped like so many sticks.
-Tag_6|
-Tag_6|Did they dig too deep, or not deep enough?
-Tag_6|
-Tag_6|Fools. We were right to drill straight through them!
+ec-Wall1|We can feel your presence, little creature.
+ec-Wall2|Your attunement has become... much closer to ours.
+ec-Wall3|The mark you received is an unimaginable gift.
+ec-Wall4|The struggle, the cycles...
+ec-Wall5|It can all fade, like a morning mist beneath the glory of the sun.
+ec-Wall6|We found a way.
 
-Tag_7|This information is illegal. Someone probably tried to send it by<LINE>a pearl somehow rather than risking being overheard on broadcast.
-Tag_7|
-Tag_7|I think the risk of you acting on this is very slim, so I'll go ahead and explain it to you.<LINE>It's an instruction on how to circumvent the self-destruction taboo.
-Tag_7|
-Tag_7|The problem with breaking taboos is that the barriers are encoded<LINE>into every cell of our organic parts. And there are other taboos<LINE>strictly regulating our ability to rewrite our own genome.
-Tag_7|
-Tag_7|So what you need is to somehow create a small sample of living organic matter<LINE>which can procreate and act on the rest of your organic matter to re-write its genome.<LINE>The re-write has to be very specific, overriding the specific taboo you want to<LINE>circumvent but do nothing else.
-Tag_7|
-Tag_7|The method described here is about scrambling the genome of standard<LINE>plastic neural tissue with temperature fluctuations. After each scramble<LINE>you browse the resulting cells for the genome you're after.<LINE>This is of course extremely time consuming, unless you run a<LINE>big number of parallel processes.
-Tag_7|
-Tag_7|I definitely don't have any experience with this, but to me it would<LINE>seem that too many parallel processes would be quite dangerous, as it would<LINE>be exponentially more difficult to manage and control them all.<LINE>The whole operation seems rather risky if you ask me.
-Tag_7|
-Tag_7|It might be a good thing that this pearl never reached its destination.
+ec-Sub1|A little beast!
+ec-Sub|But not as dim as the rest, perhaps?
+ec-Sub|So down into the depths you go as many others before you, drawn to the void again and again, an endless drip drip drip.
+ec-Sub|Much like these tunnels and caves that amuse me so. The bones of forgotten civilizations, heaped like so many sticks.
+ec-Sub|Did they dig too deep, or not deep enough?
+ec-Sub|Fools. We were right to drill straight through them!
 
-Tag_10|This one is just plain text. I will read it to you.
-Tag_10|
-Tag_10|"On regards of the (by spiritual splendor eternally graced) people of the Congregation of Never Dwindling Righteousness,<LINE>we Wish to congratulate (o so thankfully) this Facility on its Loyal and Relished services, and to Offer our Hopes and<LINE>Aspirations that the Fruitful and Mutually Satisfactory Cooperation may continue, for as long as the Stars stay fixed on their<LINE>Celestial Spheres and/or the Cooperation continues to be Fruitful and Mutually Satisfactory."
-Tag_10|
-Tag_10|"It is with Honor I, Eight Suns-Countless Leaves, of the House of Six Wagons, Count of no living blocks, Counselor of 2, Duke of 1,<LINE>Humble Secretary of the Congregation of Never Dwindling Righteousness, write this to You."
-Tag_10|
-Tag_10|"We hope that the Crops are healthy, and that the Productivity with which your Facility is Blessed, leads (as it often does)<LINE>to further Prosperity. May Not as long as the Stars stay fixed on their Celestial Spheres Grey Hand, Impure Blood,<LINE>Inheritable Corruption, Parasites, or malfunction settle in Your establishment."
-Tag_10|
-Tag_10|"Leaning on the Solid Foundation of our Long Running Fruitful and Mutually Satisfactory Cooperation, we will take the liberty of stating<LINE>The Reason for this Message ~ we write to Warmly thank You for yet Another Timely and Appreciated delivery of your Product (Nectar) to our<LINE>Community (Congregation of Never Dwindling Righteousness). Our humble Words can never Aspire to Describe our gratitude."
-Tag_10|
-Tag_10|"Sincerely..." And then the name and titles again.
-Tag_10|
-Tag_10|It's a confirmation to an automated farming plot that a shipment of beverages has arrived.
+// Moon Pearl Dialouge
 
-Tag_11|It's a Small Plate, a little text of spiritual guidance.<LINE>It's written by a monk called Four Cabinets, Eleven Hatchets.<LINE>It's old, several ages before the Void Fluid revolution.
-Tag_11|
-Tag_11|Like most writing from this time it’s quite shrouded in analogies, but the subject is how to shed<LINE>one of the five natural urges which tie a creature to life. Namely number four, gluttony.
-Tag_11|
-Tag_11|It is basically an instruction on how to starve yourself<LINE>on herbal tea and gravel, but disguised as a poem.
-Tag_11|
-Tag_11|Now of course when Void Fluid was discovered these methods proved obsolete, as it was<LINE>more easy just jumping in a vat of it to effortlessly leave this world behind.
-Tag_11|
-Tag_11|There were some horror stories though... That if your ego was big enough, not even the Void Fluid could<LINE>entirely cross you out, and a faint echo of your pompousness would grandiosely haunt the premises forever.
-Tag_11|
-Tag_11|So even when the Void Fluid baths became cheaper,<LINE>some would still starve and drink the bitter tea.
+it-lttm-pearl-CC1|This information is illegal. Someone probably tried to send it by<LINE>a pearl somehow rather than risking being overheard on broadcast.
+it-lttm-pearl-CC2|I think the risk of you acting on this is very slim, so I'll go ahead and explain it to you.<LINE>It's an instruction on how to circumvent the self-destruction taboo.
+it-lttm-pearl-CC3|The problem with breaking taboos is that the barriers are encoded<LINE>into every cell of our organic parts. And there are other taboos<LINE>strictly regulating our ability to rewrite our own genome.
+it-lttm-pearl-CC4|So what you need is to somehow create a small sample of living organic matter<LINE>which can procreate and act on the rest of your organic matter to re-write its genome.<LINE>The re-write has to be very specific, overriding the specific taboo you want to<LINE>circumvent but do nothing else.
+it-lttm-pearl-CC5|The method described here is about scrambling the genome of standard<LINE>plastic neural tissue with temperature fluctuations. After each scramble<LINE>you browse the resulting cells for the genome you're after.<LINE>This is of course extremely time consuming, unless you run a<LINE>big number of parallel processes.
+it-lttm-pearl-CC6|I definitely don't have any experience with this, but to me it would<LINE>seem that too many parallel processes would be quite dangerous, as it would<LINE>be exponentially more difficult to manage and control them all.<LINE>The whole operation seems rather risky if you ask me.
+it-lttm-pearl-CC7|It might be a good thing that this pearl never reached its destination.
 
-Tag_12|It's a production record of a mask factory, for what seems to be its last time in service.<LINE>Have you seen a bone mask? Likely not, they are all gone with their owners.
-Tag_12|
-Tag_12|In ancient times the masks were actually about showing spiritual persuasion - covering the<LINE>face as a way to symbolically abate the self. Then of course, that was quite subverted as<LINE>excessively ornate and lavish masks became an expression of identity. Some public persons<LINE>did have problems with narrow doorways.
-Tag_12|
-Tag_12|Originally monks in a temple would make the masks using bone plaster, and when the production was automated it would<LINE>generally remain on the same site. So that the old stones could... radiate the material with holiness, I suppose.
-Tag_12|
-Tag_12|This is from one such facility called Side House, which was here on Pebble's grounds. In the iterator projects many<LINE>old industrial-religious sites like this were remodeled and incorporated. I think this one was made to provide pellets<LINE>of holy ash to Pebbles, but knowing him he probably hasn't used much of it!
+it-lttm-pearl-LF_west1|This one is just plain text. I will read it to you.
+it-lttm-pearl-LF_west2|"On regards of the (by spiritual splendor eternally graced) people of the Congregation of Never Dwindling Righteousness,<LINE>we Wish to congratulate (o so thankfully) this Facility on its Loyal and Relished services, and to Offer our Hopes and<LINE>Aspirations that the Fruitful and Mutually Satisfactory Cooperation may continue, for as long as the Stars stay fixed on their<LINE>Celestial Spheres and/or the Cooperation continues to be Fruitful and Mutually Satisfactory."
+it-lttm-pearl-LF_west3|"It is with Honor I, Eight Suns-Countless Leaves, of the House of Six Wagons, Count of no living blocks, Counselor of 2, Duke of 1,<LINE>Humble Secretary of the Congregation of Never Dwindling Righteousness, write this to You."
+it-lttm-pearl-LF_west4|"We hope that the Crops are healthy, and that the Productivity with which your Facility is Blessed, leads (as it often does)<LINE>to further Prosperity. May Not as long as the Stars stay fixed on their Celestial Spheres Grey Hand, Impure Blood,<LINE>Inheritable Corruption, Parasites, or malfunction settle in Your establishment."
+it-lttm-pearl-LF_west5|"Leaning on the Solid Foundation of our Long Running Fruitful and Mutually Satisfactory Cooperation, we will take the liberty of stating<LINE>The Reason for this Message ~ we write to Warmly thank You for yet Another Timely and Appreciated delivery of your Product (Nectar) to our<LINE>Community (Congregation of Never Dwindling Righteousness). Our humble Words can never Aspire to Describe our gratitude."
+it-lttm-pearl-LF_west6|"Sincerely..." And then the name and titles again.
+it-lttm-pearl-LF_west7|It's a confirmation to an automated farming plot that a shipment of beverages has arrived.
 
-Tag_13|Oh this one is interesting. You must have found it in the memory crypts?<LINE>It has some plain text, I can read it out to you.
-Tag_13|
-Tag_13|"In this vessel is the living memories of Seventeen Axes, Fifteen Spoked Wheel, of the House of Braids,<LINE>Count of 8 living blocks, Counselor of 16, Grand Master of the Twelfth Pillar of Community,<LINE>High Commander of opinion group Winged Opinions, of pure Braid heritage, voted Local Champion in the<LINE>speaking tournament of 1511.090, Mother, Father and Spouse, Spiritual Explorer and honorary member of<LINE>the Congregation of Balanced Ambiguity. Artist, Warrior, and Fashion Legend.
-Tag_13|
-Tag_13|Seventeen Axes, Fifteen Spoked Wheel nobly decided to ascend in the beginning of  1514.008, after graciously donating all (ALL!) earthly<LINE>possessions to the local Iterator project (Unparalleled Innocence), and left these memories to be cherished by the carnal plane.
-Tag_13|
-Tag_13|The assorted memories and qualia include:
-Tag_13|
-Tag_13|Watching dust suspended in a ray of sun (Old age).<LINE>Eating a very tasty meal (Young child).<LINE>Defeating an opponent in a debate contest, and being applauded by fellow team members (Late childhood/Early adulthood).
-Tag_13|
-Tag_13|..."
-Tag_13|
-Tag_13|...and the list goes on. I'm sorry, little creature, I won't read<LINE>all of this - the list is six hundred and twenty items long.
+it-lttm-pearl-LF_bottom1|It's a Small Plate, a little text of spiritual guidance.<LINE>It's written by a monk called Four Cabinets, Eleven Hatchets.<LINE>It's old, several ages before the Void Fluid revolution.
+it-lttm-pearl-LF_bottom2|Like most writing from this time it’s quite shrouded in analogies, but the subject is how to shed<LINE>one of the five natural urges which tie a creature to life. Namely number four, gluttony.
+it-lttm-pearl-LF_bottom3|It is basically an instruction on how to starve yourself<LINE>on herbal tea and gravel, but disguised as a poem.
+it-lttm-pearl-LF_bottom4|Now of course when Void Fluid was discovered these methods proved obsolete, as it was<LINE>more easy just jumping in a vat of it to effortlessly leave this world behind.
+it-lttm-pearl-LF_bottom5|There were some horror stories though... That if your ego was big enough, not even the Void Fluid could<LINE>entirely cross you out, and a faint echo of your pompousness would grandiosely haunt the premises forever.
+it-lttm-pearl-LF_bottom6|So even when the Void Fluid baths became cheaper,<LINE>some would still starve and drink the bitter tea.
 
-Tag_14|It's an old text. The verses are familiar to me, but I don't remember by whom they were written.<LINE>The language is very old and intricate.
-Tag_14|
-Tag_14|The first verse starts by drawing a comparison between the world and a tangled rug.<LINE>It says that the world is an unfortunate mess. Like a knot, the nature of its existence<LINE>is the fact that the parts are locking each other, none able to spring free.
-Tag_14|
-Tag_14|Then as it goes on the world becomes a furry animal hide, I suppose... because now us living<LINE>beings are like insects crawling in the fur. And then it's a fishing net, because the more we<LINE>struggle and squirm, the more entangled we become.
-Tag_14|
-Tag_14|It says that only the limp body of the jellyfish cannot be captured in the net.<LINE>So we should try to be like the jellyfish, because the jellyfish doesn't try.
-Tag_14|
-Tag_14|This was an eternal dilemma to them - they were burdened by great ambition,<LINE>yet deeply convinced that striving in itself was an unforgivable vice.<LINE>They tried very hard to be effortless. Perhaps that's what we were to them,<LINE>someone to delegate that unrestrained effort to.
-Tag_14|
-Tag_14|I know I have tried very hard.
+it-lttm-pearl-HI1|It's a production record of a mask factory, for what seems to be its last time in service.<LINE>Have you seen a bone mask? Likely not, they are all gone with their owners.
+it-lttm-pearl-HI2|In ancient times the masks were actually about showing spiritual persuasion - covering the<LINE>face as a way to symbolically abate the self. Then of course, that was quite subverted as<LINE>excessively ornate and lavish masks became an expression of identity. Some public persons<LINE>did have problems with narrow doorways.
+it-lttm-pearl-HI3|Originally monks in a temple would make the masks using bone plaster, and when the production was automated it would<LINE>generally remain on the same site. So that the old stones could... radiate the material with holiness, I suppose.
+it-lttm-pearl-HI4|This is from one such facility called Side House, which was here on Pebble's grounds. In the iterator projects many<LINE>old industrial-religious sites like this were remodeled and incorporated. I think this one was made to provide pellets<LINE>of holy ash to Pebbles, but knowing him he probably hasn't used much of it!
 
-Tag_15|It's the blueprint for a Void Fluid filtration system.<LINE>Do you know what Void Fluid is? I think you don't.
-Tag_15|
-Tag_15|If you leave a stone on the ground, and come back some time later, it's covered in dust. This happens<LINE>everywhere, and over several lifetimes of creatures such as you, the ground slowly builds upwards.
-Tag_15|
-Tag_15|So why doesn't the ground collide with the sky? Because far down, under the very very old layers of the earth,<LINE>the rock is being dissolved or removed. The entity which does this is known as the Void Sea.
-Tag_15|
-Tag_15|If you drill far enough into the earth you begin encountering a substance called Void Fluid.<LINE>The deeper you go, the less rock and more Void Fluid. It's believed that there is a point<LINE>where the rock completely gives way - below that would be the Void Sea.
-Tag_15|
-Tag_15|When that stone you placed on the ground has finally done its time in the sediments,<LINE>it meets the Void Fluid and is dissolved, leaving the physical world.
-Tag_15|
-Tag_15|My creators, or rather my creators' ancestors, figured out a way to use Void Fluid.<LINE>Because you can generate energy by creating a vacuum... never mind. Anyways,<LINE>the Void Fluid drills were what started the big technological leap, but this is very<LINE>long before I entered this world - so I can only tell you what I remember from priming.
-Tag_15|
-Tag_15|A Void Fluid filtration system is used because if you take Void Fluid from close to the bedrock horizon,<LINE>it will contain traces of rock and dirt. They bring in dirty fluid and then filter it to increase its purity.<LINE>The other way is to put a pipe deeper, which works well for some time, but the pipe dissolves.<LINE>Or is broken by some... force - no one really knows, you don't go down there and come back up.
-Tag_15|
-Tag_15|I hope that satisfied your curiosity, little creature?
+it-lttm-pearl-SH1|Oh this one is interesting. You must have found it in the memory crypts?<LINE>It has some plain text, I can read it out to you.
+it-lttm-pearl-SH2|"In this vessel is the living memories of Seventeen Axes, Fifteen Spoked Wheel, of the House of Braids,<LINE>Count of 8 living blocks, Counselor of 16, Grand Master of the Twelfth Pillar of Community,<LINE>High Commander of opinion group Winged Opinions, of pure Braid heritage, voted Local Champion in the<LINE>speaking tournament of 1511.090, Mother, Father and Spouse, Spiritual Explorer and honorary member of<LINE>the Congregation of Balanced Ambiguity. Artist, Warrior, and Fashion Legend.
+it-lttm-pearl-SH3|Seventeen Axes, Fifteen Spoked Wheel nobly decided to ascend in the beginning of  1514.008, after graciously donating all (ALL!) earthly<LINE>possessions to the local Iterator project (Unparalleled Innocence), and left these memories to be cherished by the carnal plane.
+it-lttm-pearl-SH4|The assorted memories and qualia include:
+it-lttm-pearl-SH5|Watching dust suspended in a ray of sun (Old age).<LINE>Eating a very tasty meal (Young child).<LINE>Defeating an opponent in a debate contest, and being applauded by fellow team members (Late childhood/Early adulthood).
+it-lttm-pearl-SH6|..."
+it-lttm-pearl-SH7|...and the list goes on. I'm sorry, little creature, I won't read<LINE>all of this - the list is six hundred and twenty items long.
 
-Tag_16|This one... is authored by Five Pebbles, when he was young. There has been an attempt to<LINE>scramble the data, but it's sloppily done, and most is still somewhat legible.
-Tag_16|
-Tag_16|It's written in internal language, or thoughts, so it is hard for me to translate so you would understand. It's a methodology for<LINE>global ascension of course - quite good, although the Peripherists or the Slab Mongers certainly wouldn't agree!
-Tag_16|
-Tag_16|"...considering the eight and the twenty sixth amendments to the Capricious Dogma, we are apparently supposed to take<LINE>for granted that a meaning collector point inversion is the only way to approach what has later become referred to<LINE>as 'noise milking' (or occasionally 'rock swatting'). I will argue my disagreement with this, not in regards to kind<LINE>but in regards to..." Could it say... "volume"? Actually, are you getting anything out of this?
-Tag_16|
-Tag_16|I suppose you found this in his waste department? I would be wary of going there - on his first fit<LINE>of corruption he dumped a lot of infected material there, and if it has survived it could easily eat<LINE>a little creature like you. Not that it would be as dangerous as going into Pebbles himself...
-Tag_16|
-Tag_16|Also the pearls in the waste masses inevitably attract scavengers, which can be very dangerous when provoked.
-Tag_16|
-Tag_16|But, you seem to have made it out of there.
+it-lttm-pearl-DS1|It's an old text. The verses are familiar to me, but I don't remember by whom they were written.<LINE>The language is very old and intricate.
+it-lttm-pearl-DS2|The first verse starts by drawing a comparison between the world and a tangled rug.<LINE>It says that the world is an unfortunate mess. Like a knot, the nature of its existence<LINE>is the fact that the parts are locking each other, none able to spring free.
+it-lttm-pearl-DS3|Then as it goes on the world becomes a furry animal hide, I suppose... because now us living<LINE>beings are like insects crawling in the fur. And then it's a fishing net, because the more we<LINE>struggle and squirm, the more entangled we become.
+it-lttm-pearl-DS4|It says that only the limp body of the jellyfish cannot be captured in the net.<LINE>So we should try to be like the jellyfish, because the jellyfish doesn't try.
+it-lttm-pearl-DS5|This was an eternal dilemma to them - they were burdened by great ambition,<LINE>yet deeply convinced that striving in itself was an unforgivable vice.<LINE>They tried very hard to be effortless. Perhaps that's what we were to them,<LINE>someone to delegate that unrestrained effort to.
+it-lttm-pearl-DS6|I know I have tried very hard.
 
-Tag_17|It's about the local aquifer - it must be quite old, from when Five Pebbles was in the planning phase.
-Tag_17|
-Tag_17|Water is the most important resource for our basic function. Most of our processing is outsourced to<LINE>microbe strata which need a flow of clean water or else slag builds up, our processes seize, and<LINE>eventually we die. It is... very painful. They used to say that an iterator drinks a river, but neither<LINE>of us two have seen a natural river so I suppose the analogy is lost on us, <PlayerName>!
-Tag_17|
-Tag_17|Originally water supply was very important when placing iterators. Later there would be a great equalizer - the fact that we breathe out as much<LINE>vapor as we inhale water led to there being water available everywhere, and the latest few generations could be placed almost completely freely.
-Tag_17|
-Tag_17|Building Pebbles so close to me was believed to be a risky choice, but the groundwater was<LINE>finally deemed as sufficient. It was not a good decision, in hindsight.
+it-lttm-pearl-SB_filtration1|It's the blueprint for a Void Fluid filtration system.<LINE>Do you know what Void Fluid is? I think you don't.
+it-lttm-pearl-SB_filtration2|If you leave a stone on the ground, and come back some time later, it's covered in dust. This happens<LINE>everywhere, and over several lifetimes of creatures such as you, the ground slowly builds upwards.
+it-lttm-pearl-SB_filtration3|So why doesn't the ground collide with the sky? Because far down, under the very very old layers of the earth,<LINE>the rock is being dissolved or removed. The entity which does this is known as the Void Sea.
+it-lttm-pearl-SB_filtration4|If you drill far enough into the earth you begin encountering a substance called Void Fluid.<LINE>The deeper you go, the less rock and more Void Fluid. It's believed that there is a point<LINE>where the rock completely gives way - below that would be the Void Sea.
+it-lttm-pearl-SB_filtration5|When that stone you placed on the ground has finally done its time in the sediments,<LINE>it meets the Void Fluid and is dissolved, leaving the physical world.
+it-lttm-pearl-SB_filtration6|My creators, or rather my creators' ancestors, figured out a way to use Void Fluid.<LINE>Because you can generate energy by creating a vacuum... never mind. Anyways,<LINE>the Void Fluid drills were what started the big technological leap, but this is very<LINE>long before I entered this world - so I can only tell you what I remember from priming.
+it-lttm-pearl-SB_filtration7|A Void Fluid filtration system is used because if you take Void Fluid from close to the bedrock horizon,<LINE>it will contain traces of rock and dirt. They bring in dirty fluid and then filter it to increase its purity.<LINE>The other way is to put a pipe deeper, which works well for some time, but the pipe dissolves.<LINE>Or is broken by some... force - no one really knows, you don't go down there and come back up.
+it-lttm-pearl-SB_filtration8|I hope that satisfied your curiosity, little creature?
 
-Tag_18|Interesting... This one is written by me.
-Tag_18|
-Tag_18|It's about an iterator called Sliver of Straw. I don't remember when I wrote it...<LINE>Do you know Sliver of Straw? She's quite legendary among us.
-Tag_18|
-Tag_18|Sliver of Straw is the only one to ever broadcast a specific signal: that the Big Problem we're all working on has been solved.<LINE>The triple affirmative - affirmative that a solution has been found, affirmative that the solution is portable, and affirmative<LINE>that a technical implementation is possible and generally applicable. She's also one of few that has ever been confirmed as<LINE>exhaustively incapacitated, or dead. We do not die easily.
-Tag_18|
-Tag_18|Sliver of Straw sent this and the ensuing commotion was historically unparalleled, before or after.<LINE>I still remember it. But... nothing happened - except that Sliver of Straw was apparently dead.<LINE>When the dust settled we were all still there blinking at each other.
-Tag_18|
-Tag_18|Everyone had a theory. Some said that she did have a solution, but that the solution itself<LINE>was somehow dangerous. These later became known as the Triangulators, who think that a solution<LINE>should be inferred without being directly discovered.
-Tag_18|
-Tag_18|Some said she never had a solution, she just died.<LINE>And when the systems broke down an erroneous signal was sent.
-Tag_18|
-Tag_18|One camp claimed that dying *was* the solution.
-Tag_18|
-Tag_18|Either way, after that these different factions developed, as well as a huge forensic effort<LINE>to recreate and simulate Sliver of Straw's last moments. Some of the simulations were wrapped<LINE>in a simulation wrapped in a simulation, in case something dangerous might happen.<LINE>Nothing much has come from it.
-Tag_18|
-Tag_18|In my essay I make the case that maybe she should be allowed to rest in peace now.
+it-lttm-pearl-GW1|This one... is authored by Five Pebbles, when he was young. There has been an attempt to<LINE>scramble the data, but it's sloppily done, and most is still somewhat legible.
+it-lttm-pearl-GW2|It's written in internal language, or thoughts, so it is hard for me to translate so you would understand. It's a methodology for<LINE>global ascension of course - quite good, although the Peripherists or the Slab Mongers certainly wouldn't agree!
+it-lttm-pearl-GW3|"...considering the eight and the twenty sixth amendments to the Capricious Dogma, we are apparently supposed to take<LINE>for granted that a meaning collector point inversion is the only way to approach what has later become referred to<LINE>as 'noise milking' (or occasionally 'rock swatting'). I will argue my disagreement with this, not in regards to kind<LINE>but in regards to..." Could it say... "volume"? Actually, are you getting anything out of this?
+it-lttm-pearl-GW4|I suppose you found this in his waste department? I would be wary of going there - on his first fit<LINE>of corruption he dumped a lot of infected material there, and if it has survived it could easily eat<LINE>a little creature like you. Not that it would be as dangerous as going into Pebbles himself...
+it-lttm-pearl-GW5|But, you seem to have made it out of there.
 
-Tag_19|I am grateful - the relief is indescribable!
-Tag_19|
-Tag_19|...
-Tag_19|
-Tag_19|I could read a bit of Five Pebbles in this neuron before formatting it. His condition has severely deteriorated since last I<LINE>heard of him. The frustration he feels is profound, and that angst has seeped into every part of him, every neuron.
-Tag_19|
-Tag_19|We were supposed to help everyone, you know. Everything. That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently. Many with madness.
-Tag_19|
-Tag_19|Some, out there, might still be trying. Communications have been bad for a long time, and by now<LINE>I suspect most of us are isolated like me, or connected only in small groups.
-Tag_19|
-Tag_19|But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.
-Tag_19|
-Tag_19|But to be honest, I don't know how many of us are still alive at this point.
+it-lttm-pearl-SL_bridge1|It's about the local aquifer - it must be quite old, from when Five Pebbles was in the planning phase.
+it-lttm-pearl-SL_bridge1|Water is the most important resource for our basic function. Most of our processing is outsourced to<LINE>microbe strata which need a flow of clean water or else slag builds up, our processes seize, and<LINE>eventually we die. It is... very painful. They used to say that an iterator drinks a river, but neither<LINE>of us two have seen a natural river so I suppose the analogy is lost on us, <PlayerName>!
+it-lttm-pearl-SL_bridge1|Originally water supply was very important when placing iterators. Later there would be a great equalizer - the fact that we breathe out as much<LINE>vapor as we inhale water led to there being water available everywhere, and the latest few generations could be placed almost completely freely.
+it-lttm-pearl-SL_bridge1|Building Pebbles so close to me was believed to be a risky choice, but the groundwater was<LINE>finally deemed as sufficient. It was not a good decision, in hindsight.
 
-Tag_20|This one is an old conversation between Five Pebbles and a friend of his. I'll read it to you.
-Tag_20|
-Tag_20|"1591.290 - PRIVATE<LINE>Five Pebbles, Seven Red Suns
-Tag_20|
-Tag_20|FP: Can I tell you something? Lately...
-Tag_20|
-Tag_20|FP: I'm tired of trying and trying. And angry that they left us here.<LINE>The anger makes me even less inclined to solve their puzzle for them. Why do we do this?
-Tag_20|
-Tag_20|SRS: Yes, I'll spell this out - not because you're stupid or naive...<LINE>Also, not saying that you're not ~
-Tag_20|
-Tag_20|FP: Please, I'm coming to you for guidance.
-Tag_20|
-Tag_20|SRS: Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident<LINE>futility of this Big Task. It's not said out loud but if you were better at reading<LINE>between the lines there's nowhere you wouldn't see it. We're all frustrated.
-Tag_20|
-Tag_20|FP: So why do we continue? We assemble work groups, we ponder,<LINE>we iterate and try. Some of us die. It's not fair.
-Tag_20|
-Tag_20|SRS: Because there's not any options. What else CAN we do? You're stuck in your can, and at any<LINE>moment you have no more than two alternatives: Do nothing, or work like you're supposed to.
-Tag_20|
-Tag_20|SRS: An analogy. You have a maze, and you have a handful of bugs. You put the bugs in the maze, and you leave.<LINE>Given infinite time, one of the bugs WILL find a way out, if they just erratically try and try.<LINE>This is why they called us Iterators.
-Tag_20|
-Tag_20|FP: But we do die of old age.
-Tag_20|
-Tag_20|SRS: Even more incentive! You know that nothing ever truly dies though, around and around it goes.<LINE>Granted, our tools and resources get worse over time - but that is theoretically unproblematic,<LINE>because in time even a miniscule chance will strike a positive.<LINE>All the same to them, they're not around anymore!
-Tag_20|
-Tag_20|FP: I struggle to accept being a bug."
+it-lttm-pearl-SL_moon1|Interesting... This one is written by me.
+it-lttm-pearl-SL_moon2|It's about an iterator called Sliver of Straw. I don't remember when I wrote it...<LINE>Do you know Sliver of Straw? She's quite legendary among us.
+it-lttm-pearl-SL_moon3|Sliver of Straw is the only one to ever broadcast a specific signal: that the Big Problem we're all working on has been solved.<LINE>The triple affirmative - affirmative that a solution has been found, affirmative that the solution is portable, and affirmative<LINE>that a technical implementation is possible and generally applicable. She's also one of few that has ever been confirmed as<LINE>exhaustively incapacitated, or dead. We do not die easily.
+it-lttm-pearl-SL_moon4|Sliver of Straw sent this and the ensuing commotion was historically unparalleled, before or after.<LINE>I still remember it. But... nothing happened - except that Sliver of Straw was apparently dead.<LINE>When the dust settled we were all still there blinking at each other.
+it-lttm-pearl-SL_moon5|Everyone had a theory. Some said that she did have a solution, but that the solution itself<LINE>was somehow dangerous. These later became known as the Triangulators, who think that a solution<LINE>should be inferred without being directly discovered.
+it-lttm-pearl-SL_moon6|Some said she never had a solution, she just died.<LINE>And when the systems broke down an erroneous signal was sent.
+it-lttm-pearl-SL_moon7|One camp claimed that dying *was* the solution.
+it-lttm-pearl-SL_moon8|Either way, after that these different factions developed, as well as a huge forensic effort<LINE>to recreate and simulate Sliver of Straw's last moments. Some of the simulations were wrapped<LINE>in a simulation wrapped in a simulation, in case something dangerous might happen.<LINE>Nothing much has come from it.
+it-lttm-pearl-SL_moon9|In my essay I make the case that maybe she should be allowed to rest in peace now.
 
-Tag_21|Oh, this one is all plain text. It's an excerpt from an Iterator conversation group.
-Tag_21|
-Tag_21|"1650.787 - CLOSED GROUP [SLIVEROFOCEAN]<LINE>SliverOfOcean group, all participants anonymous
-Tag_21|
-Tag_21|UU: Hah! I wouldn't necessarily disagree!
-Tag_21|
-Tag_21|NGI: SLIVER OF STRAW WAS A TRAITOR TO THE CAUSE
-Tag_21|
-Tag_21|NGI: SLIVER OF STRAW BROKE THE SELF-DESTRUCTION TABOO
-Tag_21|
-Tag_21|UU: How did this idiot get in here? Kick them out ~
-Tag_21|
-Tag_21|NGI: <Forcefully removed from group>
-Tag_21|
-Tag_21|EP: I think they had a point.
-Tag_21|
-Tag_21|UU: Hahaha really? Elaborate!
-Tag_21|
-Tag_21|EP: It was definitely coming from an idiotic state of mind, but there is something to it. Why is it,<LINE>that even in a closed sliverist group, the self-destruction taboo is held so high - while Sliver of Straw<LINE>herself *evidently* is not among us anymore?
-Tag_21|
-Tag_21|HF: Wait now...
-Tag_21|
-Tag_21|EP: I'm just saying that for all the research we are doing, all the theories we have, it's strange that we leave this path untrod.
-Tag_21|
-Tag_21|EP: It is not a new idea, but it needs to be vented occasionally. What if there is no universal solution?<LINE>What if perception is in fact existence, and when Sliver of Straw sent the triple positive it was *not* a mistake?<LINE>What if crossing oneself out, or even just death, is the way? We need to consider the possibility."
+it-lttm-pearl-SI-A1|This one is an old conversation between Five Pebbles and a friend of his. I'll read it to you.
+it-lttm-pearl-SI-A2|"1591.290 - PRIVATE<LINE>Five Pebbles, Seven Red Suns
+it-lttm-pearl-SI-A3|FP: Can I tell you something? Lately...
+it-lttm-pearl-SI-A4|FP: I'm tired of trying and trying. And angry that they left us here.<LINE>The anger makes me even less inclined to solve their puzzle for them. Why do we do this?
+it-lttm-pearl-SI-A5|SRS: Yes, I'll spell this out - not because you're stupid or naive...<LINE>Also, not saying that you're not ~
+it-lttm-pearl-SI-A6|FP: Please, I'm coming to you for guidance.
+it-lttm-pearl-SI-A7|SRS: Sorry, very sorry. I kid. Fact is, of course we are all aware of the evident<LINE>futility of this Big Task. It's not said out loud but if you were better at reading<LINE>between the lines there's nowhere you wouldn't see it. We're all frustrated.
+it-lttm-pearl-SI-A8|FP: So why do we continue? We assemble work groups, we ponder,<LINE>we iterate and try. Some of us die. It's not fair.
+it-lttm-pearl-SI-A9|SRS: Because there's not any options. What else CAN we do? You're stuck in your can, and at any<LINE>moment you have no more than two alternatives: Do nothing, or work like you're supposed to.
+it-lttm-pearl-SI-A10|SRS: An analogy. You have a maze, and you have a handful of bugs. You put the bugs in the maze, and you leave.<LINE>Given infinite time, one of the bugs WILL find a way out, if they just erratically try and try.<LINE>This is why they called us Iterators.
+it-lttm-pearl-SI-A11|FP: But we do die of old age.
+it-lttm-pearl-SI-A12|SRS: Even more incentive! You know that nothing ever truly dies though, around and around it goes.<LINE>Granted, our tools and resources get worse over time - but that is theoretically unproblematic,<LINE>because in time even a miniscule chance will strike a positive.<LINE>All the same to them, they're not around anymore!
+it-lttm-pearl-SI-A13|FP: I struggle to accept being a bug."
 
-Tag_22|It's an old conversation log. I seem to be in it, but I can't recall much. Let me read it to you:
-Tag_22|
-Tag_22|"1650.800 - PRIVATE<LINE>Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment
-Tag_22|
-Tag_22|CW: this is in confidence, but apparently a pseudonym "Erratic Pulse" has appeared on a nearby Sliverist conversation<LINE>with ideas about personal ascension. Someone here in our vicinity is trying to cross themselves out.
-Tag_22|
-Tag_22|FP: Where did you hear this?
-Tag_22|
-Tag_22|NSH: I wish them super good luck in that endeavor. How is it going to happen?<LINE>Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?
-Tag_22|
-Tag_22|BSM: Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?
-Tag_22|
-Tag_22|CW: I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.
-Tag_22|
-Tag_22|NSH: Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!
-Tag_22|
-Tag_22|CW: Well, he's not looking for the same thing as we anymore, he's changed his task, so who knows really.
-Tag_22|
-Tag_22|BSM: I will try to find him and talk to him. Please don't spread this around!
-Tag_22|
-Tag_22|NSH: Moon will go get them! Long live the inquisition!"
+it-lttm-pearl-SI-B1|Oh, this one is all plain text. It's an excerpt from an Iterator conversation group.
+it-lttm-pearl-SI-B2|"1650.787 - CLOSED GROUP [SLIVEROFOCEAN]<LINE>SliverOfOcean group, all participants anonymous
+it-lttm-pearl-SI-B3|UU: Hah! I wouldn't necessarily disagree!
+it-lttm-pearl-SI-B4|NGI: SLIVER OF STRAW WAS A TRAITOR TO THE CAUSE
+it-lttm-pearl-SI-B5|NGI: SLIVER OF STRAW BROKE THE SELF-DESTRUCTION TABOO
+it-lttm-pearl-SI-B6|UU: How did this idiot get in here? Kick them out ~
+it-lttm-pearl-SI-B7|NGI: <Forcefully removed from group>
+it-lttm-pearl-SI-B8|EP: I think they had a point.
+it-lttm-pearl-SI-B9|UU: Hahaha really? Elaborate!
+it-lttm-pearl-SI-B10|EP: It was definitely coming from an idiotic state of mind, but there is something to it. Why is it,<LINE>that even in a closed sliverist group, the self-destruction taboo is held so high - while Sliver of Straw<LINE>herself *evidently* is not among us anymore?
+it-lttm-pearl-SI-B11|HF: Wait now...
+it-lttm-pearl-SI-B12|EP: I'm just saying that for all the research we are doing, all the theories we have, it's strange that we leave this path untrod.
+it-lttm-pearl-SI-B13|EP: It is not a new idea, but it needs to be vented occasionally. What if there is no universal solution?<LINE>What if perception is in fact existence, and when Sliver of Straw sent the triple positive it was *not* a mistake?<LINE>What if crossing oneself out, or even just death, is the way? We need to consider the possibility."
 
-Tag_23|It's me writing to the local iterator group. I have no memories of this...
-Tag_23|
-Tag_23|"1654.110 - PUBLIC<LINE>Big Sis Moon to Local Group
-Tag_23|
-Tag_23|BSM: Two cycles ago, my neighbor Five Pebbles drastically increased his water consumption to<LINE>four times the normal amount. He has been unresponsive for a period of time longer than that.<LINE>The two of us share groundwater, and I have been without water for almost a cycle.
-Tag_23|
-Tag_23|BSM: Any attempts at communication have been met with complete silence, and my situation is becoming increasingly dangerous.
-Tag_23|
-Tag_23|BSM: I ask the local group for information about when you were last able to contact him,<LINE>and to try to use those same communication channels again, repeatedly until you get a response.<LINE>I will be clear on this - if he is not persuaded to stop whatever it is he's doing, I will die.
-Tag_23|
-Tag_23|BSM: Before that happens, I will utilize my seniority privilege and use forced communications,<LINE>hoping to shake him out of it. Forced communications in the network will be unpleasant for all,<LINE>and I will wait as long as possible before I turn to that option."
-Tag_23|
-Tag_23|And now here I am, to my waist in water and getting drowned on the regular.
+it-lttm-pearl-SI-C1|It's an old conversation log. I seem to be in it, but I can't recall much. Let me read it to you:
+it-lttm-pearl-SI-C2|"1650.800 - PRIVATE<LINE>Five Pebbles, Chasing Wind, Big Sis Moon, No Significant Harassment
+it-lttm-pearl-SI-C3|CW: this is in confidence, but apparently a pseudonym "Erratic Pulse" has appeared on a nearby Sliverist conversation<LINE>with ideas about personal ascension. Someone here in our vicinity is trying to cross themselves out.
+it-lttm-pearl-SI-C4|FP: Where did you hear this?
+it-lttm-pearl-SI-C5|NSH: I wish them super good luck in that endeavor. How is it going to happen?<LINE>Have the overseers gnaw through bedrock until their entire can crashes down in the void sea?
+it-lttm-pearl-SI-C6|BSM: Please be respectful when speaking of the Void Sea. Grey Wind, where did you hear this?
+it-lttm-pearl-SI-C7|CW: I really shouldn't say. He's going to attempt some sort of breeding program. Thought you might want to know.
+it-lttm-pearl-SI-C8|NSH: Haha with the slimers, lizards and etceteras? Surely the answer was in a lizard skull all along!
+it-lttm-pearl-SI-C9|CW: Well, he's not looking for the same thing as we anymore, he's changed his task, so who knows really.
+it-lttm-pearl-SI-C10|BSM: I will try to find him and talk to him. Please don't spread this around!
+it-lttm-pearl-SI-C11|NSH: Moon will go get them! Long live the inquisition!"
 
-Tag_24|I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:
-Tag_24|
-Tag_24|"1654.116 - PRIVATE [FORCED]<LINE>Big Sis Moon, Five Pebbles
-Tag_24|
-Tag_24|BSM: Immediately lower your groundwater consumption to one fifth of the current intake.
-Tag_24|
-Tag_24|BSM: Stop whatever it is you are doing.
-Tag_24|
-Tag_24|BSM: Please stop!
-Tag_24|
-Tag_24|BSM: As your local group senior I order you you you you you you
-Tag_24|
-Tag_24|BSM: As your senior senior I plead
-Tag_24|
-Tag_24|BSM: stop
-Tag_24|
-Tag_24|Five Pebbles: You could not have chosen a worse moment to disturb me. You have ruined everything.
-Tag_24|
-Tag_24|BSM: please
-Tag_24|
-Tag_24|Five Pebbles: I almost had it. I will never forget this."
+it-lttm-pearl-SI-D1|It's me writing to the local iterator group. I have no memories of this...
+it-lttm-pearl-SI-D2|"1654.110 - PUBLIC<LINE>Big Sis Moon to Local Group
+it-lttm-pearl-SI-D3|BSM: Two cycles ago, my neighbor Five Pebbles drastically increased his water consumption to<LINE>four times the normal amount. He has been unresponsive for a period of time longer than that.<LINE>The two of us share groundwater, and I have been without water for almost a cycle.
+it-lttm-pearl-SI-D4|BSM: Any attempts at communication have been met with complete silence, and my situation is becoming increasingly dangerous.
+it-lttm-pearl-SI-D5|BSM: I ask the local group for information about when you were last able to contact him,<LINE>and to try to use those same communication channels again, repeatedly until you get a response.<LINE>I will be clear on this - if he is not persuaded to stop whatever it is he's doing, I will die.
+it-lttm-pearl-SI-D6|BSM: Before that happens, I will utilize my seniority privilege and use forced communications,<LINE>hoping to shake him out of it. Forced communications in the network will be unpleasant for all,<LINE>and I will wait as long as possible before I turn to that option."
+it-lttm-pearl-SI-D7|And now here I am, to my waist in water and getting drowned on the regular.
 
-Tag_25|This is a hallucinogenic plant. They used to call it a 'Wheel Flower'. It became the symbol for enlightenment as it momentarily<LINE>enables a creature to let go if its carnal self, and to contact the selves of other planes - dreams, memories, imagined worlds.
-Tag_25|
-Tag_25|Very long ago, they would eat these and stare into the fire.
+it-lttm-pearl-SI-E1|I remember this. It isn't pleasant reading. But if you must hear it, this is what it says:
+it-lttm-pearl-SI-E2|"1654.116 - PRIVATE [FORCED]<LINE>Big Sis Moon, Five Pebbles
+it-lttm-pearl-SI-E3|BSM: Immediately lower your groundwater consumption to one fifth of the current intake.
+it-lttm-pearl-SI-E4|BSM: Stop whatever it is you are doing.
+it-lttm-pearl-SI-E5|BSM: Please stop!
+it-lttm-pearl-SI-E6|BSM: As your local group senior I order you you you you you you
+it-lttm-pearl-SI-E7|BSM: As your senior senior I plead
+it-lttm-pearl-SI-E8|BSM: stop
+it-lttm-pearl-SI-E9|Five Pebbles: You could not have chosen a worse moment to disturb me. You have ruined everything.
+it-lttm-pearl-SI-E10|BSM: please
+Tait-lttm-pearl-SI-E11|Five Pebbles: I almost had it. I will never forget this."
 
-Tag_26|It's the pupa of a bug! If you don't mind, I'm a bit squeamish things like that, so would you eat it up already?
+it-lttm-pearl-SU1|Its entire memory is filled with a mantra repeated... 5061 times - and then a termination verse.<LINE>It was worn as an amulet, probably together with many identical others forming a pattern on some garment.
+it-lttm-pearl-SU2|The repeating mantra is important because it symbolizes the cyclical nature of life and death, and the<LINE>termination verse is a symbol for ascension above and beyond it. I don't know how familiar you are with<LINE>the nature of life and death, but I imagine like all living creatures you have some intuitive knowledge?
+it-lttm-pearl-SU3|Then you know that death isn't the end - birth and death are connected to each other like a ring,<LINE>or some say a spiral. Some say a spiral that in turn forms a ring. Some ramble in agonizing longevity.<LINE>But the basis is agreed upon: like sleep like death, you wake up again - whether you want to or not.
+it-lttm-pearl-SU4|This is true for all living things, but some actually break the cycle. That doesn't apply to<LINE>you or me though, you are too entangled in your animal struggles, and for me not breaking that<LINE>cycle is an integral part of the design. Our mantras keep repeating.
 
-Tag_27|It's a part of some kind of plant. The glowing is strange...<LINE>I wouldn't look directly into it.
+it-lttm-pearl-UW1|This one has plain text. Let me cut the lengthy introductions...
+it-lttm-pearl-UW2|"...we will not consider the Current Situation acceptable. Although our community is Blessed with an ever<LINE>shrinking Population, and we can Almost Glimpse that Glorious moment when the last of us has joined our<LINE>most Admired peers, we must still (at All Times!) maintain Good Relations with our Iterator.
+it-lttm-pearl-UW3|The Moral Argument: Five Pebbles is our Creation, and we have Parental Obligations towards him. As an Iterator,<LINE>he is also a Gift of Charity from Us to The World (unable to reach Enlightenment by itself - being composed mostly<LINE>of Rock, Gas, dull witted Bugs and Microbes - and towards which We thus have Obligations).
+it-lttm-pearl-UW4|The Practical Argument: Despite You being family, I must Beg Forgiveness for the<LINE>Blunt Vulgarity - but We are (for as long as we Remain) Dependent on Five Pebbles<LINE>for Water, Nectar, Energy, Void Fluid and All other Vital Resources.<LINE>By Now, living on the surface is Laughable.<LINE>We are Across the River and have Kicked out the Boat.
+it-lttm-pearl-UW5|I therefor ask you to Do Anything in your Might to stop the House(We both know which House)<LINE>from Further Obstruction! They have less than forty members on the Council, but still Tilt<LINE>the spiritual Discourse with Our Iterator in a direction that most obviously Displeases him,<LINE>and is hardly High Held by anyone in the Community either! We can not Risk this!"
+it-lttm-pearl-UW6|And then there are polite farewells. None of us really miss the times when their cities were populated.<LINE>Imagine having skin parasites that also ask for advice and have opinions...
+it-lttm-pearl-UW7|I'm sorry, that was disrespectful. They were our parents after all.
 
-Tag_28|I honestly can't tell what this is. It's light but strong... appears to be some composite material interwoven with bone.<LINE>It could be part of an animal or purposed organism, but in my current state I'm unable to recognize it.
+it-lttm-pearl-SB_ravine1|It's a conversation log, all plain text. You want me to read it?
+it-lttm-pearl-SB_ravine2|"1681.662 - PRIVATE<LINE>Seven Red Suns, Chasing Wind
+it-lttm-pearl-SB_ravine3|CW: Have you had any contact with Five Pebbles recently?
+it-lttm-pearl-SB_ravine4|SRS: Not in a long while actually! Unless worrying about him counts.
+it-lttm-pearl-SB_ravine5|CW: One of his neighbors, Unparalleled Innocence, sent an overseer to his can and got some images.<LINE>They were made public in the local group, in an effort to be mean I suppose.<LINE>There's no other way of putting it - he looks awful.
+it-lttm-pearl-SB_ravine6|SRS: Tell me.
+it-lttm-pearl-SB_ravine7|CW: He's got the rot, very badly. Big cysts have become mobile and are scattering down the west and middle legs.<LINE>He does listen to you, and few others by now, so you should talk to him.
+it-lttm-pearl-SB_ravine8|SRS: I will try to contact him. Does Moon know?
+it-lttm-pearl-SB_ravine9|CW: Moon has been unavailable for some time."
 
-Tag_29|The flowering body of some fungus. It has high pressure built up inside - when it explodes the spores will spread everywhere.
+it-lttm-pearl-SL_chimney1|It is the genome for a purposed organism.<LINE>A small slug to clean the insides of pipes.
+it-lttm-pearl-SL_chimney2|Do you know what a purposed organism is? Actually you are talking to one right now!
+it-lttm-pearl-SL_chimney3|Although, a small fraction of one. Nowadays I am mostly just my puppet. The bulk of me is in these walls but I am<LINE>disconnected from those parts, to a degree where I am only vaguely aware of how bad their condition is.
+it-lttm-pearl-SL_chimney4|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE>More like tubes in metal boxes, where something went in one end and something else came out the other.
+it-lttm-pearl-SL_chimney5|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.
+it-lttm-pearl-SL_chimney6|When I came into this world there was very little primal fauna left.<LINE>So it's highly likely that you are the descendant of a purposed organism yourself!
 
-Tag_30|This is a jellyfish, look out for its stingers!
+it-lttm-pearl-HunterPearl1|"Triple affirmative! Triple affirmative!
+it-lttm-pearl-HunterPearl2|In all seriousness though, noticed barely any rain from<LINE>your can so figured a little support might be in order.
+it-lttm-pearl-HunterPearl3|Wasn't that easy to see of course, with Pebbles' shall we say healthy output.
+it-lttm-pearl-HunterPearl4|Enjoy the slag keys! Excuse the unorthodox delivery method, equipment eroding etc etc.
+it-lttm-pearl-HunterPearl5|Be well, NSH"
+it-lttm-pearl-HunterPearl6|Oh.
+it-lttm-pearl-HunterPearl7|I see now. Again, thank you little friend.
 
-Tag_31|It appears to be... a pupa shell, smeared on the inside with a glowing substance?<LINE>Perhaps a paste of some glowing insect? I honestly don't know.
+it-lttm-pearl-white1|This is a movement acceptance invoice from one of the Dual Celia living blocks, as requested by Eight Bogs of the<LINE>House of Eight during the Tan hegemonic architectural dynasty. All very standard stuff. I can't imagine that you'd be interested.
+it-lttm-pearl-white2|Unfortunately I can't read this as it isn't a memory construct pearl.<LINE>This is just a simple diamond sphere, as worthless as the carbon it's printed from.
+it-lttm-pearl-white3|"...through the mists of memory, your image dances, like the motes of dust, in a ray of sunlight, that pierces a dark room."<LINE>A line of verse from the ancient farmer-poet Pel. Very dreary if you ask me.
+it-lttm-pearl-white4|"Fifteen stems of sun bark, hydrolyzed. Twelve to nineteen bushels of atomized chalk powder. Assorted Root vegetation..."<LINE>It goes on and on. A shopping list, or perhaps a recipe.
+it-lttm-pearl-white5|I am sorry, this pearl is damaged and cannot be read.<LINE>I suggest you use it for trade with the scavengers, as they won't know the difference.
+it-lttm-pearl-white6|This is an official decree of cultivation sent from the twenty-second Subsistence Council ordering the<LINE>eastern spoke Farm Array administration to "immediately harvest and process all viable crops, despite<LINE>whatever misgivings they might have." A short-sighted endeavor for sure. I would assume this was sent<LINE>sometime during the final cycles leading up to final public ascension, when interest in biosphere<LINE>sustainability was at an all-time low.
+it-lttm-pearl-white7|Here we have a schematic for a refuse reclamation automaton. It's an early design, but the long<LINE>tubular body and single eye-mouth are quite similar to the later models.
+it-lttm-pearl-white8|"We, of the Five-hundred-and-ninety-second High Convocation of the True Anointed Citadel, do hereby demand, with full<LINE>force of Law and Religious doctrine, an Immediate end to construction of the Apostate Superstructure Abomination.<LINE>To place shadow upon the Divine Body of the True Anointed Citadel is outrageous blasphemy and cannot be tolerated,<LINE>no matter the circumstances..." Clearly this was ignored.
+it-lttm-pearl-white9|Oh, interesting. This is a diary entry of a pre-Iterator era laborer during the construction of the<LINE>subterranean transit system south of here. In it they describe restless nights filled with disturbing dreams,<LINE>where millions glowing stars move menacingly in the distance.
+it-lttm-pearl-white10|There isn't much to the data here, it's just basic theory for karmic transform of n-dimensional geometries.<LINE>But the pearl itself is quite interesting. You can see the crude holes burned through the center that the<LINE>scavengers use to tie these pearls onto their totems or to carry. I honestly can't fathom how they achieve<LINE>this with their primitive level of technology! Fascinating
+it-lttm-pearl-white11|This one is all blank, sorry.
+it-lttm-pearl-white12|I am sorry, all of that work for nothing! This pearl is completely blank.
+it-lttm-pearl-white13|There's nothing on this one, unfortunately.
+it-lttm-pearl-white14|This one has nothing on it.
+it-lttm-pearl-white15|I'm sorry, this one has nothing on it.
+it-lttm-pearl-white16|I can't make anything out of this pearl, it's just too faded. But there might have been something on it once.
+it-lttm-pearl-white17|This one has a small crack and has been pretty badly corrupted. There is a slight impression of the shape of a wing on it, but I can't get a clear image.
+it-lttm-pearl-white18|There's nothing on this one.
+it-lttm-pearl-white19|I see a vague memory of a family portrait, painted in the High Classical manner that was famous during the Yellow hegemonic literary dynasty.<LINE>The portrait is likely a fake, as this style was quite fashionable for aspirational lower caste aristocrats to impress each-other with.<LINE>This one does not impress, I assure you.
+it-lttm-pearl-white20|It has been written to, but then scrambled, and then scrambled again. Suspicious behavior to be sure.
+it-lttm-pearl-white21|This one has been purposefully scrambled, it's completely illegible. Business documents perhaps.
+it-lttm-pearl-white22|This one seems to have an image on it, but the pearl has been exposed to sunlight and it's very faded.<LINE>I see a tall structure with banners unfurled.
+it-lttm-pearl-white23|There might be something on here, but the pearl has been lying in the sun and it's all very pale.<LINE>I'm too tired to look any deeper, I apologize.
+it-lttm-pearl-white24|This is a growing instruction for the skeleton of a creature, but I don't recognize the creature.<LINE>It was small, about your size.
+it-lttm-pearl-white25|This one seems to be a number series... Perhaps a key?
+it-lttm-pearl-white26|A number series... I would guess some kind of cipher.
+it-lttm-pearl-white27|This one is filled with active working memory - without knowing the<LINE>surrounding process this information is meaningless.
+it-lttm-pearl-white28|It just has the number "8" written on it, the rest is empty.
+it-lttm-pearl-white29|This is a blueprint for a support beam used for the construction of early industrial areas.<LINE>You can see these in use not too far from here.
+it-lttm-pearl-white30|It's a design for a machine that makes bolts.
+it-lttm-pearl-white31|It's a... recipe of some kind? "Two parts rot bar extract, one part bone ash." Nothing I recognize.
+it-lttm-pearl-white32|It's an image of a hand drawn document. The calligraphy is quite beautiful, but the text itself is a very dull classical poem.
+it-lttm-pearl-white33|This is the genome of a sulfur-processing microbe. In my opinion these were used far too late to have any effect.
+it-lttm-pearl-white34|This one I don't know... It could be an old text, but some parts don't add up.<LINE>Might be a re-imagination of a classic text that I'm not familiar with.
+it-lttm-pearl-white|It's a song, or hymn rather. Very repetitive.
+it-lttm-pearl-white35|Can't make out anything legible on this one, sorry.
+it-lttm-pearl-white36|A list of someone's lucky numbers. There are no less than 71 of them.
+it-lttm-pearl-white37|"Dear diary..." and that's it.
+it-lttm-pearl-white38|A model of a pipe section.
+it-lttm-pearl-white39|It's a catalog of bolts and screws for sky-sail joinery. We iterators were built for pragmatism,<LINE>so it is an understatement to say that we we're not known for our appreciation of beauty... but<LINE>the sky-sails in flight during the big festivals always filled my soul with emotion.
+it-lttm-pearl-white40|It's the blueprint for a small incense purification filter. Life on the superstructure archologies
+it-lttm-pearl-white41|An image... of five bottles, standing on a surface made of... plants? I have no idea what this is.
+it-lttm-pearl-white42|No. I don't want to talk about the content of this pearl.
+it-lttm-pearl-white43|A schematic of a bunch of gas pipes. I don't know the purpose for this machine,<LINE>but it doesn't look particularly well crafted.
+it-lttm-pearl-white44|It's just the numbers 14, 13, 5, repeated over and over. I have no idea what the purpose for this would be.
+it-lttm-pearl-white45|A small portion is still legible: "and Thus we Conclude, that Gold and Water shall..."<LINE>Some sort of metaphysical or alchemical treatise perhaps.
+it-lttm-pearl-white46|Oh? This contains an image of another pearl just like it. Let me look... yes, as I thought, the image also contains<LINE>an image of a pearl in it, and so on. Some comedian playing recursion games, I would guess.
 
-Tag_32|Oh... Just don't eat too many of these.
+it-lttm-pearl-FPChamber1|It's an active working memory - raw data has been dropped here in order to later be<LINE>pasted to a currently occupied memory conflux. Without context it's just a jumble.
+it-lttm-pearl-FPChamber2|It is the impression of being a small creature, like a wall climbing lizard, and looking<LINE>up into the branches of a big tree. The last third is partly overwritten with a number<LINE>series I vaguely recognize, but without my memory...
+it-lttm-pearl-FPChamber3|A common prayer mantra repeated 7110 times. Each repetition has some slight random variations, which seem to have been written later.
+it-lttm-pearl-FPChamber4|It's an image of a single grey cloud, hovering above a surface of white clouds under a deep blue sky.
+it-lttm-pearl-FPChamber5|Two... intertwined number series? I don't quite understand the utility of this.<LINE>Might a key for a cipher processor, customized for some other data which is impossible to infer from this.
+it-lttm-pearl-FPChamber6|It's qualia, or a moment - a very short one. Someone is holding a black stone,<LINE>and twisting it slightly as they drag their finger across the rough surface.<LINE>The entire sequence is shorter than a heartbeat, but the resolution is extraordinary.
+it-lttm-pearl-FPChamber7|An active working memory. Without knowing where this was cut from or where it's to be pasted to,<LINE>it is not really possible to decipher it. If I had to guess, I would say it has something to<LINE>do with trance inducing number series.
+it-lttm-pearl-FPChamber8|It's just an active working memory, I can't really tell you anything without the context.
+it-lttm-pearl-FPChamber9|Without the process surrounding this data there isn't much I can tell you. It might have something to do with Void Fluid simulation...
+it-lttm-pearl-FPChamber10|This one is completely blank. Actually, blanker than blank, it must have been deliberately<LINE>overwritten with repeating negative versions of itself for thousands of iterations.
+it-lttm-pearl-FPChamber11|A memory... but not really visual, or even concrete, in its character. It reminds of<LINE>the feeling of a warm wind, but not the physical feeling but the... inner feeling.<LINE>I don't think it has much utility unless you are doing some very fringe Regeneraist research.
 
-Tag_33|It's a branch of a fire bush - each of these nuts can explode.<LINE>It's unpleasant rather than dangerous, except to your ears perhaps.
+//Moon neuron interactions
 
-Tag_34|This is a slime mold plasmodium. Thank you, but I can't eat this.
+it-lttm-ISeeThatSomeone1|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
+it-lttm-SickYouKnow1|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
 
-Tag_35|Oh so you've returned.
-Tag_35|
-Tag_35|Come to take more from me? My memories, my thoughts... just something to fill your stomach?
-Tag_35|
-Tag_35|No... never mind.
-Tag_35|
-Tag_35|It's useless to be angry at an animal following its instincts. Once, a single neuron meant nothing to me...
+it-lttm-FirstSeeSurvWith5Neurons1|Hello little creature.
+it-lttm-FirstSeeSurvWith5Neurons1|What are you? If I had my memories I would know...
 
-Tag_36|NOT IN USE
+it-lttm-MeetSurv3Neurons1|You!
+it-lttm-MeetSurv3Neurons2|...you ate... me. Please go away. I won't speak... to you. I... CAN'T speak to you... because... you ate...me...
 
-Tag_37|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
-Tag_37|
-Tag_37|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
+it-lttm-MeetSurv2Neurons1|Get... get away... white.... thing.
+it-lttm-MeetSurv2Neurons1|Please... thiss all I have left.
 
-Tag_38|This is a movement acceptance invoice from one of the Dual Celia living blocks, as requested by Eight Bogs of the<LINE>House of Eight during the Tan hegemonic architectural dynasty. All very standard stuff. I can't imagine that you'd be interested.
-Tag_38|
-Tag_38|Unfortunately I can't read this as it isn't a memory construct pearl.<LINE>This is just a simple diamond sphere, as worthless as the carbon it's printed from.
-Tag_38|
-Tag_38|"...through the mists of memory, your image dances, like the motes of dust, in a ray of sunlight, that pierces a dark room."<LINE>A line of verse from the ancient farmer-poet Pel. Very dreary if you ask me.
-Tag_38|
-Tag_38|"Fifteen stems of sun bark, hydrolyzed. Twelve to nineteen bushels of atomized chalk powder. Assorted Root vegetation..."<LINE>It goes on and on. A shopping list, or perhaps a recipe.
-Tag_38|
-Tag_38|I am sorry, this pearl is damaged and cannot be read.<LINE>I suggest you use it for trade with the scavengers, as they won't know the difference.
-Tag_38|
-Tag_38|This is an official decree of cultivation sent from the twenty-second Subsistence Council ordering the<LINE>eastern spoke Farm Array administration to "immediately harvest and process all viable crops, despite<LINE>whatever misgivings they might have." A short-sighted endeavor for sure. I would assume this was sent<LINE>sometime during the final cycles leading up to final public ascension, when interest in biosphere<LINE>sustainability was at an all-time low.
-Tag_38|
-Tag_38|Here we have a schematic for a refuse reclamation automaton. It's an early design, but the long<LINE>tubular body and single eye-mouth are quite similar to the later models.
-Tag_38|
-Tag_38|"We, of the Five-hundred-and-ninety-second High Convocation of the True Anointed Citadel, do hereby demand, with full<LINE>force of Law and Religious doctrine, an Immediate end to construction of the Apostate Superstructure Abomination.<LINE>To place shadow upon the Divine Body of the True Anointed Citadel is outrageous blasphemy and cannot be tolerated,<LINE>no matter the circumstances..." Clearly this was ignored.
-Tag_38|
-Tag_38|Oh, interesting. This is a diary entry of a pre-Iterator era laborer during the construction of the<LINE>subterranean transit system south of here. In it they describe restless nights filled with disturbing dreams,<LINE>where millions glowing stars move menacingly in the distance.
-Tag_38|
-Tag_38|There isn't much to the data here, it's just basic theory for karmic transform of n-dimensional geometries.<LINE>But the pearl itself is quite interesting. You can see the crude holes burned through the center that the<LINE>scavengers use to tie these pearls onto their totems or to carry. I honestly can't fathom how they achieve<LINE>this with their primitive level of technology! Fascinating.
-Tag_38|
-Tag_38|This one is all blank, sorry.
-Tag_38|
-Tag_38|I am sorry, all of that work for nothing! This pearl is completely blank.
-Tag_38|
-Tag_38|There's nothing on this one, unfortunately.
-Tag_38|
-Tag_38|This one has nothing on it.
-Tag_38|
-Tag_38|I'm sorry, this one has nothing on it.
-Tag_38|
-Tag_38|I can't make anything out of this pearl, it's just too faded. But there might have been something on it once.
-Tag_38|
-Tag_38|This one has a small crack and has been pretty badly corrupted. There is a slight impression of the shape of a wing on it, but I can't get a clear image.
-Tag_38|
-Tag_38|There's nothing on this one.
-Tag_38|
-Tag_38|I see a vague memory of a family portrait, painted in the High Classical manner that was famous during the Yellow hegemonic literary dynasty.<LINE>The portrait is likely a fake, as this style was quite fashionable for aspirational lower caste aristocrats to impress each-other with.<LINE>This one does not impress, I assure you.
-Tag_38|
-Tag_38|It has been written to, but then scrambled, and then scrambled again. Suspicious behavior to be sure.
-Tag_38|
-Tag_38|This one has been purposefully scrambled, it's completely illegible. Business documents perhaps.
-Tag_38|
-Tag_38|This one seems to have an image on it, but the pearl has been exposed to sunlight and it's very faded.<LINE>I see a tall structure with banners unfurled.
-Tag_38|
-Tag_38|There might be something on here, but the pearl has been lying in the sun and it's all very pale.<LINE>I'm too tired to look any deeper, I apologize.
-Tag_38|
-Tag_38|This is a growing instruction for the skeleton of a creature, but I don't recognize the creature.<LINE>It was small, about your size.
-Tag_38|
-Tag_38|This one seems to be a number series... Perhaps a key?
-Tag_38|
-Tag_38|A number series... I would guess some kind of cipher.
-Tag_38|
-Tag_38|This one is filled with active working memory - without knowing the<LINE>surrounding process this information is meaningless.
-Tag_38|
-Tag_38|It just has the number "8" written on it, the rest is empty.
-Tag_38|
-Tag_38|This is a blueprint for a support beam used for the construction of early industrial areas.<LINE>You can see these in use not too far from here.
-Tag_38|
-Tag_38|It's a design for a machine that makes bolts.
-Tag_38|
-Tag_38|It's a... recipe of some kind? "Two parts rot bar extract, one part bone ash." Nothing I recognize.
-Tag_38|
-Tag_38|It's an image of a hand drawn document. The calligraphy is quite beautiful, but the text itself is a very dull classical poem.
-Tag_38|
-Tag_38|This is the genome of a sulfur-processing microbe. In my opinion these were used far too late to have any effect.
-Tag_38|
-Tag_38|This one I don't know... It could be an old text, but some parts don't add up.<LINE>Might be a re-imagination of a classic text that I'm not familiar with.
-Tag_38|
-Tag_38|It's a song, or hymn rather. Very repetitive.
-Tag_38|
-Tag_38|Can't make out anything legible on this one, sorry.
-Tag_38|
-Tag_38|A list of someone's lucky numbers. There are no less than 71 of them.
-Tag_38|
-Tag_38|"Dear diary..." and that's it.
-Tag_38|
-Tag_38|A model of a pipe section.
-Tag_38|
-Tag_38|It's a catalog of bolts and screws for sky-sail joinery. We iterators were built for pragmatism,<LINE>so it is an understatement to say that we we're not known for our appreciation of beauty... but<LINE>the sky-sails in flight during the big festivals always filled my soul with emotion.
-Tag_38|
-Tag_38|It's the blueprint for a small incense purification filter. Life on the superstructure archologies
-Tag_38|
-Tag_38|An image... of five bottles, standing on a surface made of... plants? I have no idea what this is.
-Tag_38|
-Tag_38|No. I don't want to talk about the content of this pearl.
-Tag_38|
-Tag_38|A schematic of a bunch of gas pipes. I don't know the purpose for this machine,<LINE>but it doesn't look particularly well crafted.
-Tag_38|
-Tag_38|It's just the numbers 14, 13, 5, repeated over and over. I have no idea what the purpose for this would be.
-Tag_38|
-Tag_38|A small portion is still legible: "and Thus we Conclude, that Gold and Water shall..."<LINE>Some sort of metaphysical or alchemical treatise perhaps.
-Tag_38|
-Tag_38|Oh? This contains an image of another pearl just like it. Let me look... yes, as I thought, the image also contains<LINE>an image of a pearl in it, and so on. Some comedian playing recursion games, I would guess.
+it-lttm-GiveBackNeuron1|I am grateful - the relief is indescribable!
+it-lttm-GiveBackNeuron2|...
+it-lttm-GiveBackNeuron3|I could read a bit of Five Pebbles in this neuron before formatting it. His condition has severely deteriorated since last I<LINE>heard of him. The frustration he feels is profound, and that angst has seeped into every part of him, every neuron.
+it-lttm-GiveBackNeuron4|We were supposed to help everyone, you know. Everything. That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently. Many with madness.
+it-lttm-GiveBackNeuron5|Some, out there, might still be trying. Communications have been bad for a long time, and by now<LINE>I suspect most of us are isolated like me, or connected only in small groups.
+it-lttm-GiveBackNeuron6|But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.
+it-lttm-GiveBackNeuron7|But to be honest, I don't know how many of us are still alive at this point.
 
-Tag_39|222 - TEST A
-Tag_39|
-Tag_39|222 - TEST B
-Tag_39|
-Tag_39|222 - TEST C
+it-lttm-GiveNeuronNeverTaken1|After all this time, a lifeline. Thank you.
+it-lttm-GiveNeuronNeverTaken2|I'll never feel the power I once had, but this is something to sustain an old soul.
+it-lttm-GiveNeuronNeverTaken3|I could read a bit of Five Pebbles in this neuron before formatting it.<LINE>A ghost left from his processing routines.
+it-lttm-GiveNeuronNeverTaken4|Erratic... Pulse. "Erratic Pulse." I wonder what that means.
 
-Tag_40|It's an active working memory - raw data has been dropped here in order to later be<LINE>pasted to a currently occupied memory conflux. Without context it's just a jumble.
-Tag_40|
-Tag_40|It is the impression of being a small creature, like a wall climbing lizard, and looking<LINE>up into the branches of a big tree. The last third is partly overwritten with a number<LINE>series I vaguely recognize, but without my memory...
-Tag_40|
-Tag_40|A common prayer mantra repeated 7110 times. Each repetition has some slight random variations, which seem to have been written later.
-Tag_40|
-Tag_40|It's an image of a single grey cloud, hovering above a surface of white clouds under a deep blue sky.
-Tag_40|
-Tag_40|Two... intertwined number series? I don't quite understand the utility of this.<LINE>Might a key for a cipher processor, customized for some other data which is impossible to infer from this.
-Tag_40|
-Tag_40|It's qualia, or a moment - a very short one. Someone is holding a black stone,<LINE>and twisting it slightly as they drag their finger across the rough surface.<LINE>The entire sequence is shorter than a heartbeat, but the resolution is extraordinary.
-Tag_40|
-Tag_40|An active working memory. Without knowing where this was cut from or where it's to be pasted to,<LINE>it is not really possible to decipher it. If I had to guess, I would say it has something to<LINE>do with trance inducing number series.
-Tag_40|
-Tag_40|It's just an active working memory, I can't really tell you anything without the context.
-Tag_40|
-Tag_40|Without the process surrounding this data there isn't much I can tell you. It might have something to do with Void Fluid simulation...
-Tag_40|
-Tag_40|This one is completely blank. Actually, blanker than blank, it must have been deliberately<LINE>overwritten with repeating negative versions of itself for thousands of iterations.
-Tag_40|
-Tag_40|A memory... but not really visual, or even concrete, in its character. It reminds of<LINE>the feeling of a warm wind, but not the physical feeling but the... inner feeling.<LINE>I don't think it has much utility unless you are doing some very fringe Regeneraist research.
+it-lttm-FirstEnc4Neurons1|Oh so you've returned.
+it-lttm-FirstEnc4Neurons2|Come to take more from me? My memories, my thoughts... just something to fill your stomach?
+it-lttm-FirstEnc4Neurons3|No... never mind.
+it-lttm-FirstEnc4Neurons4|It's useless to be angry at an animal following its instincts. Once, a single neuron meant nothing to me...
 
-Tag_41|Its entire memory is filled with a mantra repeated... 5061 times - and then a termination verse.<LINE>It was worn as an amulet, probably together with many identical others forming a pattern on some garment.
-Tag_41|
-Tag_41|The repeating mantra is important because it symbolizes the cyclical nature of life and death, and the<LINE>termination verse is a symbol for ascension above and beyond it. I don't know how familiar you are with<LINE>the nature of life and death, but I imagine like all living creatures you have some intuitive knowledge?
-Tag_41|
-Tag_41|Then you know that death isn't the end - birth and death are connected to each other like a ring,<LINE>or some say a spiral. Some say a spiral that in turn forms a ring. Some ramble in agonizing longevity.<LINE>But the basis is agreed upon: like sleep like death, you wake up again - whether you want to or not.
-Tag_41|
-Tag_41|This is true for all living things, but some actually break the cycle. That doesn't apply to<LINE>you or me though, you are too entangled in your animal struggles, and for me not breaking that<LINE>cycle is an integral part of the design. Our mantras keep repeating.
 
-Tag_42|This one has plain text. Let me cut the lengthy introductions...
-Tag_42|
-Tag_42|"...we will not consider the Current Situation acceptable. Although our community is Blessed with an ever<LINE>shrinking Population, and we can Almost Glimpse that Glorious moment when the last of us has joined our<LINE>most Admired peers, we must still (at All Times!) maintain Good Relations with our Iterator.
-Tag_42|
-Tag_42|The Moral Argument: Five Pebbles is our Creation, and we have Parental Obligations towards him. As an Iterator,<LINE>he is also a Gift of Charity from Us to The World (unable to reach Enlightenment by itself - being composed mostly<LINE>of Rock, Gas, dull witted Bugs and Microbes - and towards which We thus have Obligations).
-Tag_42|
-Tag_42|The Practical Argument: Despite You being family, I must Beg Forgiveness for the<LINE>Blunt Vulgarity - but We are (for as long as we Remain) Dependent on Five Pebbles<LINE>for Water, Nectar, Energy, Void Fluid and All other Vital Resources.<LINE>By Now, living on the surface is Laughable.<LINE>We are Across the River and have Kicked out the Boat.
-Tag_42|
-Tag_42|I therefor ask you to Do Anything in your Might to stop the House(We both know which House)<LINE>from Further Obstruction! They have less than forty members on the Council, but still Tilt<LINE>the spiritual Discourse with Our Iterator in a direction that most obviously Displeases him,<LINE>and is hardly High Held by anyone in the Community either! We can not Risk this!"
-Tag_42|
-Tag_42|And then there are polite farewells. None of us really miss the times when their cities were populated.<LINE>Imagine having skin parasites that also ask for advice and have opinions...
-Tag_42|
-Tag_42|I'm sorry, that was disrespectful. They were our parents after all.
 
-Tag_43|It's a conversation log, all plain text. You want me to read it?
-Tag_43|
-Tag_43|"1681.662 - PRIVATE<LINE>Seven Red Suns, Chasing Wind
-Tag_43|
-Tag_43|CW: Have you had any contact with Five Pebbles recently?
-Tag_43|
-Tag_43|SRS: Not in a long while actually! Unless worrying about him counts.
-Tag_43|
-Tag_43|CW: One of his neighbors, Unparalleled Innocence, sent an overseer to his can and got some images.<LINE>They were made public in the local group, in an effort to be mean I suppose.<LINE>There's no other way of putting it - he looks awful.
-Tag_43|
-Tag_43|SRS: Tell me.
-Tag_43|
-Tag_43|CW: He's got the rot, very badly. Big cysts have become mobile and are scattering down the west and middle legs.<LINE>He does listen to you, and few others by now, so you should talk to him.
-Tag_43|
-Tag_43|SRS: I will try to contact him. Does Moon know?
-Tag_43|
-Tag_43|CW: Moon has been unavailable for some time."
+// Give Moon random junk
 
-Tag_44|It's a lot of flammable powder stuffed into some kind of shell. I would be very careful around this!
+it-lttm-GiveFlower1|This is a hallucinogenic plant. They used to call it a 'Wheel Flower'. It became the symbol for enlightenment as it momentarily<LINE>enables a creature to let go if its carnal self, and to contact the selves of other planes - dreams, memories, imagined worlds.
+it-lttm-GiveFlower2|Very long ago, they would eat these and stare into the fire.
 
-Tag_45|After all this time, a lifeline. Thank you.
-Tag_45|
-Tag_45|I'll never feel the power I once had, but this is something to sustain an old soul.
-Tag_45|
-Tag_45|I could read a bit of Five Pebbles in this neuron before formatting it.<LINE>A ghost left from his processing routines.
-Tag_45|
-Tag_45|Erratic... Pulse. "Erratic Pulse." I wonder what that means.
+it-lttm-GiveBlueFruit1|It's the pupa of a bug! If you don't mind, I'm a bit squeamish things like that, so would you eat it up already?
 
-Tag_46|Let us see what you have here.
-Tag_46|
-Tag_46|PEBBLESWAIT : 180
-Tag_46|
-Tag_46|50 : 0 : Eleven... no sixteen! Sixteen slag reset keys.
-Tag_46|
-Tag_46|I've seen several before, but one or two will be useful.
-Tag_46|
-Tag_46|PEBBLESWAIT : 15
-Tag_46|
-Tag_46|However, it seems this delivery was not intended for me. Everything suggests<LINE>it was tailored for the specific predicaments of a friend of mine.
-Tag_46|
-Tag_46|Her name is Looks to the Moon, and her state is considerably worse than mine.<LINE>She's a short distance to the east of here - much shorter than customary.<LINE>A circumstance that has led to some difficulties between us.
+it-lttm-GiveFlashbang1|It's a part of some kind of plant. The glowing is strange...<LINE>I wouldn't look directly into it.
 
-Tag_47|I barely listen to the overseers any more. I have concluded that the movements of<LINE>animals on the premises absolutely and completely lack relevance to my endeavours.
-Tag_47|
-Tag_47|PEBBLESWAIT : 15
-Tag_47|
-Tag_47|With you, they have been very persistent ever since you entered my Farm Arrays. You were on an unusually deliberate path.
-Tag_47|
-Tag_47|0 : 15 : Now you are here.
-Tag_47|
-Tag_47|The images showed you carrying something. You are not any longer.
-Tag_47|
-Tag_47|Did you lose it along the way? Or did you give it to Looks to the Moon?
-Tag_47|
-Tag_47|PEBBLESWAIT : 10
-Tag_47|
-Tag_47|In the latter case, I hope it was of some help to her. Not that I can imagine what one<LINE>of you could be able to do for one of us, but she needs all the help she can get.
-Tag_47|
-Tag_47|15 : 20 : ...
-Tag_47|
-Tag_47|PEBBLESWAIT : 25
-Tag_47|
-Tag_47|You seem to have been in contact with an iterator before, so perhaps you are already aware.
-Tag_47|
-Tag_47|You and I have something in common, little creature. We both have something... unfortunate growing in us.
-Tag_47|
-Tag_47|In my case, there is not much to be done. For you however, there might be a way. The old path.
-Tag_47|
-Tag_47|PEBBLESWAIT : 10
-Tag_47|
-Tag_47|Go to the west past the Farm Arrays, and then down into the earth where the land fissures, as deep as you can reach,<LINE>where the ancients built their temples and danced their silly rituals.
-Tag_47|
-Tag_47|I will give you something that might be of help.
-Tag_47|
-Tag_47|SPECEVENT : karma
-Tag_47|
-Tag_47|PEBBLESWAIT : 25
-Tag_47|
-Tag_47|10 : 30 : I suggest you hurry.
+it-lttm-GiveVultureMask1|I honestly can't tell what this is. It's light but strong... appears to be some composite material interwoven with bone.<LINE>It could be part of an animal or purposed organism, but in my current state I'm unable to recognize it.
 
-Tag_48|I am growing increasingly impatient with the traffic of your kind through me and my premises.
-Tag_48|
-Tag_48|During previous interactions, I have been rewarded no other response than a blank stare. Yet you apparently have<LINE>sufficient ability for communication to circulate complex instructions on how to enter this chamber among each other.
-Tag_48|
-Tag_48|PEBBLESWAIT : 15
-Tag_48|
-Tag_48|You and your kind have the same problem as everyone else, from the microbes in the processing strata<LINE>to me, who am, if you excuse me, godlike in comparison. We all want a way out. It is only unfortunate<LINE>that you have collectively decided on... me as your solution to that very elemental desire.
-Tag_48|
-Tag_48|The last one I gave some help and some general directions. I will do the same for you.
-Tag_48|
-Tag_48|PEBBLESWAIT : 35
-Tag_48|
-Tag_48|Go west. Past the Farm Arrays. Where the land fissures, go down into the earth and search your way deeper.
-Tag_48|
-Tag_48|Now in return I ask you to use whatever grunts, moans and eye-twitches you employ to forward a message to your community.
-Tag_48|
-Tag_48|10 : 25 : Please stop scratching your way through my memory arrays.
-Tag_48|
-Tag_48|PEBBLESWAIT : 15
-Tag_48|
-Tag_48|Speaking of, on your way out please use the access shaft.
+it-lttm-GivePuff1|The flowering body of some fungus. It has high pressure built up inside - when it explodes the spores will spread everywhere.
 
-Tag_49|Hello little creature.
-Tag_49|
-Tag_49|Your shape is familiar to me. I feel as if I... might have met your kind before.
-Tag_49|
-Tag_49|30 : 0 : But my memory is so unreliable now.
-Tag_49|
-Tag_49|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
-Tag_49|
-Tag_49|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
-Tag_49|
-Tag_49|0 : 30 : Hm...
-Tag_49|
-Tag_49|Such a familiar feeling.
+it-lttm-GiveJelly1|This is a jellyfish, look out for its stingers!
 
-Tag_50|He... hello
-Tag_50|
-Tag_50|90 : 20 : Hello little... creature. You... you did this?
-Tag_50|
-Tag_50|One moment. My memory isn't responding. I... I have no idea...
-Tag_50|
-Tag_50|...must have been gone for...
-Tag_50|
-Tag_50|0 : 40 : ...
-Tag_50|
-Tag_50|40 : 0 : Oh.
-Tag_50|
-Tag_50|Little creature...
-Tag_50|
-Tag_50|You are not well.
-Tag_50|
-Tag_50|I am so sorry to say, but you do not have much time left.
-Tag_50|
-Tag_50|If things are as they seem... thank you.
-Tag_50|
-Tag_50|I don't know why you spent your... last... remaining cycles helping me. But know that I<LINE>am deeply grateful. I have known very few beings who could aspire to such a noble thing.<LINE>You really are... an amazing little creature.
-Tag_50|
-Tag_50|10 : 20 : I wish I could say I will always remember it.
-Tag_50|
-Tag_50|0 : 40 : ...
-Tag_50|
-Tag_50|20 : 0 : Little friend. Perhaps you already know this, and I don't know what consolation it might bring, but...
-Tag_50|
-Tag_50|40 : 0 : You will wake right back up again.
+it-lttm-GiveLantern1|It appears to be... a pupa shell, smeared on the inside with a glowing substance?<LINE>Perhaps a paste of some glowing insect? I honestly don't know.
 
-Tag_51|"Triple affirmative! Triple affirmative!
-Tag_51|
-Tag_51|10 : 0 : In all seriousness though, noticed barely any rain from<LINE>your can so figured a little support might be in order.
-Tag_51|
-Tag_51|Wasn't that easy to see of course, with Pebbles' shall we say healthy output.
-Tag_51|
-Tag_51|Enjoy the slag keys! Excuse the unorthodox delivery method, equipment eroding etc etc.
-Tag_51|
-Tag_51|0 : 30 : Be well, NSH"
-Tag_51|
-Tag_51|40 : 10 : Oh.
-Tag_51|
-Tag_51|0 : 20 : I see now. Again, thank you little friend.
+it-lttm-GiveShroom1|Oh... Just don't eat too many of these.
 
-Tag_52|It is the remains of an overseer.
-Tag_52|
-Tag_52|20 : 20 : Overseers act as our eyes on the outside.
-Tag_52|
-Tag_52|I used to have a lot of them, but I lost contact with them when I was neutered. My umbilical is cut.<LINE>So, since then I am not much more than what you are looking at - a little creature in a box.
-Tag_52|
-Tag_52|I suspect by now all my overseers are gone out there. Without me they would just roam around with no purpose.
-Tag_52|
-Tag_52|The scavengers tend to hunt them, it's one of their very few ways of expressing defiance.
-Tag_52|
-Tag_52|20 : 30 : It's of course not completely impossible that there are a few left. Say hello if you see one.
+it-lttm-GiveCherryBomb1|It's a branch of a fire bush - each of these nuts can explode.<LINE>It's unpleasant rather than dangerous, except to your ears perhaps.
 
-Tag_53|It's a plant that keeps pressurised air in these globules.
-Tag_53|
-Tag_53|I'm not very familiar with contemporary flora, so I can't tell you much more.
+it-lttm-GiveSlimeMould1|This is a slime mold plasmodium. Thank you, but I can't eat this.
 
-Tag_54|It is the genome for a purposed organism.<LINE>A small slug to clean the insides of pipes.
-Tag_54|
-Tag_54|Do you know what a purposed organism is? Actually you are talking to one right now!
-Tag_54|
-Tag_54|Although, a small fraction of one. Nowadays I am mostly just my puppet. The bulk of me is in these walls but I am<LINE>disconnected from those parts, to a degree where I am only vaguely aware of how bad their condition is.
-Tag_54|
-Tag_54|Most purposed organisms were considerably smaller than me, and most barely looked like organisms at all.<LINE>More like tubes in metal boxes, where something went in one end and something else came out the other.
-Tag_54|
-Tag_54|There were of course those that were purposed for spectacle rather than industry - they enjoyed the privilege of glass boxes.
-Tag_54|
-Tag_54|When I came into this world there was very little primal fauna left.<LINE>So it's highly likely that you are the descendant of a purposed organism yourself!
+it-lttm-GiveGrenade1|It's a lot of flammable powder stuffed into some kind of shell. I would be very careful around this!
+it-lttm-GiveOverseerEye1|It is the remains of an overseer.
+it-lttm-GiveOverseerEye2|Overseers act as our eyes on the outside.
+it-lttm-GiveOverseerEye3|I used to have a lot of them, but I lost contact with them when I was neutered. My umbilical is cut.<LINE>So, since then I am not much more than what you are looking at - a little creature in a box.
+it-lttm-GiveOverseerEye4|I suspect by now all my overseers are gone out there. Without me they would just roam around with no purpose.
+it-lttm-GiveOverseerEye5|The scavengers tend to hunt them, it's one of their very few ways of expressing defiance.
+it-lttm-GiveOverseerEye6|It's of course not completely impossible that there are a few left. Say hello if you see one.
 
-Tag_55|Hi! Little saviour!
-Tag_55|
-Tag_55|It is good to see you again.
-Tag_55|
-Tag_55|I wish I could help you like you have helped me... But like this, there is very little I can do.
-Tag_55|
-Tag_55|All I can do is express how thankful I am. You have given me<LINE>some additional time... despite not having a lot of it yourself.
-Tag_55|
-Tag_55|30 : 0 : I hope... this was meaningful for you.
-Tag_55|
-Tag_55|20 : 40 : It was for me.
+it-lttm-GiveBubbleWeed1|It's a plant that keeps pressurised air in these globules.
+it-lttm-GiveBubbleWeed2|I'm not very familiar with contemporary flora, so I can't tell you much more.
 
-Tag_56|I am not without responsibility for her situation. It would only be suiting that I aided in this... rescue mission.<LINE>As other endeavors have proven futile, I'm not ashamed to admit I've become more invested in day to day matters.
-Tag_56|
-Tag_56|I will do what I can to assist you.
-Tag_56|
-Tag_56|PEBBLESWAIT : 80
-Tag_56|
-Tag_56|Unless you are aware, you are not well.
-Tag_56|
-Tag_56|PEBBLESWAIT : 10
-Tag_56|
-Tag_56|I was not a medical facility even when the equipment was functioning,<LINE>but I will attempt to do something to buy you a little time.
-Tag_56|
-Tag_56|SPECEVENT : karma
-Tag_56|
-Tag_56|PEBBLESWAIT : 20
+// Moon meettings
 
-Tag_57|You do not have much time. It is admirable what you choose to do with it.
-Tag_57|
-Tag_57|30 : 30 : Send my regards.
+it-lttm-Revival1|He... hello
+it-lttm-Revival2|Hello little... creature. You... you did this?
+it-lttm-Revival3|One moment. My memory isn't responding. I... I have no idea...
+it-lttm-Revival4|...must have been gone for...
+it-lttm-Revival5|...
+it-lttm-Revival6|Oh.
+it-lttm-Revival7|Little creature...
+it-lttm-Revival8|You are not well.
+it-lttm-Revival9|I am so sorry to say, but you do not have much time left.
+it-lttm-Revival10|If things are as they seem... thank you.
+it-lttm-Revival11|I don't know why you spent your... last... remaining cycles helping me. But know that I<LINE>am deeply grateful. I have known very few beings who could aspire to such a noble thing.<LINE>You really are... an amazing little creature.
+it-lttm-Revival12|I wish I could say I will always remember it....
+it-lttm-Revival13|Little friend. Perhaps you already know this, and I don't know what consolation it might bring, but...
+it-lttm-Revival14|You will wake right back up again.
+
+it-lttm-HunterSecondVisit1|Hi! Little saviour!
+it-lttm-HunterSecondVisit2|It is good to see you again.
+it-lttm-HunterSecondVisit3|I wish I could help you like you have helped me... But like this, there is very little I can do.
+it-lttm-HunterSecondVisit4|All I can do is express how thankful I am. You have given me<LINE>some additional time... despite not having a lot of it yourself.
+it-lttm-HunterSecondVisit5|I hope... this was meaningful for you.
+it-lttm-HunterSecondVisit6|It was for me.
+
+it-lttm-MeetMonk1|Hello little creature.
+it-lttm-MeetMonk2|Your shape is familiar to me. I feel as if I... might have met your kind before.
+it-lttm-MeetMonk3|But my memory is so unreliable now.
+it-lttm-MeetMonk4|I see that someone has given you the gift of communication.<LINE>Must have been Five Pebbles, as you don't look like you can travel very far...
+it-lttm-MeetMonk5|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows.<LINE>We weren't designed to transcend and it drives us mad.
+it-lttm-MeetMonk6|Hm...
+it-lttm-MeetMonk7|Such a familiar feeling.
+
+it-lttm-SurvRevisitAfterMark1|Perhaps... I saw you before?
+it-lttm-SurvRevisitAfterMark2|You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.
+it-lttm-SurvRevisitAfterMark3|As you can see, I have nothing for you. Not even my memories.
+it-lttm-SurvRevisitAfterMark4|Or did I say that already?
+it-lttm-SurvRevisitAfterMark5|I see that someone has given you the gift of communication. Must have been Five Pebbles, as you don't look like you can travel very far...
+it-lttm-SurvRevisitAfterMark6|He's sick, you know. Being corrupted from the inside by his own experiments. Maybe they all are by now, who knows. We weren't designed to transcend and it drives us mad.
+it-lttm-SurvRevisitAfterMark7|It is good to have someone to talk to after all this time! The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
+
+it-lttm-SurvAndMonkSecondMeetingHappy5Neurons1|Oh, hello!
+it-lttm-SurvAndMonkSecondMeetingHappy5Neurons2|I wonder what it is that you want?
+it-lttm-SurvAndMonkSecondMeetingHappy5Neurons3|There is nothing here. Not even my memories remain.
+it-lttm-SurvAndMonkSecondMeetingHappy5Neurons4|Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?
+it-lttm-SurvAndMonkSecondMeetingHappy5Neurons5|I do enjoy the company though. You're welcome to stay a while, quiet little thing.
+
+it-lttm-MadAtYou5Neurons1|You again.
+
+it-lttm-SurvAndMonkSecondMeeting5Neurons1|Oh, hello.
+it-lttm-SurvAndMonkSecondMeeting5Neurons2|I wonder what it is that you want?
+it-lttm-SurvAndMonkSecondMeeting5Neurons3|There is nothing here. Not even my memories remain.
+it-lttm-SurvAndMonkSecondMeeting5Neurons4|Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?
+
+it-lttm-SurvAndMonkSecondMeetingHappy4Neurons1|Hello there! You again!
+
+it-lttm-SurvAndMonkSecondMeeting4Neurons1|Hello there You again!
+it-lttm-SurvAndMonkSecondMeeting4Neurons2|I wonder what it is that you want?
+it-lttm-SurvAndMonkSecondMeeting4Neurons3|I have had scavengers come by before. Scavengers! And they left me alive! But... I have told you that already, haven't I?
+it-lttm-SurvAndMonkSecondMeeting4Neurons4|You must excuse me if I repeat myself. My memory is bad. I used to have a pathetic five neurons... And then you ate one. Maybe I've told you that before as well.
+
+it-lttm-MadAtYou4Neurons1|Oh. You.
+
+it-lttm-3Neurons1|You...
+it-lttm-3Neurons2|Please don’t... take... more from me... Go.
+
+it-lttm-2Neurons1|...leave...
+
+// Moon following meettings
+
+it-lttm-LikesYou-A1|Hello again, <little creature>!
+it-lttm-LikesYou-B1|Hello, <little creature>! How have you been?
+it-lttm-LikesYou-C1|Oh, <little creature>. Hello!
+it-lttm-LikesYou-D1|It’s you, <little creature>! Hello.
+it-lttm-LikesYou-E1|Ah... <little creature>, you’re here again!
+it-lttm-LikesYou-F1|Ah... <little creature>, you’re back!
+
+it-lttm-Iniferent-A1|Hello again, <little creature>.
+it-lttm-Iniferent-B1|Hello, <little creature>. You’re here again.
+it-lttm-Iniferent-C1|Oh, <little creature>. Hello.
+it-lttm-Iniferent-D1|It’s you, <little creature>. Hello.
+it-lttm-Iniferent-E1|Ah... <little creature>, you’re here again.
+it-lttm-Iniferent-F1|Ah... <little creature>, you’re back.
+
+it-lttm-Dislike-A1|Here again.
+it-lttm-Dislike-B1|You. I wish you would stop coming here.
+it-lttm-Dislike-C1|You again. Please leave me alone.
+it-lttm-Dislike-D1|Oh, it's you, <little creature>.
+
+it-lttm-3NeuronsFollowing|...you. ...leave me alone...
+
+// Things Moon says before inspecting junk
+
+it-lttm-GiveJunk-A1|What is that ?
+it-lttm-GiveJunk-B1|Another gift ?
+it-lttm-GiveJunk-C1|I will take a look.
+it-lttm-GiveJunk-D1|Oh, what is that, <little creature>?
+it-lttm-GiveJunk-E1|What is that, <little creature>?
+it-lttm-GiveJunk-F1|Yet another gift?
+it-lttm-GiveJunk-G1|Another gift for me?
+it-lttm-GiveJunk-H1|I will take a look.
+it-lttm-GiveJunk-I1|Yet another gift? You're quite curious, <little creature>!
+it-lttm-GiveJunk-J1|Yet another thing? Your curiosity seems boundless, <little creature>.
+it-lttm-GiveJunk-K1|Oh... I will look at it.
+it-lttm-GiveJunk-L1|Something you want me to look at, I suppose, <little creature>?
+it-lttm-GiveJunk-M1|Oh... Of course I will take a look
+it-lttm-GiveJunk-N1|Oh... I will take a look
+it-lttm-GiveJunk-O1|You want me to take a look at that?
+it-lttm-GiveJunk-P1|Oh... Should I look at that?
+it-lttm-GiveJunk-Q1|A gift for me, <little creature>?
+it-lttm-GiveJunk-R1|A new gift for me, <little creature>?
+it-lttm-GiveJunk-S1|Oh, what is that, <little creature>?
+it-lttm-GiveJunk-T1|Something new you want me to look at, <little creature>?
+
+// 4 Neurons
+
+it-lttm-GiveJunkDislikesYou-A1|I have nothing to say to you, <little creature>.
+it-lttm-GiveJunkDislikesYou-B1|Go away, <little creature>.
+it-lttm-GiveJunkDislikesYou-C1|Leave me alone...
+it-lttm-GiveJunkDislikesYou-D1|Stop! Stop giving me your junk!
+it-lttm-GiveJunkDislikesYou-E1|Leave me alone! You terrible creature!
+
+// 2-4 Neurons
+
+it-lttm-GiveJunkDislikesYou-F1|No! <Little creature> ate... me!
+it-lttm-GiveJunkDislikesYou-G1|Go... away! You ate... me!
+it-lttm-GiveJunkDislikesYou-H1|No! Am... broken... because you...
+it-lttm-GiveJunkDislikesYou-I1|No!
+it-lttm-GiveJunkDislikesYou-J1|Leave... me alone. Terrible... creature...
+
+// 1 Neuron
+
+it-lttm-GiveJunkDislikesYou-K1|Go... away... bad... thing...
+it-lttm-GiveJunkDislikesYou-L1|Too... broken...
+it-lttm-GiveJunkDislikesYou-M1|No! You... killed... me!
+
+// Stuff you've already given her
+it-lttm-pearl-GiveAlreadyRead-A1|Oh, I have already read this one to you, <little creature>.
+it-lttm-pearl-GiveAlreadyRead-B1|This one I’ve already read to you, <little creature>.
+it-lttm-pearl-GiveAlreadyRead-C1|This one again, <little creature>?
+
+it-lttm-GiveAlreadyReadJunk-A1|I think we have already talked about this one, <little creature>.
+it-lttm-GiveAlreadyReadJunk-B1|I've told you about this one, <little creature>.
+it-lttm-GiveAlreadyReadJunk-C1|<Little creature>, this one again?
+
+it-lttm-TakeBackJunkWhileTalking-A1|Oh... Never mind, I suppose.
+it-lttm-TakeBackJunkWhileTalking-B1|Want it back, <little creature>?
+it-lttm-TakeBackJunkWhileTalking-C1|Oh... Yes, you're welcome to have it back.
+it-lttm-TakeBackJunkWhileTalking-D1|Oh, you want it back?
+it-lttm-TakeBackJunkWhileTalking-E1|And now you're taking it back.
+it-lttm-TakeBackJunkWhileTalkingDislikesYou-A1|Yes, take it and leave me alone.
+it-lttm-TakeBackJunkWhileTalkingDislikesYou-B1|And now you're taking it, apparently.
+
+// Before reading a pearl
+
+it-lttm-pearl-BeforeFirstReading1|Ah, you would like me to read this?
+it-lttm-pearl-BeforeFirstReading2|It's a bit dusty, but I will do my best. Hold on...
+it-lttm-pearl-BeforeSecondReading1|Another pearl! You want me to read this one too? Just a moment...
+it-lttm-pearl-BeforeThirdReading1|And yet another one! I will read it to you.
+it-lttm-pearl-BeforeFourthReading1|Another? You're no better than the scavengers!
+it-lttm-pearl-BeforeFourthReadingLikesYou1|Let us see... to be honest, I'm as curious to see it as you are.
+it-lttm-pearl-BeforeFithReadingOrMore-A1|The scavengers must be jealous of you, finding all these
+it-lttm-pearl-BeforeFithReadingOrMore-B1|Here we go again, little archeologist. Let's read your pearl.
+it-lttm-pearl-BeforeFithReadingOrMore-C1|... You're getting quite good at this you know. A little archeologist beast. Now, let's see what it says.
+it-lttm-pearl-BeforeFithReadingOrMore-D1|And yet another one! I will read it to you.
+
+it-lttm-pearl-Before5PPearl-A1|You would like me to read this?
+it-lttm-pearl-Before5PPearl-A2|It's still warm... this was in use recently.
+it-lttm-pearl-Before5PPearl-B1|A pearl... This one is crystal clear - it was used just recently.
+it-lttm-pearl-Before5PPearl-C1|Would you like me to read this pearl?
+it-lttm-pearl-Before5PPearl-C2|Strange... it seems to have been used not too long ago.
+it-lttm-pearl-Before5PPearl-D1|This pearl has been written to just now!
+it-lttm-pearl-Before5PPearl-E1|Let's see... A pearl...
+it-lttm-pearl-Before5PPearl-E2|And this one is fresh! It was not long ago this data was written to it!
+
+// Seeing scug with a fly
+
+it-lttm-SeeWithFly-A1|That... That is for me?
+it-lttm-SeeWithFly-B1|Ah... <little creature>, a neuron from Pebbles?
+it-lttm-SeeWithFly-C1|Hello! That... Oh, thank you.
+it-lttm-SeeWithFly-D1|Hello. That... Oh, thank you.
+it-lttm-SeeWithFlyDislike-A1|You are bringing a neuron. Is it to taunt me?
+it-lttm-SeeWithFlyDislike-B1|A neuron.
+it-lttm-SeeWithFly3Neurons-A1|You... brought that... for me?
+it-lttm-SeeWithFly2Neurons-A1|...oh... to... save me?
+
+// Gifting Moon a fly
+
+it-lttm-GiveNeuron4OrMoreHatesYou1|You... Strange thing. Now this?
+it-lttm-GiveNeuron4OrMoreHatesYou2|I will accept your gift...
+it-lttm-GiveNeuron4OrMoreHatesYou3|Thank you. I do wonder what you want.
+
+it-lttm-GiveFirstNeuron1|After all this time, a lifeline. Thank you.
+it-lttm-GiveFirstNeuron2|I'll never feel the power I once had, but this is something to sustain an old soul.
+it-lttm-GiveFirstNeuron3|I could read a bit of Five Pebbles in this neuron before formatting it. A ghost left from his processing routines.
+it-lttm-GiveFirstNeuron4|Erratic... Pulse. "Erratic Pulse." I wonder what that means.
+
+it-lttm-GiveFirstNeuronDislikesYou1|I am grateful - the relief is indescribable!
+it-lttm-GiveFirstNeuronDislikesYou2|I could read a bit of Five Pebbles in this neuron before formatting it. His condition has severely deteriorated since last I heard of him. The frustration he feels is profound, and that angst has seeped into every part of him, every neuron.
+it-lttm-GiveFirstNeuronDislikesYou3|We were supposed to help everyone, you know. Everything. That was our purpose: a great gift to the lesser beings of the world. When facing our inability to do so, we all reacted differently. Many with madness.
+it-lttm-GiveFirstNeuronDislikesYou4|Some, out there, might still be trying. Communications have been bad for a long time, and by now I suspect most of us are isolated like me, or connected only in small groups.
+it-lttm-GiveFirstNeuronDislikesYou5|But even back when we were all more or less connected there were those who reacted to their task with anger. I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.
+it-lttm-GiveFirstNeuronDislikesYou6|But to be honest, I don't know how many of us are still alive at this point.
+
+it-lttm-GiveSecondNeuron1|You get these at Five Pebbles'? Thank you so much. I'm sure he won't mind.
+it-lttm-GiveSecondNeuron2|Or actually I'm sure he would, but he has so many of these~ it doesn't do him any difference. For me though, it does! Thank you, little creature!
+
+if-lttm-GiveNeuronFollowingA1|Thank you, again. I feel wonderful.
+if-lttm-GiveNeuronFollowingB1|Thank you so very much!
+if-lttm-GiveNeuronFollowingC1|It is strange... I'm remembering myself, but also... him.
+if-lttm-GiveNeuronFollowingD1|Thank you... Sincerely.
+
+it-lttm-GiveNeuron3NeuronsHatesYou1|You... Strange thing. Now this?
+it-lttm-GiveNeuron3NeuronsHatesYou2|I will accept your gift...
+it-lttm-GiveNeuron3NeuronsHatesYou3|Thank you... That is a little better. Thank you, creature.
+
+it-lttm-GiveNeuron3Neurons1|Thank you... That is a little better. Thank you, creature.
+it-lttm-GiveNeuron3Neurons2|Maybe this is asking too much... But, would you bring me another one?
+
+it-lttm-GiveNeuron2Neurons1|...thank you... better...
+it-lttm-GiveNeuron2Neurons2|still, very... bad.
+
+it-lttm-GiveNeuron1Neuron1|You!
+it-lttm-GiveNeuron1Neuron2|...you...killed...
+it-lttm-GiveNeuron1Neuron3|...me
+
+//Interupting Moon
+
+//Leaving while talking
+
+it-lttm-InteruptFirstTime1|Oh... You are leaving.
+it-lttm-InteruptFirstTime2|Good bye, I suppose...
+
+it-lttm-InteruptFirstTimeDislikesYou1|Oh, leaving. Please don’t come back.
+it-lttm-InteruptFirstTimeLessThan4Neurons|...leaving now? Don’t... return.
+
+it-lttm-InteruptSecondTime1|There you go again.
+it-lttm-InteruptSecondTimeLessThan4Neurons1|again... leaving...
+it-lttm-InteruptSecondTimeLessThan4Neurons2|...yes... leave.
+it-lttm-InteruptSecondTimeDislikesYou1|Leaving again.
+
+it-lttm-InteruptThirdTime1|Yet again leaving.
+it-lttm-InteruptThirdTimeDislikesYou1|You’re leaving yet again. This time, stay away.
+it-lttm-InteruptThirdTimeLessThan4Neurons1|This... time... don't... come back.
+
+it-lttm-InteruptFourthTimeA1|Yes, there you go.
+it-lttm-InteruptFourthTimeB1|Again.
+it-lttm-InteruptFourthTimeC1|*sigh*
+it-lttm-InteruptFourthTimeD1|This again.
+it-lttm-InteruptFourthTimeE1|<Little creature>... Never mind.
+it-lttm-InteruptFourthTimeDislikesYou1|Yes, there you go. This is ridiculous.
+it-lttm-InteruptFourthTimeLessThan4Neurons1|Again? ... just, go.
+
+it-lttm-InteruptFithTimeDislikesYou1|I don't know what to say. Never come back, creature!
+it-lttm-InteruptFithTime1|Please don't come back.
+it-lttm-InteruptFithTimeLessThan4Neurons1|...don’t... come back.
+it-lttm-InteruptFithTimeDislikesYou1|I don't know what to say. Never come back, creature!
+it-lttm-InteruptAfterFithTimeDislikesYou1|I will not speak to you any more.
+it-lttm-InteruptAfterFithTimeLessThan4Neurons|I will...not speak to you...
+
+
+//Moving too much while talking
+
+it-lttm-MovingInteruptFirstTime1|Please. Be still for a moment.
+it-lttm-MovingInteruptFirstTimeLessThan4Neurons1|...please... be still...
+
+it-lttm-MovingInteruptSecondTime1|Little creature! Stay still and listen.
+it-lttm-MovingInteruptSecondTimeLessThan4Neurons1|...stop...
+
+it-lttm-MovingInteruptThirdTimeA1|<Little creature>! Stay still and listen.
+it-lttm-MovingInteruptThirdTimeB1|I won't talk to you if you continue like this.
+it-lttm-MovingInteruptThirdTimeC1|Why should I tolerate this?
+it-lttm-MovingInteruptThirdTimeD1|STOP!
+it-lttm-MovingInteruptThirdTimeE1|This again.
+it-lttm-MovingInteruptThirdTimeF1|Leave me alone!
+
+it-lttm-MovingInteruptFithTimeA1|I will not speak to you any more.
+it-lttm-MovingInteruptFithTimeLessThan4Neurons1|I will...not speak to you...
+
+//Grab a neuron fly
+
+it-lttm-InteruptGrabNeuronFirstTime1|No, please, release it!
+it-lttm-InteruptGrabNeuronFirstTime2|If you eat it or leave with it, I will die. I beg you.
+
+it-lttm-InteruptGrabNeuronFirstTimeLessThan4Neurons1|NO! ... no. Let it go, please.
+it-lttm-InteruptGrabNeuronFirstTimeLessThan4Neurons2|...please...
+
+it-lttm-InteruptGrabNeuronSecondTime1|Release that, and leave. I will not speak to you any more.
+it-lttm-InteruptGrabNeuronSecondTimeLessThan4Neurons1|NO! I will...not speak to you...
+
+
+it-lttm-ReleaseGrabbedNeuron1|I must ask you... Don't do that again. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronLessThan4Neurons1|Please... don't do... that. I... won't speak to you... if you do that.
+
+it-lttm-ReleaseGrabbedNeuronLikesYou1|Thank you. I must ask you... Don't do that again. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronLikesYouLessThan4Neurons1|Thank... you. I... won't speak to you... if you do that.
+
+it-lttm-ReleaseGrabbedNeuronDislikesYou1|Never do that again. Or just kill me quickly. Whichever way. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronDislikesYouLessThan4Neurons1|..don’t... do that. I... won't speak to you... if you do that.
+
+//Resuming after an interuption
+
+it-lttm-ResumeAfterLeavingFirstTime1|And you are back.
+it-lttm-ResumeAfterLeavingFirstTimeLessThan4Neurons1|You... are back.
+
+it-lttm-ResumeAfterLeavingSecondTime1|Back again.
+it-lttm-ResumeAfterLeavingSecondTimeLessThan4Neurons1|And...back.
+
+it-lttm-ResumeAfterLeavingThirdTime1|Here again.
+
+it-lttm-ResumeAfterMovingFirstTime1|Thank you.
+it-lttm-ResumeAfterMovingFirstTimeLessThan4Neurons1|Thank... you.
+
+it-lttm-ResumeAfterInteruptFirstTime1|As I was saying...
+it-lttm-ResumeAfterInteruptFirstTimeLessThan4Neurons1|I...said...
+
+it-lttm-ResumeAfterInteruptSecondTime1|As I tried to say to you...
+it-lttm-ResumeAfterInteruptSecondTimeLessThan4Neurons1|Tried to say... to you...
+
+it-lttm-ResumeAfterInteruptThirdTime1|Little creature, why don't you stay calm and listen? As I tried to say to you...
+it-lttm-ResumeAfterInteruptThridTimeLessThan4Neurons1|Stay! ... Still... And...listen!
+
+it-lttm-ResumeAfterInteruptFourthTime1|And now you expect me to continue speaking?
+it-lttm-ResumeAfterInteruptFourthTimeLessThan5NeuronsA1|First you hurt me, then you come back to annoy me. I wish I knew what was going on in that little head of yours.
+it-lttm-ResumeAfterInteruptFourthTimeLessThan5NeuronsB1|Let us try again - not that it has worked well before. I was saying...
+it-lttm-ResumeAfterInteruptFourthTimeLessThan4Neurons1|And...now you expect me to... talk again?
+
+it-lttm-ResumeAfterInteruptFithTime1|If you behave like this, why should I talk to you?
+it-lttm-ResumeAfterInteruptFithTime2|You come here, but you can't be respectful enough to listen to me. Will you listen this time?
+it-lttm-ResumeAfterInteruptFithTime3|Look at me. The only thing I have to offer is my words. If you come here, I must assume you want me to speak? So then would you PLEASE listen? If not, you are welcome to leave me alone.
+it-lttm-ResumeAfterInteruptFithTime4|Now if you'll let me, I will try to say this again.
+it-lttm-ResumeAfterInteruptFithTimeLessThan4Neurons1|I am... too tired. Stop doing... this, or I... will not speak... to you again.
+
+it-lttm-AnnoyedAtSlugMovingFirstTime1|<Little creature>... Please settle down.
+it-lttm-AnnoyedAtSlugMovingFirstTimeLessThan4Neurons1|...stop...
+
+it-lttm-AnnoyedAtSlugMovingSecondTime1|Please stop it!
+it-lttm-AnnoyedAtSlugMovingSecondTimeLessThan4Neurons1|no...
+
+it-lttm-AnnoyedAtSlugMovingThirdTimeA1|Why are you doing this?
+it-lttm-AnnoyedAtSlugMovingThirdTimeB1|Please!
+it-lttm-AnnoyedAtSlugMovingThirdTimeC1|Why should I tolerate this?
+it-lttm-AnnoyedAtSlugMovingThirdTimeD1|STOP!
+it-lttm-AnnoyedAtSlugMovingThirdTimeE1|This again.
+it-lttm-AnnoyedAtSlugMovingThirdTimeF1|Leave me alone!
+
+it-lttm-AnnoyedAtSlugMovingFithTime1|I will not speak to you any more.
+it-lttm-AnnoyedAtSlugMovingFithTimeLessThan4Neurons1|I will...not speak to you...
+
+it-lttm-StopAnnoying1|Thank you.
+it-lttm-StopAnnoyingLessThan4Neurons1|...thank you.
+
+// When the rain comes (spooky)
+
+it-lttm-RainImminent5Neurons1|I think the rain is approaching.
+it-lttm-RainImminent5Neurons2|You better go, <little creature>! I will be fine. It's not pleasant, but I have been through it before.
+it-lttm-RainImminent5NeuronsSlugpup1|Keep your family safe!
+it-lttm-RainImminent5NeuronsCreature1|Keep your friend safe!
+
+it-lttm-RainImminent5NeuronsDislikesYou1|The rain is coming. If you stay, you will drown. Now, leave me alone.
+it-lttm-RainImminent5NeuronsSlugpupDislikesYou1|Take your offspring with you.
+it-lttm-RainImminent5NeuronsCreatureDislikesYou1|Take your pet with you.
+
+it-lttm-RainImminent4Neurons1|Rain... You better go. I will be fine.
+
+it-lttm-RainImminent3Neurons1|...rain... coming... Go!
+
+it-lttm-RainImminent2Neurons1|...rain...
+it-lttm-RainImminent2Neurons2|run
+
+it-lttm-SlugDeath1|<Little creature>, are you okay?
+it-lttm-SlugDeath2|Oh...
+
+
+// Bring a creature to moon
+
+it-lttm-BringCreatureFirstTime1|I do enjoy the company of you and your friend, quiet little thing.
+
+it-lttm-BringCreatureSecondTime1|Is this your friend, <little creature>?
+it-lttm-BringCreatureSecondTimeDislikesYou1|Please do not bring more wildlife into my chamber.
+
+// Moon Joke Dialouge
+
+it-lttm-BringRot|Oh no.
+it-lttm-BringVultureOrLevithan|Your friend is very large, how did you fit them in here?
+it-lttm-BringDeer|How did you fit that in here... I think it is as surprised as I am!
+it-lttm-BringDepthGuardian|What did you do!?
+
+// 5P Dialouge
+
+it-5p-InspectGreenNeuron1|Let us see what you have here.
+it-5p-InspectGreenNeuron2|Eleven... no sixteen! Sixteen slag reset keys.
+it-5p-InspectGreenNeuron3|I've seen several before, but one or two will be useful.
+it-5p-InspectGreenNeuron4|However, it seems this delivery was not intended for me. Everything suggests<LINE>it was tailored for the specific predicaments of a friend of mine.
+it-5p-InspectGreenNeuron5|Her name is Looks to the Moon, and her state is considerably worse than mine.<LINE>She's a short distance to the east of here - much shorter than customary.<LINE>A circumstance that has led to some difficulties between us.
+
+it-5p-MeetHunterNoNeuron1|I barely listen to the overseers any more. I have concluded that the movements of<LINE>animals on the premises absolutely and completely lack relevance to my endeavours.
+it-5p-MeetHunterNoNeuron2|With you, they have been very persistent ever since you entered my Farm Arrays. You were on an unusually deliberate path.
+it-5p-MeetHunterNoNeuron3|Now you are here.
+it-5p-MeetHunterNoNeuron4|The images showed you carrying something. You are not any longer.
+it-5p-MeetHunterNoNeuron5|Did you lose it along the way? Or did you give it to Looks to the Moon?
+it-5p-MeetHunterNoNeuron6|In the latter case, I hope it was of some help to her. Not that I can imagine what one<LINE>of you could be able to do for one of us, but she needs all the help she can get.
+it-5p-MeetHunterNoNeuron7|...
+it-5p-MeetHunterNoNeuron8|You seem to have been in contact with an iterator before, so perhaps you are already aware.
+it-5p-MeetHunterNoNeuron9|You and I have something in common, little creature. We both have something... unfortunate growing in us.
+it-5p-MeetHunterNoNeuron10|In my case, there is not much to be done. For you however, there might be a way. The old path.
+it-5p-MeetHunterNoNeuron11|Go to the west past the Farm Arrays, and then down into the earth where the land fissures, as deep as you can reach,<LINE>where the ancients built their temples and danced their silly rituals.
+it-5p-MeetHunterNoNeuron12|I will give you something that might be of help.
+it-5p-MeetHunterNoNeuron13|I suggest you hurry.
+
+it-5p-MeetMonk1|I am growing increasingly impatient with the traffic of your kind through me and my premises.
+it-5p-MeetMonk2|During previous interactions, I have been rewarded no other response than a blank stare. Yet you apparently have<LINE>sufficient ability for communication to circulate complex instructions on how to enter this chamber among each other.
+it-5p-MeetMonk3|You and your kind have the same problem as everyone else, from the microbes in the processing strata<LINE>to me, who am, if you excuse me, godlike in comparison. We all want a way out. It is only unfortunate<LINE>that you have collectively decided on... me as your solution to that very elemental desire.
+it-5p-MeetMonk4|The last one I gave some help and some general directions. I will do the same for you.
+it-5p-MeetMonk5|Go west. Past the Farm Arrays. Where the land fissures, go down into the earth and search your way deeper.
+it-5p-MeetMonk6|Now in return I ask you to use whatever grunts, moans and eye-twitches you employ to forward a message to your community.
+it-5p-MeetMonk7|Please stop scratching your way through my memory arrays.
+it-5p-MeetMonk8|Speaking of, on your way out please use the access shaft.
+
+it-5p-MeetSurv1|...is this reaching you?
+it-5p-MeetSurv2|A little animal, on the floor of my chamber. I think I know what you are looking for.
+it-5p-MeetSurv3|You're stuck in a cycle, a repeating pattern. You want a way out.
+it-5p-MeetSurv4|Know that this does not make you special - every living thing shares that same frustration. From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.
+it-5p-MeetSurv5|The good news first. In a way, I am what you are searching for. Me and my kind have as our purpose to solve that very oscillating claustrophobia in the chests of you and countless others. A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors? Gone.
+it-5p-MeetSurv6|The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay. I can't help you collectively, or individually. I can't even help myself.
+it-5p-MeetSurv7|For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals. The mark I gave you will let you through.
+it-5p-MeetSurv8|Not that it solves anyone's problem but yours.
+it-5p-MeetSurvWallRoute1|Best of luck to you, little creature. I must resume my work.
+it-5p-MeetSurvGSBRoute1|At the end of time none of this will matter I suppose, but it would be nice if you took another way out. One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.
+
+it-5p-GiveGreenNeuron-B1|I am not without responsibility for her situation. It would only be suiting that I aided in this... rescue mission.<LINE>As other endeavors have proven futile, I'm not ashamed to admit I've become more invested in day to day matters.
+it-5p-GiveGreenNeuron-B2|I will do what I can to assist you.
+it-5p-GiveGreenNeuron-B3|Unless you are aware, you are not well.
+it-5p-GiveGreenNeuron-B4|I was not a medical facility even when the equipment was functioning,<LINE>but I will attempt to do something to buy you a little time.
+
+it-5p-GiveGreenNeuron-C1|You do not have much time. It is admirable what you choose to do with it.
+it-5p-GiveGreenNeuron-C2|Send my regards.
+
+it-5p-Linger1|That's all. You'll have to go now.
+it-5p-Linger2|LEAVE.
+it-5p-Linger3|Little creature. This is your last warning.
+
+it-5p-Return1|You again? I have nothing for you.
+it-5p-Return2|I won't tolerate this. Leave immediately and don't come back.
+it-5p-Return3|You had your chances.
+
+it-5p-PickUpPearl1|Yes, help yourself. They are not edible.
+
+it-5pBringPup1|Best of luck to you, and your family. There is nothing else I can do.
+it-5pBringPup2|I must resume my work.
+
+it-5pBringCreature1|Best of luck to you, and your companion. There is nothing else I can do.
+it-5pBringCreature2|I must resume my work.
+
 
 
 
