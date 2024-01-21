@@ -413,24 +413,39 @@ it-lttm-2Neurons1|...leave...
 
 // Moon following meettings
 
-it-lttm-LikesYou-A1|Hello again, <little creature>!
-it-lttm-LikesYou-B1|Hello, <little creature>! How have you been?
-it-lttm-LikesYou-C1|Oh, <little creature>. Hello!
-it-lttm-LikesYou-D1|It’s you, <little creature>! Hello.
-it-lttm-LikesYou-E1|Ah... <little creature>, you’re here again!
-it-lttm-LikesYou-F1|Ah... <little creature>, you’re back!
+it-lttm-LikesYouCreature-A1|Hello again, little creature!
+it-lttm-LikesYouCreature-B1|Hello, little creature! How have you been?
+it-lttm-LikesYouCreature-C1|Oh, little creature. Hello!
+it-lttm-LikesYouCreature-D1|It’s you, little creature! Hello.
+it-lttm-LikesYouCreature-E1|Ah... Little creature, you’re here again!
+it-lttm-LikesYouCreature-F1|Ah... Little creature, you’re back!
 
-it-lttm-Iniferent-A1|Hello again, <little creature>.
-it-lttm-Iniferent-B1|Hello, <little creature>. You’re here again.
-it-lttm-Iniferent-C1|Oh, <little creature>. Hello.
-it-lttm-Iniferent-D1|It’s you, <little creature>. Hello.
-it-lttm-Iniferent-E1|Ah... <little creature>, you’re here again.
-it-lttm-Iniferent-F1|Ah... <little creature>, you’re back.
+it-lttm-LikesYouArchaeologist-A1|Hello again, little archaeologist!
+it-lttm-LikesYouArchaeologist-B1|Hello, little archaeologist! How have you been?
+it-lttm-LikesYouArchaeologist-C1|Oh, little archaeologist. Hello!
+it-lttm-LikesYouArchaeologist-D1|It’s you, little archaeologist! Hello.
+it-lttm-LikesYouArchaeologist-E1|Ah... Little archaeologist, you’re here again!
+it-lttm-LikesYouArchaeologist-F1|Ah... Little archaeologist, you’re back!
+
+it-lttm-LikesYouFriend-A1|Hello again, little friend!
+it-lttm-LikesYouFriend-B1|Hello, little friend! How have you been?
+it-lttm-LikesYouFriend-C1|Oh, little friend. Hello!
+it-lttm-LikesYouFriend-D1|It’s you, little friend! Hello.
+it-lttm-LikesYouFriend-E1|Ah... Little friend, you’re here again!
+it-lttm-LikesYouFriend-F1|Ah... Little friend, you’re back!
+
+it-lttm-Iniferent-A1|Hello again, little creature.
+it-lttm-Iniferent-B1|Hello, little creature. You’re here again.
+it-lttm-Iniferent-C1|Oh, little creature. Hello.
+it-lttm-Iniferent-D1|It’s you, little creature. Hello.
+it-lttm-Iniferent-E1|Ah... Little creature, you’re here again.
+it-lttm-Iniferent-F1|Ah... Little creature, you’re back.
 
 it-lttm-Dislike-A1|Here again.
 it-lttm-Dislike-B1|You. I wish you would stop coming here.
 it-lttm-Dislike-C1|You again. Please leave me alone.
-it-lttm-Dislike-D1|Oh, it's you, <little creature>.
+it-lttm-DislikeCreature-D1|Oh, it's you, little creature.
+it-lttm-DislikeTormentor-D1|Oh, it's you, little tormentor.
 
 it-lttm-3NeuronsFollowing|...you. ...leave me alone...
 
@@ -439,35 +454,57 @@ it-lttm-3NeuronsFollowing|...you. ...leave me alone...
 it-lttm-GiveJunk-A1|What is that ?
 it-lttm-GiveJunk-B1|Another gift ?
 it-lttm-GiveJunk-C1|I will take a look.
-it-lttm-GiveJunk-D1|Oh, what is that, <little creature>?
-it-lttm-GiveJunk-E1|What is that, <little creature>?
+it-lttm-GiveJunkCreature-D1|Oh, what is that, little creature?
+it-lttm-GiveJunkArchaeologist-D1|Oh, what is that, little archaeologist?
+it-lttm-GiveJunkFriend-D1|Oh, what is that, little friend?
+it-lttm-GiveJunkCreature-E1|What is that, little creature?
+it-lttm-GiveJunkFriend-E1|What is that, little archaeologist?
+it-lttm-GiveJunkArchaeologist-E1|What is that, little friend?
 it-lttm-GiveJunk-F1|Yet another gift?
 it-lttm-GiveJunk-G1|Another gift for me?
 it-lttm-GiveJunk-H1|I will take a look.
-it-lttm-GiveJunk-I1|Yet another gift? You're quite curious, <little creature>!
-it-lttm-GiveJunk-J1|Yet another thing? Your curiosity seems boundless, <little creature>.
+it-lttm-GiveJunkCreature-I1|Yet another gift? You're quite curious, little creature!
+it-lttm-GiveJunkFriend-I1|Yet another gift? You're quite curious, little friend!
+it-lttm-GiveJunkArchaeologist-I1|Yet another gift? You're quite curious, little archaeologist!
+it-lttm-GiveJunkCreature-J1|Yet another thing? Your curiosity seems boundless, little creature.
+it-lttm-GiveJunkFriend-J1|Yet another thing? Your curiosity seems boundless, little friend.
+it-lttm-GiveJunkArchaeologist-J1|Yet another thing? Your curiosity seems boundless, little archaeologist.
 it-lttm-GiveJunk-K1|Oh... I will look at it.
-it-lttm-GiveJunk-L1|Something you want me to look at, I suppose, <little creature>?
+it-lttm-GiveJunkCreature-L1|Something you want me to look at, I suppose, little creature?
+it-lttm-GiveJunkFriend-L1|Something you want me to look at, I suppose, little friend?
+it-lttm-GiveJunkArchaeologist-L1|Something you want me to look at, I suppose, little archaeologist?
 it-lttm-GiveJunk-M1|Oh... Of course I will take a look
 it-lttm-GiveJunk-N1|Oh... I will take a look
 it-lttm-GiveJunk-O1|You want me to take a look at that?
 it-lttm-GiveJunk-P1|Oh... Should I look at that?
-it-lttm-GiveJunk-Q1|A gift for me, <little creature>?
-it-lttm-GiveJunk-R1|A new gift for me, <little creature>?
-it-lttm-GiveJunk-S1|Oh, what is that, <little creature>?
-it-lttm-GiveJunk-T1|Something new you want me to look at, <little creature>?
+it-lttm-GiveJunkCreature-Q1|A gift for me, little creature?
+it-lttm-GiveJunkFriend-Q1|A gift for me, little friend?
+it-lttm-GiveJunkArchaeologist-Q1|A gift for me, little archaeologist?
+it-lttm-GiveJunkCreature-R1|A new gift for me, little creature?
+it-lttm-GiveJunkFriend-R1|A new gift for me, little friend?
+it-lttm-GiveJunkArchaeologist-R1|A new gift for me, little archaeologist?
+it-lttm-GiveJunkCreature-S1|Oh, what is that, little creature?
+it-lttm-GiveJunkFriend-S1|Oh, what is that, little friend?
+it-lttm-GiveJunkArchaeologist-S1|Oh, what is that, little archaeologist?
+it-lttm-GiveJunkCreature-T1|Something new you want me to look at, little creature?
+it-lttm-GiveJunkFriend-T1|Something new you want me to look at, little friend?
+it-lttm-GiveJunkArchaeologist-T1|Something new you want me to look at, little archaeologist?
 
 // 4 Neurons
 
-it-lttm-GiveJunkDislikesYou-A1|I have nothing to say to you, <little creature>.
-it-lttm-GiveJunkDislikesYou-B1|Go away, <little creature>.
+it-lttm-GiveJunkDislikesYouCreature-A1|I have nothing to say to you, little creature.
+it-lttm-GiveJunkDislikesYouTormentor-A1|I have nothing to say to you, little tormentor.
+it-lttm-GiveJunkDislikesYouCreature-B1|Go away, little creature.
+it-lttm-GiveJunkDislikesYouTormentor-B1|Go away, little tormentor.
 it-lttm-GiveJunkDislikesYou-C1|Leave me alone...
 it-lttm-GiveJunkDislikesYou-D1|Stop! Stop giving me your junk!
 it-lttm-GiveJunkDislikesYou-E1|Leave me alone! You terrible creature!
 
 // 2-4 Neurons
 
-it-lttm-GiveJunkDislikesYou-F1|No! <Little creature> ate... me!
+it-lttm-GiveJunkDislikesYouCreature-F1|No! Little creature ate... me!
+it-lttm-GiveJunkDislikesYouTormentor-F1|No! Little tormentor ate... me!
+it-lttm-GiveJunkDislikesYouCreatureB-F1|No! Little... creature ate... me!
 it-lttm-GiveJunkDislikesYou-G1|Go... away! You ate... me!
 it-lttm-GiveJunkDislikesYou-H1|No! Am... broken... because you...
 it-lttm-GiveJunkDislikesYou-I1|No!
@@ -480,16 +517,30 @@ it-lttm-GiveJunkDislikesYou-L1|Too... broken...
 it-lttm-GiveJunkDislikesYou-M1|No! You... killed... me!
 
 // Stuff you've already given her
-it-lttm-pearl-GiveAlreadyRead-A1|Oh, I have already read this one to you, <little creature>.
-it-lttm-pearl-GiveAlreadyRead-B1|This one I’ve already read to you, <little creature>.
-it-lttm-pearl-GiveAlreadyRead-C1|This one again, <little creature>?
+it-lttm-pearl-GiveAlreadyReadCreature-A1|Oh, I have already read this one to you, little creature.
+it-lttm-pearl-GiveAlreadyReadFriend-A1|Oh, I have already read this one to you, little friend.
+it-lttm-pearl-GiveAlreadyReadArchaeologist-A1|Oh, I have already read this one to you, little archaeologist.
+it-lttm-pearl-GiveAlreadyReadCreature-B1|This one I’ve already read to you, little creature.
+it-lttm-pearl-GiveAlreadyReadFriend-B1|This one I’ve already read to you, little friend.
+it-lttm-pearl-GiveAlreadyReadArchaeologist-B1|This one I’ve already read to you, little archaeologist.
+it-lttm-pearl-GiveAlreadyReadCreature-C1|This one again, little creature?
+it-lttm-pearl-GiveAlreadyReadFriend-C1|This one again, little friend?
+it-lttm-pearl-GiveAlreadyReadArchaeologist-C1|This one again, little archaeologist?
 
-it-lttm-GiveAlreadyReadJunk-A1|I think we have already talked about this one, <little creature>.
-it-lttm-GiveAlreadyReadJunk-B1|I've told you about this one, <little creature>.
-it-lttm-GiveAlreadyReadJunk-C1|<Little creature>, this one again?
+it-lttm-GiveAlreadyReadJunkCreature-A1|I think we have already talked about this one, little creature.
+it-lttm-GiveAlreadyReadJunkFriend-A1|I think we have already talked about this one, little friend.
+it-lttm-GiveAlreadyReadJunkArchaeologist-A1|I think we have already talked about this one, little archaeologist.
+it-lttm-GiveAlreadyReadJunkCreature-B1|I've told you about this one, little creature.
+it-lttm-GiveAlreadyReadJunkFriend-B1|I've told you about this one, little friend.
+it-lttm-GiveAlreadyReadJunkArchaeologist-B1|I've told you about this one, little archaeologist.
+it-lttm-GiveAlreadyReadJunkCreature-C1|Little creature, this one again?
+it-lttm-GiveAlreadyReadJunkFriend-C1|Little friend, this one again?
+it-lttm-GiveAlreadyReadJunkArchaeologist-C1|Little archaeologist, this one again?
 
 it-lttm-TakeBackJunkWhileTalking-A1|Oh... Never mind, I suppose.
-it-lttm-TakeBackJunkWhileTalking-B1|Want it back, <little creature>?
+it-lttm-TakeBackJunkWhileTalkingCreature-B1|Want it back, little creature?
+it-lttm-TakeBackJunkWhileTalkingFriend-B1|Want it back, little friend?
+it-lttm-TakeBackJunkWhileTalkingArchaeologist-B1|Want it back, little archaeologist?
 it-lttm-TakeBackJunkWhileTalking-C1|Oh... Yes, you're welcome to have it back.
 it-lttm-TakeBackJunkWhileTalking-D1|Oh, you want it back?
 it-lttm-TakeBackJunkWhileTalking-E1|And now you're taking it back.
@@ -521,7 +572,9 @@ it-lttm-pearl-Before5PPearl-E2|And this one is fresh! It was not long ago this d
 // Seeing scug with a fly
 
 it-lttm-SeeWithFly-A1|That... That is for me?
-it-lttm-SeeWithFly-B1|Ah... <little creature>, a neuron from Pebbles?
+it-lttm-SeeWithFlyCreature-B1|Ah... little creature, a neuron from Pebbles?
+it-lttm-SeeWithFlyFriend-B1|Ah... little friend, a neuron from Pebbles?
+it-lttm-SeeWithFlyArchaeologist-B1|Ah... little archaeologist, a neuron from Pebbles?
 it-lttm-SeeWithFly-C1|Hello! That... Oh, thank you.
 it-lttm-SeeWithFly-D1|Hello. That... Oh, thank you.
 it-lttm-SeeWithFlyDislike-A1|You are bringing a neuron. Is it to taunt me?
@@ -592,7 +645,9 @@ it-lttm-InteruptFourthTimeA1|Yes, there you go.
 it-lttm-InteruptFourthTimeB1|Again.
 it-lttm-InteruptFourthTimeC1|*sigh*
 it-lttm-InteruptFourthTimeD1|This again.
-it-lttm-InteruptFourthTimeE1|<Little creature>... Never mind.
+it-lttm-InteruptFourthTimeCreatureE1|Little creature... Never mind.
+it-lttm-InteruptFourthTimeFriendE1|Little friend... Never mind.
+it-lttm-InteruptFourthTimeArchaeologistE1|Little archaeologist... Never mind.
 it-lttm-InteruptFourthTimeDislikesYou1|Yes, there you go. This is ridiculous.
 it-lttm-InteruptFourthTimeLessThan4Neurons1|Again? ... just, go.
 
@@ -612,7 +667,9 @@ it-lttm-MovingInteruptFirstTimeLessThan4Neurons1|...please... be still...
 it-lttm-MovingInteruptSecondTime1|Little creature! Stay still and listen.
 it-lttm-MovingInteruptSecondTimeLessThan4Neurons1|...stop...
 
-it-lttm-MovingInteruptThirdTimeA1|<Little creature>! Stay still and listen.
+it-lttm-MovingInteruptThirdTimeCreatureA1|Little creature! Stay still and listen.
+it-lttm-MovingInteruptThirdTimeFriendA1|Little friend! Stay still and listen.
+it-lttm-MovingInteruptThirdTimeArchaeologistA1|Little archaeologist! Stay still and listen.
 it-lttm-MovingInteruptThirdTimeB1|I won't talk to you if you continue like this.
 it-lttm-MovingInteruptThirdTimeC1|Why should I tolerate this?
 it-lttm-MovingInteruptThirdTimeD1|STOP!
@@ -624,8 +681,8 @@ it-lttm-MovingInteruptFithTimeLessThan4Neurons1|I will...not speak to you...
 
 //Grab a neuron fly
 
-it-lttm-InteruptGrabNeuronFirstTime1|No, please, release it!
-it-lttm-InteruptGrabNeuronFirstTime2|If you eat it or leave with it, I will die. I beg you.
+it-lttm-InteruptGrabNeuronFirstTime1|no, please, release it!
+it-lttm-InteruptGrabNeuronFirstTime2|if you eat it or leave with it, i will die. i beg you.
 
 it-lttm-InteruptGrabNeuronFirstTimeLessThan4Neurons1|NO! ... no. Let it go, please.
 it-lttm-InteruptGrabNeuronFirstTimeLessThan4Neurons2|...please...
@@ -634,13 +691,16 @@ it-lttm-InteruptGrabNeuronSecondTime1|Release that, and leave. I will not speak 
 it-lttm-InteruptGrabNeuronSecondTimeLessThan4Neurons1|NO! I will...not speak to you...
 
 
-it-lttm-ReleaseGrabbedNeuron1|I must ask you... Don't do that again. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronCreature1|I must ask you... Don't do that again. Little creature, if you do that, I will not speak to you any more.
 it-lttm-ReleaseGrabbedNeuronLessThan4Neurons1|Please... don't do... that. I... won't speak to you... if you do that.
 
-it-lttm-ReleaseGrabbedNeuronLikesYou1|Thank you. I must ask you... Don't do that again. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronLikesYouCreature1|Thank you. I must ask you... Don't do that again. Little creature, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronLikesYouFriend1|Thank you. I must ask you... Don't do that again. Little friend, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronLikesYouArcheaologist1|Thank you. I must ask you... Don't do that again. Little archaeologist, if you do that, I will not speak to you any more.
 it-lttm-ReleaseGrabbedNeuronLikesYouLessThan4Neurons1|Thank... you. I... won't speak to you... if you do that.
 
-it-lttm-ReleaseGrabbedNeuronDislikesYou1|Never do that again. Or just kill me quickly. Whichever way. <Little creature>, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronDislikesYouCreature1|Never do that again. Or just kill me quickly. Whichever way. Little creature, if you do that, I will not speak to you any more.
+it-lttm-ReleaseGrabbedNeuronDislikesYouTormentor1|Never do that again. Or just kill me quickly. Whichever way. Little tormentor, if you do that, I will not speak to you any more.
 it-lttm-ReleaseGrabbedNeuronDislikesYouLessThan4Neurons1|..don’t... do that. I... won't speak to you... if you do that.
 
 //Resuming after an interuption
@@ -676,7 +736,10 @@ it-lttm-ResumeAfterInteruptFithTime3|Look at me. The only thing I have to offer 
 it-lttm-ResumeAfterInteruptFithTime4|Now if you'll let me, I will try to say this again.
 it-lttm-ResumeAfterInteruptFithTimeLessThan4Neurons1|I am... too tired. Stop doing... this, or I... will not speak... to you again.
 
-it-lttm-AnnoyedAtSlugMovingFirstTime1|<Little creature>... Please settle down.
+it-lttm-AnnoyedAtSlugMovingFirstTimeCreature1|Little creature... Please settle down.
+it-lttm-AnnoyedAtSlugMovingFirstTimeFriend1|Little friend... Please settle down.
+it-lttm-AnnoyedAtSlugMovingFirstTimeArchaeologist1|Little archaeologist... Please settle down.
+it-lttm-AnnoyedAtSlugMovingFirstTimeTormentor1|Little tormentor... Please settle down.
 it-lttm-AnnoyedAtSlugMovingFirstTimeLessThan4Neurons1|...stop...
 
 it-lttm-AnnoyedAtSlugMovingSecondTime1|Please stop it!
@@ -698,7 +761,9 @@ it-lttm-StopAnnoyingLessThan4Neurons1|...thank you.
 // When the rain comes (spooky)
 
 it-lttm-RainImminent5Neurons1|I think the rain is approaching.
-it-lttm-RainImminent5Neurons2|You better go, <little creature>! I will be fine. It's not pleasant, but I have been through it before.
+it-lttm-RainImminent5NeuronsCreature2|You better go, little creature! I will be fine. It's not pleasant, but I have been through it before.
+it-lttm-RainImminent5NeuronsFriend2|You better go, little friend! I will be fine. It's not pleasant, but I have been through it before.
+it-lttm-RainImminent5NeuronsArchaeologist2|You better go, little archaeologist! I will be fine. It's not pleasant, but I have been through it before.
 it-lttm-RainImminent5NeuronsSlugpup1|Keep your family safe!
 it-lttm-RainImminent5NeuronsCreature1|Keep your friend safe!
 
@@ -713,7 +778,9 @@ it-lttm-RainImminent3Neurons1|...rain... coming... Go!
 it-lttm-RainImminent2Neurons1|...rain...
 it-lttm-RainImminent2Neurons2|run
 
-it-lttm-SlugDeath1|<Little creature>, are you okay?
+it-lttm-SlugDeathCreature1|Little creature, are you okay?
+it-lttm-SlugDeathFriend1|Little friend, are you okay?
+it-lttm-SlugDeathArchaeologist1|Little archaeologist, are you okay?
 it-lttm-SlugDeath2|Oh...
 
 
@@ -721,7 +788,9 @@ it-lttm-SlugDeath2|Oh...
 
 it-lttm-BringCreatureFirstTime1|I do enjoy the company of you and your friend, quiet little thing.
 
-it-lttm-BringCreatureSecondTime1|Is this your friend, <little creature>?
+it-lttm-BringCreatureSecondTimeCreature1|Is this your friend, little creature?
+it-lttm-BringCreatureSecondTimeFriend1|Is this your friend, little friend?
+it-lttm-BringCreatureSecondTimeArchaeologist1|Is this your friend, little archaeologist?
 it-lttm-BringCreatureSecondTimeDislikesYou1|Please do not bring more wildlife into my chamber.
 
 // Moon Joke Dialouge
@@ -796,7 +865,6 @@ it-5pBringPup2|I must resume my work.
 
 it-5pBringCreature1|Best of luck to you, and your companion. There is nothing else I can do.
 it-5pBringCreature2|I must resume my work.
-
 
 
 
