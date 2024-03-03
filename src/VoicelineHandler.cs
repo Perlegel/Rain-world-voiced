@@ -77,7 +77,7 @@ public static class VoicelineHandler
             
             foreach (var kvp in Sounds)
             {
-                strings[index] = $"{kvp.Value.value} : {kvp.Value.value.Substring(SOUND_PREFIX.Length)}";
+                strings[index] = $"{kvp.Value.value}/dopplerFac=0 : {kvp.Value.value.Substring(SOUND_PREFIX.Length)}";
                 index++;
             }
 

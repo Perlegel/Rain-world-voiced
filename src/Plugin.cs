@@ -18,14 +18,17 @@ public class Plugin : BaseUnityPlugin
 
     public bool IsInit;
 
-    private void OnEnable()
+    public void OnEnable()
     {
         On.RainWorld.OnModsInit += RainWorld_OnModsInit;
+
     }
+
 
     private void RainWorld_OnModsInit(On.RainWorld.orig_OnModsInit orig, RainWorld self)
     {
         orig(self);
+        MachineConnector.SetRegisteredOI(MOD_ID, new RWVRemixMenu());
 
         try
         {
