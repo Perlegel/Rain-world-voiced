@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using IL.Menu;
+using JetBrains.Annotations;
+using System.Collections.Generic;
+using System.Drawing.Text;
 
 namespace RainWorldVoiced;
 
@@ -17,7 +20,6 @@ public static class Translator
 
     //-- TODO: Handle <PLAYERNAME>, <CAPPLAYERNAME>, <PlayerName>, <CapPlayerName>
     public static string Untranslate(string text) => ReverseTranslations.TryGetValue(text.Replace("\r\n", "<LINE>"), out var result) ? result : text;
-
     private static void StoreTranslation(string from, string to) => ReverseTranslations[to] = from;
 
     private static string InGameTranslator_Translate(On.InGameTranslator.orig_Translate orig, InGameTranslator self, string s)
